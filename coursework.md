@@ -34,7 +34,6 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-<!--
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
@@ -51,18 +50,13 @@ If you have any questions on the following assessments, please [contact](/contac
 <a id="assessment2"></a>
 ###### 2. DEV week assessment (30%)
 
-* begin development of a mobile application
-  * **not** a responsive website viewed on a mobile device
-* can be platform agnostic or specific targeted OS
-    * eg: Android, iOS...
-    * consider choice, and explain why?
-* outline concept, research conducted to date
-* consider applicable design patterns
-* are you using any sensors etc?
-  * how, why?
-* prototyping
-  * demo current prototypes
-  * any working tests or models etc
+* begin development of a web application
+  * built from scratch
+  * builds upon examples, technology outlined during weeks 1 to 6
+* outline research conducted
+* describe data chosen for application
+* show any prototypes, patterns, and designs
+
     
 **NB:** DEV week assessment will include the following:
 
@@ -71,7 +65,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * analysis of work conducted so far
     * eg: during semester & DEV week
   * presentation, demonstration, or video overview...
-    * outline mobile app
+    * outline current state of web app
     * show prototypes and designs
     * explain what works & does not work
     * ...
@@ -82,20 +76,22 @@ If you have any questions on the following assessments, please [contact](/contac
 * continue to develop your app concept and prototypes
 * working app (as close as possible...)
 * explain design decisions
-  * outline what you chose and why?
-  * what else did you consider, and then omit? (again, why?)
-* which platform/OS did you choose, and why?
-* which concepts could you abstract for easy porting to other platform/OS?
-* describe patterns used in design of UI and interaction
+  * describe patterns used in design of UI and interaction
+  * layout choices...
+* show and explain implemented differences from DEV week
+  * where are why did you update the app?
+  * perceived benefits of the updates?
+* how did you respond to peer review?
+* ...
 
 #### Important assessment dates
 
 * DEV week demo
-  * due 16th October 2015 @ 2.45pm
+  * due 15th October 2015 @ 4.15pm
 * final team demo
-  * due 4th December 2015 @ 2.45pm
+  * due 3rd December 2015 @ 4.15pm
 * final team report
-  * due 11th December 2015 @ 5.15pm
+  * due 10th December 2015 @ 6.45pm
 
 #### Grading
 
@@ -112,6 +108,4 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
-
--->  
   
