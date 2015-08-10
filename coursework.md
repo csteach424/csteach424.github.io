@@ -16,24 +16,25 @@ Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
-<!--
 #### Overview
 
 * assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
   * DEV week demo
     * brief group presentation or demo
   * final demo
-    * presentation, online demo, video overview...it's your choice
+    * presentation, online demo, video overview...
   * final report
     * clearly detail design and development process
-    * outline testing, prototypes etc
-    * explain what does and does not work in your final app
-    * detail concepts and ideas for further development of this mobile application
+    * explain implemented differences from DEV week
+      * where and why did you update the app?
+      * benefits of updates
+      * ...
   * work may be conducted individually or in groups (max. 5 persons per group)
     * **hint**: working as a group will be a lot easier
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
+<!--
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
