@@ -13,7 +13,7 @@ published: true
 summary: site indices for posts, media, and other content
 ---
 
-Current *Comp 422* content has been organised into the following groupings. 
+Current *Comp 424* content has been organised into the following groupings. 
 
 #### Content - Site
 * [Site Posts](posts)
