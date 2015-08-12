@@ -71,4 +71,6 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+* W3C
+  * [Standards](http://www.w3.org/standards/)
 
