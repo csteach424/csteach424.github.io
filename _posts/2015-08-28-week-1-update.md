@@ -11,7 +11,7 @@ year: 2015
 month: 08
 day: 28
 published: true
-summary: week 1 update details and links
+summary: site update for week 1
 menu: new-semester
 ---
 
