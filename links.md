@@ -12,7 +12,7 @@ published: true
 summary: suggested links and resources for COMP 424
 ---
 
-This list contains a variety of information, suggestions, and generally interesting material. 
+This list contains a variety of information, suggestions, and generally interesting material.
 
 This section will be updated on a weekly basis during the Fall semester.
 
@@ -22,10 +22,11 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
+
 #### Articles / Papers
 
-* -->
+* Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -38,8 +39,8 @@ If you have any suggestions for additions to this section of the site, please fe
     * [JQuery UI](http://jqueryui.com/)
   * [Pure CSS](http://purecss.io/)
   * [Skeleton](http://getskeleton.com/)
-  
-**NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) 
+
+**NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
 
 #### Mockup and Prototype Tools - a few examples
@@ -54,10 +55,19 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
-<!--
+
 #### Videos
 
-* -->
+* Introducing Atom = [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+* Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+* W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+
+#### Useful Tools
+
+* [Firebug](http://getfirebug.com/)
+* [Git](http://git-scm.com/)
+  * [Pro Git](http://git-scm.com/book/en/v2)
+* [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites
 
@@ -73,4 +83,4 @@ and choose your favourite.
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * W3C
   * [Standards](http://www.w3.org/standards/)
-
+  * [App Foundations](http://www.w3.org/appfoundations/)
