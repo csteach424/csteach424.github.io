@@ -17,8 +17,6 @@ summary: weekly assignment for COMP 424
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the HTML5 code examples posted to the **source** repository on the course' GitHub account,
   * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
-* Review the following documentation
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
 * Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
   * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
 
