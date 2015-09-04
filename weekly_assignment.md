@@ -12,6 +12,16 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 2 - 3rd September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review the HTML5 code examples posted to the **source** repository on the course' GitHub account,
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
+* Review the following documentation
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+* Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
+  * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
+
 #### Week 1 - 27th August 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -23,14 +33,14 @@ summary: weekly assignment for COMP 424
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-* Add your initial Project details to the course [Trello board](https://trello.com/comp388424luc), **Week 1 - Project Details**
+* Add your initial Project details to the course [Trello organisation](https://trello.com/comp388424luc), on the board **Week 1 - Project Details**
   * project name
   * team members
   * any ideas you are currently considering for this project work
   * level of experience with HTML, CSS, JS
   * any other current details or information...
 
-The course Trello board is available at the following URL,
+The course Trello organisation is available at the following URL,
 
 * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
 

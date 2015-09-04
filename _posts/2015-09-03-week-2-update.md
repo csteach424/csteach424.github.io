@@ -1,5 +1,5 @@
 ---
-title: Week 1 course update
+title: Week 2 course update
 author: ancientlives
 layout: post-vertical
 
@@ -8,14 +8,14 @@ categories:
 
 tags: general news
 year: 2015
-month: 08
-day: 28
+month: 09
+day: 03
 published: true
-summary: site updated and week 1 assignment
+summary: site updated and week 2 assignment
 menu: new-semester
 ---
 
-The course website has now been updated for this week's class, week 1.
+The course website has now been updated for this week's class, week 2.
 
 Updates include the following,
 
