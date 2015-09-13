@@ -12,6 +12,18 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 3 - 10th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review the CSS code examples posted to the **source** repository on the course' GitHub account,
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2015/week3)
+* Prepare for a quiz, which is scheduled for the end of next week's class
+  * quiz will include material from the course and class notes for weeks 1 to 3 inclusive
+  * quiz will be approximately 30 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+
 #### Week 2 - 3rd September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

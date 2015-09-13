@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 3 - 10th September 2015
+  * [course](/assets/docs/Comp424-week3.pdf)
+
 ##### Week 2 - 3rd September 2015
   * [course](/assets/docs/Comp424-week2.pdf)
 

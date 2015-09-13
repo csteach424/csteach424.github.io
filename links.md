@@ -26,12 +26,17 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
 
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
-  * [W3Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -92,6 +97,7 @@ and choose your favourite.
 * [The Unicode Consortium](http://www.unicode.org/)
 * [Unicode Information](http://www.alanwood.net/unicode/)
   * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
+* [W3 Schools](http://www.w3schools.com/)
 * W3C
   * [Standards](http://www.w3.org/standards/)
   * [App Foundations](http://www.w3.org/appfoundations/)

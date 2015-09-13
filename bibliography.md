@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 3 - 10th September 2015
+
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [W3C - CSS](http://www.w3.org/Style/CSS/)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+
 ###### Week 2 - 3rd September 2015
 
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
