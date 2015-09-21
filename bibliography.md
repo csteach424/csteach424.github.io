@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 4 - 17th September 2015
+
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
+
 ###### Week 3 - 10th September 2015
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)

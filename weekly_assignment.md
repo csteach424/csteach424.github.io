@@ -12,6 +12,28 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 4 - 17th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples currently available on JSFiddle
+  * [JSFiddle - ancientlives](http://jsfiddle.net/user/ancientlives/fiddles/)
+* Please start to design and outline your project's application and website
+  * consider initial pages, content, navigation, and required user interaction
+  * what is the primary goal of the homepage for this application/website
+    * consider content sections, navigation options, possible user interactions...
+  * detail at least three other aspects of your current project design/concept
+    * eg: other pages, tools, search options, content designs, views or overlays...
+  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
+    * views can include content pages/screens, dialogs, overlays, admin/account screens...
+  * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello organisation.
+    * I've added initial instructions to this card, which is available at the following URL,
+      * [Week 4 - Project Mockups](https://trello.com/b/XR9T28o0/week-4-project-mockups)
+
+NB: further information on mockups can be found in the following document
+
+  * [Mockups](/assets/docs/Comp424-mockups.pdf)
+
 #### Week 3 - 10th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

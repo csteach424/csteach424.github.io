@@ -32,6 +32,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
@@ -41,13 +42,18 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [Bootstrap](http://getbootstrap.com/)
+  * [AngularJS](https://angularjs.org/)
+  * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
+  * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
   * JQuery
     * [JQuery](https://jquery.com/)
     * [JQuery UI](http://jqueryui.com/)
+  * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
+  * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
 
 **NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
