@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 5 - 24th September 2015
+
+  * [jQuery API](https://api.jquery.com/)
+  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
+  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+
 ###### Week 4 - 17th September 2015
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)

@@ -30,6 +30,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [jQuery API](https://api.jquery.com/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -85,6 +86,8 @@ and choose your favourite.
   * [Pro Git](http://git-scm.com/book/en/v2)
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
+* [JSLint - JavaScript Validator](http://jslint.com/)
+* [JSONLint - JSON Validator](http://jsonlint.com/)
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites

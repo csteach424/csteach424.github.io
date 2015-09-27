@@ -12,6 +12,38 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 5 - 24th September 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples currently available on JSFiddle
+  * [JSFiddle - ancientlives](http://jsfiddle.net/user/ancientlives/fiddles/)
+* Using the week 5 code examples available on the course' GitHub repository,
+  * [GitHub - Week 5 code examples](https://github.com/csteach424/source/tree/master/2015/week5)
+  * update [demo 8](https://github.com/csteach424/source/tree/master/2015/week5/demo8) to add the following,
+    * additional styling to help differentiate each note in the `note-output` section
+    * a delete option per note in the `note-output` section
+    * a delete option for all notes in the `note-output` section
+  * send this updated code to the course' TA, [Nema Nemati](mailto:nenemati@gmail.com?subject=COMP 424 - Week 5 assignment), by the start of the next class
+    * either a link to the code on GitHub or Bitbucket
+    * or shared via a storage service such as Drive, Dropbox, Box, or OneDrive
+    * or a zipped file attached to an [email](mailto:nenemati@gmail.com?subject=COMP 424 - Week 5 assignment)
+* Outline the following components of your group project's application,
+  * clearly detail consistency considerations for each page and each content category
+    * chosen colour schemes, and why, for each of the above
+    * icons or graphics chosen per view for each of the above
+    * detail how each page and content category fits into the site's overall design scheme
+    * also detail how consistency is applied to improve user interaction with your site
+  * please read the following brief notes on design, interface, and consistency,
+    * [design interface - intro](http://csteach424.github.io/assets/docs/design-interface-intro.pdf)
+    * [design consistency - basics](http://csteach424.github.io/assets/docs/design-consistency-basics.pdf)
+  * Please add this information, and any associated mockups or sketches, to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
+    * [Week 5 - Navigation & Consistency](https://trello.com/b/rLevJUCp/week-5-navigation-consistency)
+* Please contribute to this week's class discussion on Slack, **week5-discussion**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+  * consider organisation of content
+  * general consistency of design, colours, interaction options
+  * navigation and data presentation patterns
+
 #### Week 4 - 17th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
