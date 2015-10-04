@@ -12,6 +12,21 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 6 & 7 - 1st October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples available on the course' GitHub repository,
+  * [GitHub - Week 6 code examples](https://github.com/csteach424/source/tree/master/2015/week6)
+* Prepare you DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add weekly updates on your group's project development to the course' Trello organisation,
+  * [Week 6 updates](https://trello.com/b/Bw8QnwWK/week-6-dev-week-update-1)
+  * [Week 7 updates](https://trello.com/b/mT2rkEu9/week-7-dev-week-update-2)
+
+[Any questions, please let me know](mailto:nhayward@luc.edu?subject=DEV Week assignment).
+
 #### Week 5 - 24th September 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

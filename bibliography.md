@@ -20,6 +20,15 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 6 - 1st October 2015
+
+  * [jQuery and AJAX](http://api.jquery.com/category/ajax/)
+  * jQuery and JSON
+    * [jQuery - .getJSON()](http://api.jquery.com/jquery.getjson/)
+    * [jQuery - .parseJSON()](http://api.jquery.com/jquery.parsejson/)
+  * [jQuery - DOM removal](http://api.jquery.com/category/manipulation/dom-removal/)
+  * [JSON](http://www.json.org/)
+
 ###### Week 5 - 24th September 2015
 
   * [jQuery API](https://api.jquery.com/)

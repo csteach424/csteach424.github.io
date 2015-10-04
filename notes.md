@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 6 - 1st October 2015
+  * [course](/assets/docs/Comp424-week6.pdf)
+  * [designing our app](/assets/docs/design-our-app.pdf)
+
 ##### Week 5 - 24th September 2015
   * [course](/assets/docs/Comp424-week5.pdf)
   * [design and interface - intro](/assets/docs/design-interface-intro.pdf)

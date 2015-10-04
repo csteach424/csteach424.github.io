@@ -31,6 +31,7 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Documentation & Guides
 
   * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
