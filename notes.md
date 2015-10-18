@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 8 - 15th October 2015
+  * N/A
+
 ##### Week 6 - 1st October 2015
   * [course](/assets/docs/Comp424-week6.pdf)
   * [designing our app](/assets/docs/design-our-app.pdf)

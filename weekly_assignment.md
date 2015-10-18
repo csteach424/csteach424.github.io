@@ -12,6 +12,38 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 8 - 15th October 2015
+
+* Complete the following peer review forms for the DEV Week projects and presentations
+  * [Group 1 - Team PvsNP](https://goo.gl/8d7iwL)
+  * [Group 2 - Team HSS](https://goo.gl/0eL0kM)
+  * [Group 3 - Team CSWD](https://goo.gl/LnBf42)
+  * [Group 4 - Team DATA](https://goo.gl/r446Ap)
+  * [Group 5 - Team PINNACLE (Chicago Writer's Block)](https://goo.gl/ilCNgL)
+  * [Group 6 - Team PROJECT CHICAGO FIRE RESTAURANT](https://goo.gl/wVLZ3w)
+  * [Group 7 - Team JAC](https://goo.gl/hllspo)
+  * [Group 8 - Team PRISONERS VS TOOTH DECAY](https://goo.gl/ii5qsW)
+* Complete these peer review forms by the end of **Wednesday 21st October**
+* You may use the new Slack channel, **week8-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week.
+* Please send your completed DEV Week presentation to myself and the course TA, Nema Nemati
+  * share as an attachment or link on Slack
+* Please share your completed DEV Week code, and any associated files or data, with myself and the course TA
+  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * any problems with setting up or using either service, please [contact the course TA](mailto:nenemati@gmail.com?subject=COMP424 Dev Week)
+* Ensure that your project group has updated all of the current Trello boards on the course' Trello organisation
+  * this is up to and including the 'Week 7 - DEV week update 2' board
+  * must be completed by end of Sunday 18th October 2015
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Project Contributions](https://trello.com/b/AHjL2PiI/week-8-dev-week-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+* Please contribute to this week's class discussion on Slack, **week8-discussion**, for the website, [Werner Design Werks](http://wdw.com/)
+  * consider overall aesthetics for the website, including use of typography, images...
+  * consider organisation and presentation of data
+  * consider website's design as a reflection of its goals
+    * eg: how is the content influencing the site's design, organisation, and general layout
+  * how do they use their site to engage with their users, customers, and general visitors?
+    * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
+
 #### Week 6 & 7 - 1st October 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -52,7 +84,7 @@ summary: weekly assignment for COMP 424
   * please read the following brief notes on design, interface, and consistency,
     * [design interface - intro](http://csteach424.github.io/assets/docs/design-interface-intro.pdf)
     * [design consistency - basics](http://csteach424.github.io/assets/docs/design-consistency-basics.pdf)
-  * Please add this information, and any associated mockups or sketches, to this week's card on the course' Trello organisation. I've added initial instructions to this card, which is available at the following URL,
+  * Please add this information, and any associated mockups or sketches, to this week's board on the course' Trello organisation. I've added initial instructions to this board, which is available at the following URL,
     * [Week 5 - Navigation & Consistency](https://trello.com/b/rLevJUCp/week-5-navigation-consistency)
 * Please contribute to this week's class discussion on Slack, **week5-discussion**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
   * consider organisation of content
@@ -73,8 +105,8 @@ summary: weekly assignment for COMP 424
     * eg: other pages, tools, search options, content designs, views or overlays...
   * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
     * views can include content pages/screens, dialogs, overlays, admin/account screens...
-  * Please add this information, and associated mockup images or drawings, to this week's card on the course' Trello organisation.
-    * I've added initial instructions to this card, which is available at the following URL,
+  * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello organisation.
+    * I've added initial instructions to this board, which is available at the following URL,
       * [Week 4 - Project Mockups](https://trello.com/b/XR9T28o0/week-4-project-mockups)
 
 NB: further information on mockups can be found in the following document

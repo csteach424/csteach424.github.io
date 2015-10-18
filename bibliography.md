@@ -20,6 +20,10 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 8 - 15th October 2015
+
+  * N/A
+
 ###### Week 6 - 1st October 2015
 
   * [jQuery and AJAX](http://api.jquery.com/category/ajax/)
