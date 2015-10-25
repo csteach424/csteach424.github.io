@@ -20,6 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 9 - 22nd October 2015
+
+  * jQuery
+    * [jQuery - getJSON](http://api.jquery.com/jquery.getjson/)
+  * [JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
+
 ###### Week 8 - 15th October 2015
 
   * N/A

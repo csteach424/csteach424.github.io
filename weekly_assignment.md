@@ -12,6 +12,19 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 9 - 22nd October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2015/week9)
+* Please contribute to this week's class discussion on Slack, **week9-discussion**, for the website, [The Louvre](http://www.louvre.fr/en/)
+  * please consider this site's presentation of media, and its organisation and structure
+  * how does the site present its cultural assets to help engage with users and visitors?
+  * consider data organisation, and the available search and filter options?
+    * how easy is it to find examples of artefacts and objects within the site's catalogue?
+  * how well do they manage the presentation of site resources in different natural languages?
+    * eg: did you notice any difference in content, format, or options from French to English etc?
+
 #### Week 8 - 15th October 2015
 
 * Complete the following peer review forms for the DEV Week projects and presentations
