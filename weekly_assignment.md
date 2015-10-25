@@ -14,6 +14,15 @@ summary: weekly assignment for COMP 424
 
 #### Week 9 - 22nd October 2015
 
+* Complete the following peer review forms for the DEV Week projects and presentations
+  * [Group 9 - Crazy Traffic](https://docs.google.com/forms/d/1XGHLkvFaXExVXY8k92GwAJkU6vu90_Xo0k95wtisewk/viewform)
+  * [Group 10 - CruiseBod](https://docs.google.com/forms/d/1F9bIzNRu7Q575jeA9AMsYQifcpQIQ-2raVN2AjQyS8U/viewform)
+  * [Group 11 - Ride My Bike](https://docs.google.com/forms/d/1-5g-tUKKosyRGVBfmoyrrbAq72Tq1YTP15IBRqSpo4s/viewform)
+* Complete these peer review forms by **Wednesday 28th October**
+* Please continue to use the Slack channel, week8-review, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* **Team members for Groups 9, 10, & 11**
+  * please send your completed DEV Week presentation and code to myself @ [ancientlives@gmail.com](mailto:ancientlives@gmail.com?subject=Week 9 Dev week)
+  * please ensure all Trello boards are up to date for this DEV Week work and presentations
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2015/week9)
