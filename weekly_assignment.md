@@ -12,6 +12,23 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 10 - 29th October 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2015/week10)
+* Please create a list on the [Week 10 - Patterns](https://trello.com/b/Knf2ykhU/week-10-patterns) Trello board for your group, and add the following details,
+  * examples of interaction within your site that would benefit by using jQuery's Deferred object
+  * other events or requests within your site that would also benefit from jQuery's Deferred object
+  * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
+* Please contribute to this week's class discussion on Slack, **week10-discussion**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * please consider this site's overall aesthetics, graphics, and general images
+  * does the form match the intended function?
+  * is it a useful website for its intended target, a restaurant?
+  * what would you change in the site's design and usage, and why? 
+
+Any questions, please let me know.
+
 #### Week 9 - 22nd October 2015
 
 * Complete the following peer review forms for the DEV Week projects and presentations

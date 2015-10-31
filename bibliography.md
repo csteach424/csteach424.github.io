@@ -12,13 +12,24 @@ published: true
 summary: course bibliography and references for COMP 424
 ---
 
-The course bibliography will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
+The course 'bibliography & references' will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
 
 References will be cited at the end of each week's notes.
 
-#### Bibliography
+#### Bibliography & References
 
 There is no specific textbook for this course.
+
+###### Week 10 - 29th October 2015
+
+  * jQuery
+    * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+    * [jQuery - promise](https://api.jquery.com/promise/)
+  * Flickr API
+    * [Public feeds](https://www.flickr.com/services/feeds/)
+    * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+  * Various
+    * [Create your own AJAX loader](http://www.ajaxload.info/)
 
 ###### Week 9 - 22nd October 2015
 
