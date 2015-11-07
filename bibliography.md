@@ -20,6 +20,20 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+###### Week 11 - 5th November 2015
+
+  * Homebrew for OS X
+    * [Homebrew - the missing package manager for OS X](http://brew.sh/)
+  * MongoDB
+    * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
+  * Mongoose
+    * [MongooseJS Docs](http://mongoosejs.com/index.html)
+  * Node.js
+    * [Node.js](https://nodejs.org/en/)
+    * [ExpressJS](http://expressjs.com/)
+  * Redis
+    * [redis.io](http://redis.io/)
+
 ###### Week 10 - 29th October 2015
 
   * jQuery

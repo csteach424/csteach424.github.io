@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 11 - 5th November 2015
+  * [course](/assets/docs/Comp424-week11.pdf)
+
 ##### Week 10 - 29th October 2015
   * [course](/assets/docs/Comp424-week10.pdf)
 
