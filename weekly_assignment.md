@@ -12,6 +12,26 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 12 - 12th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2015/week12)
+* Please create a list on the [Week 12 - Final Plan](https://trello.com/b/ppaLH5uV/week-12-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+* Please contribute to this week's class discussion on Slack, **week12-discussion**, by adding the following information,
+  * choose two favourite data visualistions you've recently seen in an article, website...
+  * why did you choose these visualisations?
+  * what did you like or dislike about each visualisation?
+  * outline the underlying data source, for example a census or opinion poll, geographical data, and so on
+  * did the visualisation help improve understanding of the data?
+
+Any questions, please let me know.
+
 #### Week 11 - 5th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

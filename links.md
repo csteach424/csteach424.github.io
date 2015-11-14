@@ -30,6 +30,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
+  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
@@ -48,7 +50,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
-  * [Bootstrap](http://getbootstrap.com/)
   * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
