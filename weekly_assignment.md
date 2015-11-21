@@ -12,6 +12,14 @@ published: true
 summary: weekly assignment for COMP 424
 ---
 
+#### Week 13 - 19th November 2015
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Please prepare your group's project presentation for Thursday 3rd December
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+
 #### Week 12 - 12th November 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes

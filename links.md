@@ -41,6 +41,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
+  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
+  * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
