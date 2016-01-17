@@ -1,5 +1,5 @@
 ---
-title: Week 12 course update
+title: Week 1 course update
 author: ancientlives
 layout: post-vertical
 
@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2015
-month: 11
-day: 12
+year: 2016
+month: 01
+day: 25
 published: true
-summary: site updated and week 12 assignment
+summary: site updated and week 1 assignment
 menu: new-semester
 ---
 
-The course website has now been updated for this week's class, week 12.
+The course website has now been updated for this week's class, week 1.
 
 Updates include the following,
 

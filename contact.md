@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 424, Fall 2015
+summary: contact details for COMP 424, Spring 2016
 ---
 
 For course enquiries, please use one of the following contact options
@@ -22,7 +22,4 @@ For course enquiries, please use one of the following contact options
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 424 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Thursday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 424 Appointment) at the above office address.
-
-
-
+Office hours for this semester are Monday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 424 Appointment) at the above office address.

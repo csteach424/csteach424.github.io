@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Client-Side Web Design, Fall 2015
+summary: Client-Side Web Design, Spring 2016
 ---
 
-Welcome to the course website for COMP 424, *Client-Side Web Design*. 
+Welcome to the course website for COMP 424, *Client-Side Web Design*.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 
@@ -23,7 +23,3 @@ This course is offered by the [Department of Computer Science](http://www.luc.ed
 
   {{ post.summary }}
 {% endfor %}
-
-
-
-

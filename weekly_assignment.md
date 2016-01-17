@@ -11,7 +11,7 @@ tags: coursework weekly
 published: true
 summary: weekly assignment for COMP 424
 ---
-
+<!--
 #### Week 15 - 3rd December 2015
 
 * Please complete your group's final project report
@@ -220,9 +220,10 @@ NB: further information on mockups can be found in the following document
   * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
 * Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
   * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
+-->
 
-#### Week 1 - 27th August 2015
-
+#### Week 1 - 25th January 2016
+<!--
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the following online Git tutorials
   * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -246,3 +247,4 @@ The course Trello organisation is available at the following URL,
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP424 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
+-->

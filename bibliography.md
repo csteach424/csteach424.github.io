@@ -20,6 +20,7 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
+<!--
 ###### Week 13 - 19th November 2015
 
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
@@ -105,6 +106,7 @@ There is no specific textbook for this course.
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
 
-###### Week 1 - 27th August 2015
+###### Week 1 - 25th January 2016
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+-->

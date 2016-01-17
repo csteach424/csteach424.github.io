@@ -12,7 +12,7 @@ published: true
 summary: coursework for COMP 424
 ---
 
-Course assessment will continue throughout the semester. 
+Course assessment will continue throughout the semester.
 
 If you have any questions on the following assessments, please [contact](/contact) me.
 
@@ -57,7 +57,7 @@ If you have any questions on the following assessments, please [contact](/contac
 * describe data chosen for application
 * show any prototypes, patterns, and designs
 
-    
+
 **NB:** DEV week assessment will include the following:
 
 * brief presentation or demonstration of current project work
@@ -87,16 +87,16 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due 15th October 2015 @ 4.15pm
+  * due 14th March 2016 @ 4.15pm
 * final team demo
-  * due 3rd December 2015 @ 4.15pm
+  * due 25th April 2016 @ 4.15pm
 * final team report
-  * due 10th December 2015 @ 6.45pm
+  * due 2nd May 2016 @ 4.15pm
 
 #### Grading
 
-Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above. 
-A composite grade will then be available at the end of the semester for the overall class. 
+Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above.
+A composite grade will then be available at the end of the semester for the overall class.
 
 Grades will use the following scale,
 
@@ -108,4 +108,3 @@ Grades will use the following scale,
   * 50% to 41%  = C
   * 40% to 31%  = F
   * 30% to 0%   = ?
-  
