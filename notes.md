@@ -12,7 +12,7 @@ published: true
 summary: course notes and material for COMP 424
 ---
 
-Course notes and material will be added to this page during the Fall semester.
+Course notes and material will be added to this page during the Spring semester.
 
 This material will be updated on a weekly basis.
 
