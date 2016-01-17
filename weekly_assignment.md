@@ -220,10 +220,8 @@ NB: further information on mockups can be found in the following document
   * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
 * Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
   * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
--->
 
 #### Week 1 - 25th January 2016
-<!--
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the following online Git tutorials
   * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
