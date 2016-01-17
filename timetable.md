@@ -17,7 +17,7 @@ summary: course timetable for COMP 424, Spring 2016
 This class will meet at the following time and place,
 
 * Time: Monday 4.15pm to 6.45pm
-* Place: [Corboy Law Center - Room ](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Place: [Corboy Law Center - Room 302](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
 
