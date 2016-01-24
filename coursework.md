@@ -52,7 +52,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 * begin development of a web application
   * built from scratch
-  * builds upon examples, technology outlined during weeks 1 to 6
+  * builds upon examples, technology outlined during first part of semester
 * outline research conducted
 * describe data chosen for application
 * show any prototypes, patterns, and designs
