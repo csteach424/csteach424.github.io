@@ -220,7 +220,7 @@ NB: further information on mockups can be found in the following document
   * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
 * Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
   * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
-
+-->
 #### Week 1 - 25th January 2016
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the following online Git tutorials
@@ -231,18 +231,18 @@ NB: further information on mockups can be found in the following document
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-* Add your initial Project details to the course [Trello organisation](https://trello.com/comp388424luc), on the board **Week 1 - Project Details**
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/AahFJ5Gf/week-1-project-details)
   * project name
   * team members
   * any ideas you are currently considering for this project work
   * level of experience with HTML, CSS, JS
-  * any other current details or information...
 
-The course Trello organisation is available at the following URL,
+  Please read the instructions available on the board, and then create a new list for your project group.
 
-* [COMP388/424 @ LUC](https://trello.com/comp388424luc)
+The course's Trello group is available at the following URL,
+
+* [COMP 424 - Spring 2016 @ LUC](https://trello.com/comp424spring2016luc)
 
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP424 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
--->
