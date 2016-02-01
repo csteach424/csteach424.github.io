@@ -87,6 +87,10 @@ and choose your favourite.
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 -->
+
+#### Various
+* Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
+
 #### Videos
 
 * Introducing Atom = [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
