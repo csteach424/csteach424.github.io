@@ -11,6 +11,11 @@ tags: coursework weekly
 published: true
 summary: weekly assignment for COMP 424
 ---
+
+#### Assignment submission
+* Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
+* Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
+
 <!--
 #### Week 15 - 3rd December 2015
 
