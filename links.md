@@ -37,7 +37,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-->
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+<!--
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
@@ -46,13 +48,14 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
 -->
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
 <!--
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
-  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 -->
+  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+
 <!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -102,9 +105,9 @@ and choose your favourite.
 * [Firebug](http://getfirebug.com/)
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
-<!--
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
+<!--
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)

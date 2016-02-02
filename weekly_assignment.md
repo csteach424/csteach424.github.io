@@ -217,15 +217,16 @@ NB: further information on mockups can be found in the following document
   * quiz will be approximately 30 minutes in length
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
+-->
 
-#### Week 2 - 3rd September 2015
+#### Week 2 - 1st February 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
-* Review the HTML5 code examples posted to the **source** repository on the course' GitHub account,
-  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2015/week2)
-* Please ensure you add your project details and information to the board **Week 1 - Project Details**, on the course' Trello organisation,
-  * [COMP388/424 @ LUC](https://trello.com/comp388424luc)
--->
+* Review the HTML5 code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2016/week2)
+* Please ensure you add your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
+  * [Week 1 - Project Details](https://trello.com/b/AahFJ5Gf/week-1-project-details)
+
 #### Week 1 - 25th January 2016
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the following online Git tutorials

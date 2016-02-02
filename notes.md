@@ -56,10 +56,10 @@ This material will be updated on a weekly basis.
 
 ##### Week 3 - 10th September 2015
   * [course](/assets/docs/Comp424-week3.pdf)
-
-##### Week 2 - 3rd September 2015
-  * [course](/assets/docs/Comp424-week2.pdf)
 -->
+##### Week 2 - 1st February 2016
+  * [course](/assets/docs/Comp424-week2.pdf)
+
 ##### Week 1 - 25th January 2016
   * [course](/assets/docs/Comp424-week1.pdf)
   * [course extra - Git basics](/assets/docs/git-basics.pdf)
