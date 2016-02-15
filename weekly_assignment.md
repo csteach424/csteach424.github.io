@@ -215,7 +215,7 @@ NB: further information on mockups can be found in the following document
 * Review the CSS code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach424/source/tree/master/2016/week3)
 * Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course and class notes for weeks 1 to 3 inclusive
+  * quiz will include material from the course and class notes for weeks 1 to 4 inclusive
   * quiz will be approximately 45 minutes in length
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
