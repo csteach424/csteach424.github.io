@@ -25,9 +25,7 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-<!--
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 #### Documentation & Guides
 <!--
@@ -39,8 +37,8 @@ If you have any suggestions for additions to this section of the site, please fe
 -->
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-<!--
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+<!--
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -55,7 +53,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
-<!--
   * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
@@ -66,11 +63,8 @@ If you have any suggestions for additions to this section of the site, please fe
     * [JQuery](https://jquery.com/)
     * [JQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
--->
   * [Pure CSS](http://purecss.io/)
-<!--
   * [React](http://facebook.github.io/react/)
--->
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)

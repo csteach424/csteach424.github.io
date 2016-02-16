@@ -86,14 +86,14 @@ There is no specific textbook for this course.
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
-
-###### Week 4 - 17th September 2015
+-->
+###### Week 4 - 15th February 2016
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
--->
+
 ###### Week 3 - 8th February 2016
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)

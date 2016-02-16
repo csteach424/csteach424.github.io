@@ -184,7 +184,9 @@ Any questions, please let me know.
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns
 
-#### Week 4 - 17th September 2015
+-->
+
+#### Week 4 - 15th February 2015
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -200,13 +202,11 @@ Any questions, please let me know.
     * views can include content pages/screens, dialogs, overlays, admin/account screens...
   * Please add this information, and associated mockup images or drawings, to this week's board on the course' Trello organisation.
     * I've added initial instructions to this board, which is available at the following URL,
-      * [Week 4 - Project Mockups](https://trello.com/b/XR9T28o0/week-4-project-mockups)
+      * [Week 4 - Project Mockups](https://trello.com/b/GtsrcvqF/week-4-project-mockups)
 
 NB: further information on mockups can be found in the following document
 
   * [Mockups](/assets/docs/Comp424-mockups.pdf)
-
--->
 
 #### Week 3 - 8th February 2016
 
