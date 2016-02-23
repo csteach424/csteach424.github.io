@@ -46,11 +46,12 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week6.pdf)
   * [designing our app](/assets/docs/design-our-app.pdf)
 
-##### Week 5 - 24th September 2015
+-->
+##### Week 5 - 22nd February 2016
   * [course](/assets/docs/Comp424-week5.pdf)
   * [design and interface - intro](/assets/docs/design-interface-intro.pdf)
   * [design and consistency - basics](/assets/docs/design-consistency-basics.pdf)
--->
+  
 ##### Week 4 - 15th February 2016
   * [course](/assets/docs/Comp424-week4.pdf)
   * [course extra - mockups](/assets/docs/Comp424-mockups.pdf)

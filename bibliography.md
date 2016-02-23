@@ -79,14 +79,12 @@ There is no specific textbook for this course.
     * [jQuery - .parseJSON()](http://api.jquery.com/jquery.parsejson/)
   * [jQuery - DOM removal](http://api.jquery.com/category/manipulation/dom-removal/)
   * [JSON](http://www.json.org/)
-
+-->
 ###### Week 5 - 24th September 2015
 
-  * [jQuery API](https://api.jquery.com/)
-  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
--->
+
 ###### Week 4 - 15th February 2016
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)

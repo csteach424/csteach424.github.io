@@ -108,7 +108,6 @@ and choose your favourite.
 -->
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
-<!--
 #### Websites
 
 * A List Apart - [For People Who Make Websites](http://alistapart.com/)
@@ -129,4 +128,3 @@ and choose your favourite.
 * W3C
   * [Standards](http://www.w3.org/standards/)
   * [App Foundations](http://www.w3.org/appfoundations/)
--->
