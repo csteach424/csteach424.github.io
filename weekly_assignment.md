@@ -187,6 +187,31 @@ Any questions, please let me know.
 
 -->
 
+#### Week 6 - 29th February 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples currently available on JSFiddle
+  * [JSFiddle - this - events](http://jsfiddle.net/ancientlives/e5ekrk1w/)
+  * [JSFiddle - this - global](http://jsfiddle.net/ancientlives/2r4grha1/)
+  * [JSFiddle - this - literal](http://jsfiddle.net/ancientlives/d93bkbq8/)
+  * [JSFiddle - this - literal 2](http://jsfiddle.net/ancientlives/kt3g4wou/)
+  * [JSFiddle - this - window](http://jsfiddle.net/ancientlives/o6d77tye/)
+  * [JSFiddle - Parse JSON](http://jsfiddle.net/ancientlives/us91yfc4/)
+* Using the week 6 code examples available on the course's GitHub repository,
+  * [GitHub - Week 6 code examples](https://github.com/csteach424/source/tree/master/2016/week6)
+  * update [demo 8](https://github.com/csteach424/source/tree/master/2016/week6/demo8) to add the following,
+    * a delete option per note in the `note-output` section
+    * a delete option for all notes in the `note-output` section
+  * send this updated code by the start of class on Monday 14th March 2016
+    * as a zipped file attached to an email to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 424 - Week 6 assignment)
+    * or share online using Dropbox, GitHub, BitBucket, or Google Drive
+* Prepare you DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [DEV Week updates](https://trello.com/b/uFxVVDdx/dev-week)
+
 #### Week 5 - 22nd February 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes

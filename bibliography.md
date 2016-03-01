@@ -70,8 +70,8 @@ There is no specific textbook for this course.
 ###### Week 8 - 15th October 2015
 
   * N/A
-
-###### Week 6 - 1st October 2015
+-->
+###### Week 6 - 29th February 2016
 
   * [jQuery and AJAX](http://api.jquery.com/category/ajax/)
   * jQuery and JSON
@@ -79,8 +79,8 @@ There is no specific textbook for this course.
     * [jQuery - .parseJSON()](http://api.jquery.com/jquery.parsejson/)
   * [jQuery - DOM removal](http://api.jquery.com/category/manipulation/dom-removal/)
   * [JSON](http://www.json.org/)
--->
-###### Week 5 - 24th September 2015
+
+###### Week 5 - 22nd February 2016
 
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
