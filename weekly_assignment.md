@@ -187,6 +187,54 @@ Any questions, please let me know.
 
 -->
 
+#### Week 8 - 14th March 2015
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Team Florist](https://goo.gl/wh49CN)
+  * [Group 2 - Team Roots4All](https://goo.gl/uy0psL)
+  * [Group 3 - Team Food Finder](https://goo.gl/u1PAHN)
+  * [Group 4 - Team LeTemps](https://goo.gl/wYNeSz)
+  * [Group 5 - Team GoGo Gadgets](https://goo.gl/NsVMH5)
+  * [Group 6 - Team Thomas J Foxes](https://goo.gl/nVeCR3)
+  * [Group 7 - Team The Analog Catalog Website](https://goo.gl/LXgDtD)
+  * [Group 8 - Team EMR](https://goo.gl/9C20MX)
+  * [Group 9 - Team African Safari](https://goo.gl/RsncZY)
+  * [Group 10 - Team Cotos](https://goo.gl/CpRcuq)
+  * [Group 11 - Team Working on the Name](https://goo.gl/0fkDkR)  
+* Complete these peer review forms by **Monday 21st March 2016** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new Slack channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Please add your DEV week presentation files or notes to the following board on Trello,
+  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/s8kksMMZ/dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Friday 18th March 2016** at the latest
+  * instructions are included as a list on the above board
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * any problems with setting up or using either service, please [contact the course TA](mailto:kherringshaw@luc.edu?subject=COMP424 Dev Week Repository Setup)
+  * please share these files by **Friday 18th March 2016** at the latest
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Project Contributions](https://trello.com/b/OvYiD05T/week-8-dev-week-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+  * please complete this requirement by **Monday 21st March 2016** at the latest
+* Please contribute to this week's class discussion on the Slack channel, **#week8-discussion**, for the website, [Werner Design Werks](http://wdw.com/)
+  * consider overall aesthetics for the website, including use of typography, images...
+  * consider organisation and presentation of data
+  * consider website's design as a reflection of its goals
+    * eg: how is the content influencing the site's design, organisation, and general layout
+  * how do they use their site to engage with their users, customers, and general visitors?
+    * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
+  * Please contribute to this discussion throughout this week, and not simply on Monday afternoon before class
+* Using the week 6 code examples available on the course's GitHub repository,
+  * [GitHub - Week 6 code examples](https://github.com/csteach424/source/tree/master/2016/week6)
+  * update [demo 8](https://github.com/csteach424/source/tree/master/2016/week6/demo8) to add the following,
+    * a delete option per note in the `note-output` section
+  * send this updated code by the start of class on **Monday 21st March 2016** at the latest
+    * as an attachment to a private message on Slack
+    * please add your full name and week 8 assignment to the attachment filename
+      * eg: nickhayward_week8code.zip
+
+Any questions, please let me know. Enjoy your week.
+
 #### Week 6 - 29th February 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
