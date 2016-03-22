@@ -59,14 +59,13 @@ There is no specific textbook for this course.
     * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * Various
     * [Create your own AJAX loader](http://www.ajaxload.info/)
-
-###### Week 9 - 22nd October 2015
+-->
+###### Week 9 - 21st March 2016
 
   * jQuery
     * [jQuery - getJSON](http://api.jquery.com/jquery.getjson/)
   * [JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
--->
 
 ###### Week 8 - 14th March 2016
 

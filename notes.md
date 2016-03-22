@@ -35,10 +35,9 @@ This material will be updated on a weekly basis.
 
 ##### Week 10 - 29th October 2015
   * [course](/assets/docs/Comp424-week10.pdf)
-
-##### Week 9 - 22nd October 2015
-  * [course](/assets/docs/Comp424-week9.pdf)
 -->
+##### Week 9 - 21st March 2016
+  * [course](/assets/docs/Comp424-week9.pdf)
 
 ##### Week 8 - 14th March 2016
   * [course](/assets/docs/Comp424-week8.pdf)

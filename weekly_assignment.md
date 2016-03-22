@@ -187,7 +187,34 @@ Any questions, please let me know.
 
 -->
 
-#### Week 8 - 14th March 2015
+#### Week 9 - 21st March 2016
+
+* Complete the following peer review form individually for the final DEV Week project and presentation
+  * [Group 12 - Team Roster Retriever](https://goo.gl/ZI5b5j)
+* Complete this peer review form by **Monday 28th March 2016** at the latest
+  * please complete this form individually, and **NOT** as a project group
+* You may use the Slack channel, **#dev-week-review**, for posting any questions, comments, or other information regarding this peer review for the DEV Week
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2016/week9)
+* Compare your submitted code solution for a single delete option from the week 6/week8 assignment with the following sample code
+  * [travel notes - part 1](https://github.com/csteach424/source/tree/master/2016/week9/travelnotes-part1)
+  * consider each incremental code update in the above directory from 'demo3' to 'demo6'
+  * then compare your submitted solution with the code in [demo 6](https://github.com/csteach424/source/tree/master/2016/week9/travelnotes-part1/demo6)
+  * write a brief report on your code solution compared with the example solution in [demo 6](https://github.com/csteach424/source/tree/master/2016/week9/travelnotes-part1/demo6)
+  * send this code report as a PDF document by the start of class on **Monday 28th March 2016** at the latest
+    * as an attachment to a private message on Slack
+    * please add your full name and week 9 assignment to the attachment filename
+      * eg: nickhayward_week9report.pdf
+* Prepare for a quiz, which is scheduled for next week's class
+  * quiz will include material from the course and class notes for weeks 4, 5, 6, and 9
+  * quiz will be approximately 45 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+
+Any questions, please let me know. Enjoy your Easter holiday.
+
+#### Week 8 - 14th March 2016
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
   * [Group 1 - Team Florist](https://goo.gl/wh49CN)
