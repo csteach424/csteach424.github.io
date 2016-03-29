@@ -187,6 +187,25 @@ Any questions, please let me know.
 
 -->
 
+#### Week 10 - 28th March 2016
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository
+  * [source](https://github.com/csteach424/source/tree/master/2016/week10)
+* Please create a list on the [Week 10 - Patterns](https://trello.com/b/D7BUyOME/week-10-patterns) Trello board for your group, and add the following details,
+  * examples of interaction within your site that would benefit from using jQuery's Deferred object
+  * other events or requests within your site that would also benefit from jQuery's Deferred object
+  * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
+* Please contribute to this week's class discussion on Slack, **week10-discussion**, for the website, [The Louvre](http://www.louvre.fr/en/)
+  * please consider this site's presentation of media, and its organisation and structure
+  * how does the site present its cultural assets to help engage with users and visitors?
+  * consider data organisation, and the available search and filter options?
+    * how easy is it to find examples of artefacts and objects within the site's catalogue?
+  * how well do they manage the presentation of site resources in different natural languages?
+    * eg: did you notice any difference in content, format, or options from French to English etc?
+
+Any questions, please let me know.
+
 #### Week 9 - 21st March 2016
 
 * Complete the following peer review form individually for the final DEV Week project and presentation
@@ -196,7 +215,8 @@ Any questions, please let me know.
 * You may use the Slack channel, **#dev-week-review**, for posting any questions, comments, or other information regarding this peer review for the DEV Week
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Review this week's examples on the course GitHub repository, [source](https://github.com/csteach424/source/tree/master/2016/week9)
+* Review this week's examples on the course GitHub repository
+  * [source](https://github.com/csteach424/source/tree/master/2016/week9)
 * Compare your submitted code solution for a single delete option from the week 6/week8 assignment with the following sample code
   * [travel notes - part 1](https://github.com/csteach424/source/tree/master/2016/week9/travelnotes-part1)
   * consider each incremental code update in the above directory from 'demo3' to 'demo6'

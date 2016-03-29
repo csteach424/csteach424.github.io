@@ -48,8 +48,8 @@ There is no specific textbook for this course.
     * [ExpressJS](http://expressjs.com/)
   * Redis
     * [redis.io](http://redis.io/)
-
-###### Week 10 - 29th October 2015
+-->
+###### Week 10 - 28th March 2016
 
   * jQuery
     * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
@@ -59,7 +59,7 @@ There is no specific textbook for this course.
     * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * Various
     * [Create your own AJAX loader](http://www.ajaxload.info/)
--->
+
 ###### Week 9 - 21st March 2016
 
   * jQuery

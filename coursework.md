@@ -18,7 +18,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 #### Overview
 
-* assessment will include a combination of semester's quizzes or group exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
+* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
   * DEV week demo
     * brief group presentation or demo
   * final demo
@@ -37,15 +37,19 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
-###### 1. quizzes or group exercises at the end of each course section (30%)
+###### 1. quizzes or exercises at the end of each course section (30%)
 
 * at least one week notice before quiz
   * average time ~30 minutes (can be extended if necessary...)
   * taken towards the end of class
-* group exercises
+* exercises
   * help develop course project
   * test course knowledge at each stage
   * get feedback on project work
+* extras
+  * code and application reviews
+  * class discussions
+  * various other assessments
 
 <a id="assessment2"></a>
 ###### 2. DEV week assessment (30%)
