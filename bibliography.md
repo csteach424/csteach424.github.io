@@ -34,6 +34,7 @@ There is no specific textbook for this course.
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
+-->
 
 ###### Week 11 - 5th November 2015
 
@@ -48,7 +49,7 @@ There is no specific textbook for this course.
     * [ExpressJS](http://expressjs.com/)
   * Redis
     * [redis.io](http://redis.io/)
--->
+
 ###### Week 10 - 28th March 2016
 
   * jQuery

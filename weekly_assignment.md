@@ -187,6 +187,24 @@ Any questions, please let me know.
 
 -->
 
+#### Week 11 - 4th April 2016
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's examples on the course GitHub repository
+  * [source](https://github.com/csteach424/source/tree/master/2016/week11)
+* Please contribute to this week's class discussion on Slack, **week11-discussion**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * please consider this site's overall aesthetics, graphics, and general images
+  * does the form match the intended function?
+  * is it a useful website for its intended target, a restaurant?
+  * what would you change in the site's design and usage, and why?
+* Prepare for a quiz, which is scheduled for next week's class
+  * quiz will include material from the course and class notes for weeks 10 and 11
+  * quiz will be approximately 45 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+
+Any questions, please let me know.
+
 #### Week 10 - 28th March 2016
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
