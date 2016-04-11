@@ -28,10 +28,8 @@ If you have any suggestions for additions to this section of the site, please fe
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
-<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
--->
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
