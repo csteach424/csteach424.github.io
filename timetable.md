@@ -38,4 +38,4 @@ This class will meet at the following time and place,
 * Monday 25th April 2016
   * Demonstration of final assessment @ 4.15pm
 * Monday 2nd May 2016
-  * Final assessment report due by 6.45pm
+  * Final assessment report due by 4.15pm
