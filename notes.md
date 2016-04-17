@@ -29,6 +29,7 @@ This material will be updated on a weekly basis.
 -->
 ##### Week 12 - 11th April 2016
   * [course](/assets/docs/Comp424-week12.pdf)
+  * [course extra - final report outline](/assets/docs/comp424-final-report-outline.pdf)
 
 ##### Week 11 - 4th April 2016
   * [course](/assets/docs/Comp424-week11.pdf)

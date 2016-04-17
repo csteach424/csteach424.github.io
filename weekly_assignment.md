@@ -189,6 +189,8 @@ Any questions, please let me know.
 
 #### Week 12 - 11th April 2016
 * Review this week's [notes and material](/notes), which includes the class notes
+* Review the Final Report Outline,
+  * [course extra - final report outline](/assets/docs/comp424-final-report-outline.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's examples on the course GitHub repository
   * [source](https://github.com/csteach424/source/tree/master/2016/week12)
