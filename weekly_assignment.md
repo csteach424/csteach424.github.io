@@ -198,6 +198,11 @@ Any questions, please let me know.
 * Please prepare your group's project presentation for Monday 25th April 2016
   * as detailed in previous classes, this presentation should be an outline of your final group project
   * please consult the [coursework](/coursework) page for further details
+  * each presentation should be between 5 and 10 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 25th April 2016.
+
+Any questions, please let me know. Enjoy your week.
 
 #### Week 12 - 11th April 2016
 * Review this week's [notes and material](/notes), which includes the class notes
