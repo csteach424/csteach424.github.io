@@ -20,14 +20,13 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
-<!--
-###### Week 13 - 19th November 2015
+###### Week 13 - 18th April 2016
 
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
--->
+
 ###### Week 12 - 11th April 2016
 
   * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.
