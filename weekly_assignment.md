@@ -187,6 +187,17 @@ Any questions, please let me know.
 
 -->
 
+#### Week 14 - 25th April 2016
+
+* Please complete your group's final project report
+  * suggested report length between 5 and 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/comp424-final-report-outline.pdf)
+* Report must be submitted by 4.15pm on Monday 2nd May 2016
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
+
 #### Week 13 - 18th April 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes

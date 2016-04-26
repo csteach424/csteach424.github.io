@@ -20,10 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!--
-##### Week 15 - 3rd December 2015
-  * [final report outline](/assets/docs/COMP388424-FinalReportOutline-2015.pdf)
--->
+##### Week 14 - 25th April 2016
+  * [final report outline](/assets/docs/comp424-final-report-outline.pdf)
+
 ##### Week 13 - 18th April 2016
   * [course](/assets/docs/Comp424-week13.pdf)
   * [course extra - final report outline](/assets/docs/comp424-final-report-outline.pdf)
