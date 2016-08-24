@@ -14,7 +14,7 @@ summary: suggested links and resources for COMP 424
 
 This list contains a variety of information, suggestions, and generally interesting material.
 
-This section will be updated on a weekly basis during the Spring semester.
+This section will be updated on a weekly basis during the Fall semester.
 
 We are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
 
@@ -22,6 +22,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+<!--
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
@@ -121,3 +122,4 @@ and choose your favourite.
 * W3C
   * [Standards](http://www.w3.org/standards/)
   * [App Foundations](http://www.w3.org/appfoundations/)
+-->

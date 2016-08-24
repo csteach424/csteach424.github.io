@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Client-Side Web Design, Spring 2016
+summary: Client-Side Web Design, Fall 2016
 ---
 
 Welcome to the course website for COMP 424, *Client-Side Web Design*.
@@ -19,7 +19,10 @@ This course is offered by the [Department of Computer Science](http://www.luc.ed
 
 #### Recent Updates
 {% for post in site.posts limit: 5 %}
-* {{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})
+
+<!--{{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})-->
+* {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
 
   {{ post.summary }}
+
 {% endfor %}

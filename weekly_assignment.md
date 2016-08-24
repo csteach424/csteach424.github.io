@@ -187,6 +187,7 @@ Any questions, please let me know.
 
 -->
 
+<!--
 #### Week 14 - 25th April 2016
 
 * Please complete your group's final project report
@@ -443,8 +444,9 @@ NB: further information on mockups can be found in the following document
   * [Source - Week 2](https://github.com/csteach424/source/tree/master/2016/week2)
 * Please ensure you add your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
   * [Week 1 - Project Details](https://trello.com/b/AahFJ5Gf/week-1-project-details)
+-->
 
-#### Week 1 - 25th January 2016
+#### Week 1 - 29th August 2016
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the following online Git tutorials
   * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -464,7 +466,7 @@ NB: further information on mockups can be found in the following document
 
 The course's Trello group is available at the following URL,
 
-* [COMP 424 - Spring 2016 @ LUC](https://trello.com/comp424spring2016luc)
+* [COMP 424 - Fall 2016 @ LUC](https://trello.com/comp424fall2016luc)
 
 **NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP424 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
 

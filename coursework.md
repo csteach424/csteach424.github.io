@@ -37,7 +37,8 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
-###### 1. quizzes or exercises at the end of each course section (30%)
+
+##### 1. quizzes or exercises at the end of each course section (30%)
 
 * at least one week notice before quiz
   * average time ~30 minutes (can be extended if necessary...)
@@ -52,7 +53,8 @@ If you have any questions on the following assessments, please [contact](/contac
   * various other assessments
 
 <a id="assessment2"></a>
-###### 2. DEV week assessment (30%)
+
+##### 2. DEV week assessment (30%)
 
 * begin development of a web application
   * built from scratch
@@ -75,7 +77,8 @@ If you have any questions on the following assessments, please [contact](/contac
     * ...
 
 <a id="assessment3"></a>
-###### 3. final assessment (40%)
+
+##### 3. final assessment (40%)
 
 * continue to develop your app concept and prototypes
 * working app (as close as possible...)
@@ -91,11 +94,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due 14th March 2016 @ 4.15pm
+  * due Monday 17th October 2016 @ 4.15pm
 * final team demo
-  * due 25th April 2016 @ 4.15pm
+  * due Monday 5th December 2016 @ 4.15pm
 * final team report
-  * due 2nd May 2016 @ 4.15pm
+  * due Monday 12th December 2016 @ 4.15pm
 
 #### Grading
 

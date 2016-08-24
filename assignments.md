@@ -12,7 +12,7 @@ published: true
 summary: assignments and coursework for COMP 424
 ---
 
-This page will be updated each week during the Spring semester with assignments, coursework, quizzes...
+This page will be updated each week during the Fall semester with assignments, coursework, quizzes...
 
 #### Coursework Overview
 

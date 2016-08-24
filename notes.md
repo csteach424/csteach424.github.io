@@ -20,6 +20,7 @@ This material will be updated on a weekly basis.
 
 ***
 
+<!--
 ##### Week 14 - 25th April 2016
   * [final report outline](/assets/docs/comp424-final-report-outline.pdf)
 
@@ -61,7 +62,8 @@ This material will be updated on a weekly basis.
 
 ##### Week 2 - 1st February 2016
   * [course](/assets/docs/Comp424-week2.pdf)
+-->
 
-##### Week 1 - 25th January 2016
+##### Week 1 - 29th August 2016
   * [course](/assets/docs/Comp424-week1.pdf)
   * [course extra - Git basics](/assets/docs/git-basics.pdf)

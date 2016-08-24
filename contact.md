@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 424, Spring 2016
+summary: contact details for COMP 424, Fall 2016
 ---
 
 For course enquiries, please use one of the following contact options
