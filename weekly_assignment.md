@@ -456,7 +456,7 @@ NB: further information on mockups can be found in the following document
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/AahFJ5Gf/week-1-project-details)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/vAz5Ug6c/week-1-project-details)
   * project name
   * team members
   * any ideas you are currently considering for this project work
