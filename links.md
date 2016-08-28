@@ -22,13 +22,14 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles & Papers
 
-* Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
+* Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
+  * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+<!--* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)-->
 
 #### Documentation & Guides
+<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -44,7 +45,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
+-->
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+
+<!--
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -88,20 +92,26 @@ and choose your favourite.
 * Introducing Atom = [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
 * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
 * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+-->
 
 #### Useful Tools & Reference
-
+<!--
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
+-->
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
+
+<!--
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
 * [Web Developer](http://chrispederick.com/work/web-developer/)
+-->
 
+<!--
 #### Websites
 
 * A List Apart - [For People Who Make Websites](http://alistapart.com/)

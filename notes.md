@@ -65,5 +65,5 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 1 - 29th August 2016
-  * [course](/assets/docs/Comp424-week1.pdf)
-  * [course extra - Git basics](/assets/docs/git-basics.pdf)
+  * [course](/assets/docs/2016-fall/Comp424-week1.pdf)
+  * [course extra - Git basics](/assets/docs/extras/git-basics.pdf)
