@@ -436,15 +436,15 @@ NB: further information on mockups can be found in the following document
   * please bring your laptop or other internet connected device to class
   * this quiz uses an online Google Form
     * **NB:** you'll need a Google account to register for the quiz
+-->
 
-#### Week 2 - 1st February 2016
+#### Week 3 - 12th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
-* Review the HTML5 code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2016/week2)
-* Please ensure you add your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/AahFJ5Gf/week-1-project-details)
--->
+* Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2016/fall/week3)
+* Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
+  * [Week 1 - Project Details](https://trello.com/b/vAz5Ug6c/week-1-project-details)
 
 #### Week 1 - 29th August 2016
 * Review this week's [notes and material](/notes), which includes the class notes

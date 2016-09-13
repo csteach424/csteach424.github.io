@@ -36,7 +36,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-->
+
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+
+<!--
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
@@ -47,12 +51,15 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
 -->
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
 
 <!--
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+-->
+
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
+<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
   * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
@@ -83,6 +90,7 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Various
 * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
@@ -92,7 +100,6 @@ and choose your favourite.
 * Introducing Atom = [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
 * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
 * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
--->
 
 #### Useful Tools & Reference
 <!--
@@ -101,19 +108,19 @@ and choose your favourite.
 -->
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
-
-<!--
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
+
+<!--
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
-* [Web Developer](http://chrispederick.com/work/web-developer/)
 -->
 
-<!--
-#### Websites
+* [Web Developer](http://chrispederick.com/work/web-developer/)
 
+#### Websites
+<!--
 * A List Apart - [For People Who Make Websites](http://alistapart.com/)
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
@@ -125,6 +132,8 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+-->
+
 * [The Unicode Consortium](http://www.unicode.org/)
 * [Unicode Information](http://www.alanwood.net/unicode/)
   * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -132,4 +141,3 @@ and choose your favourite.
 * W3C
   * [Standards](http://www.w3.org/standards/)
   * [App Foundations](http://www.w3.org/appfoundations/)
--->
