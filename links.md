@@ -26,7 +26,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
   * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-<!--* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)-->
+* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
 <!--
@@ -35,9 +35,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 -->
-
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
 
 <!--
@@ -48,36 +47,42 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
 -->
+  * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
-
-<!--
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
--->
-
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
+<!--
   * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
+-->
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
+
+<!--
   * JQuery
     * [JQuery](https://jquery.com/)
     * [JQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
+-->
+
   * [Pure CSS](http://purecss.io/)
+
+<!--
   * [React](http://facebook.github.io/react/)
+-->
+
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
 
+<!--
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)

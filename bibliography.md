@@ -97,13 +97,13 @@ There is no specific textbook for this course.
   * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
+-->
 
-###### Week 3 - 8th February 2016
+###### Week 4 - 19th September 2016
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
--->
 
 ###### Week 3 - 12th September 2016
 

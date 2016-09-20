@@ -423,20 +423,24 @@ NB: further information on mockups can be found in the following document
 
   * [Mockups](/assets/docs/Comp424-mockups.pdf)
 
-#### Week 3 - 8th February 2016
+-->
+
+#### Week 4 - 19th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Review the CSS code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2016/week3)
+  * [Source - Week 4](https://github.com/csteach424/source/tree/master/2016/fall/week4)
 * Prepare for a quiz, which is scheduled for the end of next week's class
   * quiz will include material from the course and class notes for weeks 1 to 4 inclusive
-  * quiz will be approximately 45 minutes in length
+  * quiz will be approximately 30 minutes in length
+    * **n.b.** extra time will be available if needed...
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
   * this quiz uses an online Google Form
     * **NB:** you'll need a Google account to register for the quiz
--->
+
+Any questions, please let me know.
 
 #### Week 3 - 12th September 2016
 
