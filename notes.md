@@ -52,11 +52,12 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week5.pdf)
   * [design and interface - intro](/assets/docs/design-interface-intro.pdf)
   * [design and consistency - basics](/assets/docs/design-consistency-basics.pdf)
-
-##### Week 4 - 15th February 2016
-  * [course](/assets/docs/Comp424-week4.pdf)
-  * [course extra - mockups](/assets/docs/Comp424-mockups.pdf)
 -->
+
+##### Week 5 - 26th September 2016
+  * [course](/assets/docs/Comp424-week5.pdf)
+  * extras
+    * [design mockups](/assets/docs/extras/fall2016/design-mockups.pdf)
 
 ##### Week 4 - 19th September 2016
   * [course](/assets/docs/Comp424-week4.pdf)
@@ -66,4 +67,5 @@ This material will be updated on a weekly basis.
 
 ##### Week 1 - 29th August 2016
   * [course](/assets/docs/Comp424-week1.pdf)
-  * [course extra - Git basics](/assets/docs/extras/git-basics.pdf)
+  * extras
+    * [Git basics](/assets/docs/extras/fall2016/git-basics.pdf)

@@ -38,9 +38,9 @@ If you have any suggestions for additions to this section of the site, please fe
 -->
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 <!--
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -57,10 +57,11 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 <!--
   * [AngularJS](https://angularjs.org/)
-  * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
-  * [Electron](http://electron.atom.io/)
 -->
+
+  * [Apache Cordova](https://cordova.apache.org/)
+  * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
 

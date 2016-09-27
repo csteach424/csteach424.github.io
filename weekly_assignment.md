@@ -425,6 +425,27 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 5 - 26th September 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [design mockups](/assets/docs/extras/fall2016/design-mockups.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 5](https://github.com/csteach424/source/tree/master/2016/fall/week5)
+* Please start to design and outline your project's application and website
+  * consider initial pages, content, navigation, and required user interaction
+  * what is the primary goal of the homepage for this application/website
+    * consider content sections, navigation options, possible user interactions...
+  * detail at least three other aspects of your current project design/concept
+    * eg: other pages, tools, search options, content designs, views or overlays...
+  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
+    * views can include content pages/screens, dialogs, overlays, admin/account screens...
+  * Please add this information, and associated mockup images or drawings, to this week's board on the course's Trello group
+    * I've added initial instructions to this board, which is available at the following URL
+      * [Week 5 - Project Mockups](https://trello.com/b/8r2s8S3S/week-5-project-mockups)
+
+Any questions, please let me know.
+
 #### Week 4 - 19th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
