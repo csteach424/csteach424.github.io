@@ -76,21 +76,15 @@ There is no specific textbook for this course.
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jQuery.com/)
   * [jQuery :parent selector](https://api.jQuery.com/parent-selector/)
+-->
 
-###### Week 6 - 29th February 2016
+##### Week 6 - 3rd October 2016
 
-  * [jQuery and AJAX](http://api.jquery.com/category/ajax/)
-  * jQuery and JSON
-    * [jQuery - .getJSON()](http://api.jquery.com/jquery.getjson/)
-    * [jQuery - .parseJSON()](http://api.jquery.com/jquery.parsejson/)
-  * [jQuery - DOM removal](http://api.jquery.com/category/manipulation/dom-removal/)
-  * [JSON](http://www.json.org/)
-
-###### Week 5 - 22nd February 2016
-
+  * [jQuery](https://jQuery.com/)
+  * [jQuery API](https://api.jquery.com/)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
--->
 
 ##### Week 5 - 26th September 2016
 

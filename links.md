@@ -33,9 +33,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
+-->
+
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
--->
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -64,11 +65,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
-
-<!--
   * JQuery
     * [JQuery](https://jquery.com/)
     * [JQuery UI](http://jqueryui.com/)
+
+<!--
   * [Node.js](https://nodejs.org/en/)
 -->
 
@@ -116,13 +117,9 @@ and choose your favourite.
   * [Pro Git](http://git-scm.com/book/en/v2)
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
-
-<!--
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
--->
-
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites

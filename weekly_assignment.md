@@ -425,6 +425,24 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 6 - 3rd October 2016
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [design and interface](/assets/docs/extras/fall2016/design-interface.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 6](https://github.com/csteach424/source/tree/master/2016/fall/week6)
+* Prepare you DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [DEV Week updates](https://trello.com/b/R2mpO0wN/dev-week)
+  * I've added instructions on this board.
+
+Any questions, please let me know.
+
+Enjoy your mid-semester break.
+
 #### Week 5 - 26th September 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
