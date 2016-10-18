@@ -78,6 +78,10 @@ There is no specific textbook for this course.
   * [jQuery :parent selector](https://api.jQuery.com/parent-selector/)
 -->
 
+##### Week 8 - 17th October 2016
+
+  * N/A
+
 ##### Week 6 - 3rd October 2016
 
   * [jQuery](https://jQuery.com/)

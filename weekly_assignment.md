@@ -425,6 +425,44 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 8 - 17th October 2016
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Team STA - Wanderlust](https://goo.gl/forms/GcCoOrYJjvwD5yVu2)
+  * [Group 2 - Team Meet in Time](https://goo.gl/forms/ipmy68CS6lBrsFQL2)
+  * [Group 3 - Team Mom & Me](https://goo.gl/forms/jzXfhTv37GqqsKot2)
+  * [Group 4 - Team PowerUp Reviews](https://goo.gl/forms/ffxdCmaTVYZc57ly2)
+  * [Group 5 - Team Boex-Dyer](https://goo.gl/forms/TK0sBv0E6F5gqwhk2)
+  * [Group 6 - Team Yauheni - Slack Inspector](https://goo.gl/forms/Keu1635XJtVNK0FT2)
+  * [Group 7 - Team JKZ - BeYou](https://goo.gl/forms/LhALPAc61xht9JAt1)
+  * [Group 8 - Team GM](https://goo.gl/forms/1HwX7qubnMT9DRuH3)
+  * [Group 9 - Team NP - goFAST](https://goo.gl/forms/g4cXhWZ5GMNMwshg1)
+  * [Group 10 - Team JC - Runnin Rhythm](https://goo.gl/forms/umcTIzbuj1jVjNfg1)
+  * [Group 11 - Team AARK - WeatherSpot](https://goo.gl/forms/dWic4T0KenOlLW4b2)
+  * [Group 12 - Team IRF](https://goo.gl/forms/UZyrgglSFVTjOAVG2)
+* Complete these peer review forms by **Monday 24th October 2016** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new Slack channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
+* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
+  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/dAkC9W21/week-8-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 24th October 2016** at the latest
+  * instructions are included as a list on the above board
+* Please share your completed DEV Week code, and any associated files or data, with myself
+  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * please share these files by **Monday 24th October 2016** at the latest
+* Complete the following Trello board,
+  * [Week 8 - DEV Week Contributions](https://trello.com/b/qMe7UBV4/week-8-dev-week-contributions)
+  * this board is **important** - it will help to establish member contributions for the DEV week project
+  * please complete this requirement by **Monday 24th October 2016** at the latest
+* Please contribute to this week's class discussion on Slack, `#discussion-week8`, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+  * consider organisation of content
+  * general consistency of design, colours, interaction options
+  * navigation and data presentation patterns
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 6 - 3rd October 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document

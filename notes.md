@@ -49,6 +49,9 @@ This material will be updated on a weekly basis.
   * [design and interface - part 2](/assets/docs/design-interface-part2.pdf)
 -->
 
+##### Week 8 - 17th October 2016
+  * N/A
+
 ##### Week 6 - 3rd October 2016
   * [course](/assets/docs/Comp424-week6.pdf)
   * extras
