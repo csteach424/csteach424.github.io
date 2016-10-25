@@ -84,7 +84,6 @@ If you have any suggestions for additions to this section of the site, please fe
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
 
-<!--
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -97,7 +96,6 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Various
 * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
@@ -123,7 +121,7 @@ and choose your favourite.
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites
-<!--
+
 * A List Apart - [For People Who Make Websites](http://alistapart.com/)
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
@@ -135,8 +133,6 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
-
 * [The Unicode Consortium](http://www.unicode.org/)
 * [Unicode Information](http://www.alanwood.net/unicode/)
   * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)

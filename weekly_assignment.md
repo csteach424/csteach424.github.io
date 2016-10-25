@@ -425,6 +425,24 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 9 - 24th October 2016
+
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 9](https://github.com/csteach424/source/tree/master/2016/fall/week9)
+* Please contribute to this week's class discussion on the Slack channel, **#discussion-week9**, for the website, [Werner Design Werks](http://wdw.com/)
+  * consider overall aesthetics for the website, including use of typography, images...
+  * consider organisation and presentation of data
+  * consider website's design as a reflection of its goals
+    * eg: how is the content influencing the site's design, organisation, and general layout
+  * how do they use their site to engage with their users, customers, and general visitors?
+    * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
+
+Any questions, please let me know,
+
+Enjoy your week.
+
 #### Week 8 - 17th October 2016
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations

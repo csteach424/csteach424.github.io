@@ -70,13 +70,13 @@ There is no specific textbook for this course.
     * [jQuery - getJSON](http://api.jquery.com/jquery.getjson/)
   * [JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-
-###### Week 8 - 14th March 2016
-
-  * [jQuery](https://jQuery.com/)
-  * [jQuery API](https://api.jQuery.com/)
-  * [jQuery :parent selector](https://api.jQuery.com/parent-selector/)
 -->
+
+##### Week 9 - 24th October 2016
+
+  * [jQuery API](https://api.jquery.com/)
+  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ##### Week 8 - 17th October 2016
 
