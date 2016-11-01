@@ -425,6 +425,23 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 10 - 31st October 2016
+
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 10](https://github.com/csteach424/source/tree/master/2016/fall/week10)
+* Prepare for a quiz, which is scheduled for next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 5, 6, 9, and 10 inclusive
+  * quiz will be approximately 40 minutes in length
+    * **n.b.** extra time will be available if needed...
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * this quiz uses an online Google Form
+    * **NB:** you'll need a Google account to register for the quiz
+
+Any questions, please let me know.
+
 #### Week 9 - 24th October 2016
 
 * Review this week's [notes and material](/notes)

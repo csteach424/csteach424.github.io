@@ -72,6 +72,19 @@ There is no specific textbook for this course.
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 -->
 
+##### Week 10 - 31st October 2016
+
+  * Flickr API
+    * [Public feeds](https://www.flickr.com/services/feeds/)
+    * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+  * jQuery
+    * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+    * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+    * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+    * [jQuery - promise](https://api.jquery.com/promise/)
+  * W3
+    * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
+
 ##### Week 9 - 24th October 2016
 
   * [jQuery API](https://api.jquery.com/)
