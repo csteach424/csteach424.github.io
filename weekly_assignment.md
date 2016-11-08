@@ -425,6 +425,26 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 11 - 7th November 2016
+
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 11](https://github.com/csteach424/source/tree/master/2016/fall/week11)
+* Please create a list on the [Week 11 - Patterns](https://trello.com/b/SdwwrD0q/week-11-patterns) Trello board for your group, and add the following details,
+  * examples of interaction within your site that would benefit from using jQuery's Deferred object
+  * other events or requests within your site that would also benefit from jQuery's Deferred object
+  * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [The Louvre](http://www.louvre.fr/en/)
+  * please consider this site's presentation of media, and its organisation and structure
+  * how does the site present its cultural assets to help engage with users and visitors?
+  * consider data organisation, and the available search and filter options?
+    * how easy is it to find examples of artefacts and objects within the site's catalogue?
+  * how well do they manage the presentation of site resources in different natural languages?
+    * eg: did you notice any difference in content, format, or options from French to English etc?
+
+Any questions, please let me know.
+
 #### Week 10 - 31st October 2016
 
 * Review this week's [notes and material](/notes)
@@ -489,7 +509,7 @@ Enjoy your week.
   * [Week 8 - DEV Week Contributions](https://trello.com/b/qMe7UBV4/week-8-dev-week-contributions)
   * this board is **important** - it will help to establish member contributions for the DEV week project
   * please complete this requirement by **Monday 24th October 2016** at the latest
-* Please contribute to this week's class discussion on Slack, `#discussion-week8`, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+* Please contribute to this week's class discussion on Slack, **#discussion-week8**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
   * consider organisation of content
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns

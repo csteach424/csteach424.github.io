@@ -72,6 +72,11 @@ There is no specific textbook for this course.
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 -->
 
+###### Week 11 - 7th November 2016
+  * Node.js
+    * [Node.js](https://nodejs.org/en/)
+    * [ExpressJS](http://expressjs.com/)
+
 ##### Week 10 - 31st October 2016
 
   * Flickr API
