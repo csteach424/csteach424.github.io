@@ -49,6 +49,11 @@ This material will be updated on a weekly basis.
   * [design and interface - part 2](/assets/docs/design-interface-part2.pdf)
 -->
 
+##### Week 12 - 14th November 2016
+  * [course](/assets/docs/Comp424-week12.pdf)
+  * extras
+    * [Designing our app](/assets/docs/extras/fall2016/design-information-architecture.pdf)
+
 ##### Week 11 - 7th November 2016
   * [course](/assets/docs/Comp424-week11.pdf)
   * extras

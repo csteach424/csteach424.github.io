@@ -32,21 +32,17 @@ If you have any suggestions for additions to this section of the site, please fe
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [ExpressJS](http://expressjs.com/)
 -->
 
+  * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-
-<!--
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
--->
-
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
@@ -69,11 +65,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * JQuery
     * [JQuery](https://jquery.com/)
     * [JQuery UI](http://jqueryui.com/)
-
-<!--
   * [Node.js](https://nodejs.org/en/)
--->
-
   * [Pure CSS](http://purecss.io/)
   * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
@@ -95,6 +87,7 @@ and choose your favourite.
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
 #### Various
+
 * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
 
 #### Videos
@@ -104,10 +97,9 @@ and choose your favourite.
 * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 #### Useful Tools & Reference
-<!--
+
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
--->
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)

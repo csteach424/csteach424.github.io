@@ -425,6 +425,20 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 12 - 14th November 2016
+
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 12](https://github.com/csteach424/source/tree/master/2016/fall/week12)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * please consider this site's overall aesthetics, graphics, and general images
+  * does the form match the intended function?
+  * is it a useful website for its intended target, a restaurant?
+  * what would you change in the site's design and usage, and why?
+
+Any questions, please let me know.
+
 #### Week 11 - 7th November 2016
 
 * Review this week's [notes and material](/notes)
