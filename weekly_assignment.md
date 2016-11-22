@@ -425,6 +425,30 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 13 - 21st November 2016
+
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 13](https://github.com/csteach424/source/tree/master/2016/fall/week13)
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/Hcw5LY0C/week-13-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+* Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
+  * choose two favourite data visualistions you've recently seen in an article, website, mobile application etc...
+  * why did you choose these visualisations?
+  * what did you like or dislike about each visualisation?
+  * outline the underlying data source, for example a census or opinion poll, geographical data, and so on
+  * did the visualisation help improve understanding of the data?
+
+Any questions, please let me know.
+
+Enjoy your Thanksgiving holiday!
+
+
 #### Week 12 - 14th November 2016
 
 * Review this week's [notes and material](/notes)

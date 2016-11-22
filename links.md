@@ -29,11 +29,9 @@ If you have any suggestions for additions to this section of the site, please fe
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
-<!--
+
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
--->
-
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
@@ -53,11 +51,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
-<!--
+
   * [AngularJS](https://angularjs.org/)
   * [D3](http://d3js.org/)
--->
-
   * [Apache Cordova](https://cordova.apache.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)

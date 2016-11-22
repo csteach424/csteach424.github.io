@@ -72,6 +72,13 @@ There is no specific textbook for this course.
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 -->
 
+###### Week 13 - 21st November 2016
+
+  * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.
+  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
+  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
+  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
+
 ###### Week 12 - 14th November 2016
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
