@@ -72,6 +72,13 @@ There is no specific textbook for this course.
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 -->
 
+###### Week 14 - 28th November 2016
+
+  * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
+  * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
+  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
+  * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
+
 ###### Week 13 - 21st November 2016
 
   * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.

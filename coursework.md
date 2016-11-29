@@ -86,7 +86,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * describe patterns used in design of UI and interaction
   * layout choices...
 * show and explain implemented differences from DEV week
-  * where are why did you update the app?
+  * where and why did you update the app?
   * perceived benefits of the updates?
 * how did you respond to peer review?
 * ...

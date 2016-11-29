@@ -425,6 +425,23 @@ NB: further information on mockups can be found in the following document
 
 -->
 
+#### Week 14 - 28th November 2016
+
+* Review this week's [notes and material](/notes)
+* Review the Final Report Outline,
+  * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 14](https://github.com/csteach424/source/tree/master/2016/fall/week14)
+* Please prepare your group's project presentation for Monday 5th December 2016
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be a maximum of 10 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 5th December 2016.
+
+Any questions, please let me know. Enjoy your week.
+
 #### Week 13 - 21st November 2016
 
 * Review this week's [notes and material](/notes)
