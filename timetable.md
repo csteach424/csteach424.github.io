@@ -9,7 +9,7 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 424, Fall 2016
+summary: course timetable for COMP 424
 ---
 
 #### Class Schedule
@@ -17,27 +17,24 @@ summary: course timetable for COMP 424, Fall 2016
 This class will meet at the following time and place,
 
 * Time: Monday 4.15pm to 6.45pm
-* Place: [Corboy Law Center - Room 208](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Place: [Corboy Law Center - Room 302](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
 
-* Labor Day: Monday 5th September 2016
-  * **n.b.** no formal class: 5th September 2016
-* Mid-semester break: 10th to 11th October 2016
-  * **n.b.** no formal class: 10th October 2016
-* DEV week: 10th to 17th October 2016
-  * DEV week presentation due on Monday 17th October 2016 @ 4.15pm
-* Thanksgiving break: 23rd to 26th November 2016
-* Final class: 5th December 2016
-  * Final presentation due on Monday 5th December 2016 @ 4.15pm
-* Exam week: 12th December to 17th December 2016
-	* Final assessment due on Monday 12th December 2016 @ 4.15pm
+  * Spring break: 6th to 11th March 2017
+    * **n.b.** no formal class: 6th March 2017
+  * DEV week: 6th March to 13th March 2017
+    * DEV week presentation due on Monday 13th March 2017 @ 4.15pm
+  * Final class: Monday 24th April 2017
+    * Final presentation due on Monday 24th April 2017 @ 4.15pm
+  * Exam week: 1st May to 6th May 2017
+	 * Final assessment due on Monday 1st May 2017 @ 4.15pm
 
 #### Coursework Schedule
 
-* Monday 17th October 2016
-  * Presentation & demo of DEV week assessment @ 4.15pm
-* Monday 5th December 2016
-  * Demonstration of final assessment @ 4.15pm
-* Monday 12th December 2016
-  * Final assessment report due by 4.15pm
+* DEV week demo
+  * due Monday 13th March 2017 @ 4.15pm
+* final team demo
+  * due Monday 24th April 2017 @ 4.15pm
+* final team report
+  * due Monday 1st May 2017 @ 4.15pm

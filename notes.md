@@ -12,43 +12,13 @@ published: true
 summary: course notes and material for COMP 424
 ---
 
-Course notes and material will be added to this page during the Fall semester.
+Course notes and material will be added to this page during the semester.
 
 This material will be updated on a weekly basis.
-
-#### Notes
 
 ***
 
 <!--
-##### Week 14 - 25th April 2016
-  * [final report outline](/assets/docs/comp424-final-report-outline.pdf)
-
-##### Week 13 - 18th April 2016
-  * [course](/assets/docs/Comp424-week13.pdf)
-  * [course extra - final report outline](/assets/docs/comp424-final-report-outline.pdf)
-
-##### Week 12 - 11th April 2016
-  * [course](/assets/docs/Comp424-week12.pdf)
-  * [course extra - final report outline](/assets/docs/comp424-final-report-outline.pdf)
-
-##### Week 11 - 4th April 2016
-  * [course](/assets/docs/Comp424-week11.pdf)
-
-##### Week 10 - 28th March 2016
-  * [course](/assets/docs/Comp424-week10.pdf)
-
-##### Week 9 - 21st March 2016
-  * [course](/assets/docs/Comp424-week9.pdf)
-
-##### Week 8 - 14th March 2016
-  * [course](/assets/docs/Comp424-week8.pdf)
-
-##### Week 6 - 29th February 2016
-  * [course](/assets/docs/Comp424-week6.pdf)
-  * [design and interface - part 2](/assets/docs/design-interface-part2.pdf)
--->
-
 ##### Week 15 - 5th December 2016
   * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
 
@@ -96,8 +66,9 @@ This material will be updated on a weekly basis.
 
 ##### Week 3 - 12th September 2016
   * [course](/assets/docs/Comp424-week3.pdf)
+-->
 
-##### Week 1 - 29th August 2016
+##### Week 1 - 23rd January 2017
   * [course](/assets/docs/Comp424-week1.pdf)
   * extras
-    * [Git basics](/assets/docs/extras/fall2016/git-basics.pdf)
+    * [Git basics](/assets/docs/extras/2017/spring/git-basics.pdf)

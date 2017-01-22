@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2016
-month: 08
-day: 29
+year: 2017
+month: 01
+day: 22
 published: true
-summary: welcome to the new Fall semester, 2016
+summary: welcome to the new Spring semester, 2017
 menu: new-semester
 ---
 
-Welcome to the new Fall semester, and the COMP 424 course in *Client-Side Web Design*.
+Welcome to the new semester, and the COMP 424 course in *Client-Side Web Design*.
 
 Please ensure that you check this website each week for new posts, notes, and material.
 

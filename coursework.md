@@ -29,7 +29,7 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the app?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 4 persons per group)
+  * work may be conducted individually or in groups (max. 5 persons per group)
     * **hint**: working as a group will be a lot easier
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
@@ -59,17 +59,25 @@ If you have any questions on the following assessments, please [contact](/contac
 * begin development of a web application
   * built from scratch
   * builds upon examples, technology outlined during first part of semester
+  * purpose, scope &c. is group's choice
+  * **NO** blogs, to-do lists, note-taking...
+    * chosen topic requires approval
+  * **NO** PHP, Python, XML, Bootstrap...
+  * must implement data from either
+      * self hosted (MongoDB, Redis...)
+      * APIs
+      * cloud services (Firebase...)
+      * **NO** SQL...
 * outline research conducted
 * describe data chosen for application
 * show any prototypes, patterns, and designs
-
 
 **NB:** DEV week assessment will include the following:
 
 * brief presentation or demonstration of current project work
   * ~ 5 to 10 minutes per group
   * analysis of work conducted so far
-    * eg: during semester & DEV week
+    * e.g. during semester & DEV week
   * presentation, demonstration, or video overview...
     * outline current state of web app
     * show prototypes and designs
@@ -82,6 +90,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 * continue to develop your app concept and prototypes
 * working app (as close as possible...)
+  * **NO** PHP, Python, XML, SQL, Bootstrap...
 * explain design decisions
   * describe patterns used in design of UI and interaction
   * layout choices...
@@ -94,11 +103,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Monday 17th October 2016 @ 4.15pm
+  * due Monday 13th March 2017 @ 4.15pm
 * final team demo
-  * due Monday 5th December 2016 @ 4.15pm
+  * due Monday 24th April 2017 @ 4.15pm
 * final team report
-  * due Monday 12th December 2016 @ 4.15pm
+  * due Monday 1st May 2017 @ 4.15pm
 
 #### Grading
 
