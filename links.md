@@ -22,22 +22,28 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
   * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+
+<!--
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
+-->
 
 #### Documentation & Guides
-
+<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-->
+
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+
+<!--
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
@@ -46,11 +52,18 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
+-->
+
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+
+<!--
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+-->
+
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
+<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [AngularJS](https://angularjs.org/)
@@ -59,9 +72,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
-  * JQuery
-    * [JQuery](https://jquery.com/)
-    * [JQuery UI](http://jqueryui.com/)
+  * jQuery
+    * [jQuery](https://jquery.com/)
+    * [jQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
   * [React](http://facebook.github.io/react/)
@@ -94,18 +107,24 @@ and choose your favourite.
 * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
 * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
-<!--
 #### Useful Tools & Reference
 
+<!--
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
+-->
+
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
+
+<!--
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
+-->
+
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites
@@ -115,12 +134,16 @@ and choose your favourite.
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+
+<!--
 * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+-->
+
 * [The Unicode Consortium](http://www.unicode.org/)
 * [Unicode Information](http://www.alanwood.net/unicode/)
   * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -128,7 +151,6 @@ and choose your favourite.
 * W3C
   * [Standards](http://www.w3.org/standards/)
   * [App Foundations](http://www.w3.org/appfoundations/)
--->
 
 ***
 

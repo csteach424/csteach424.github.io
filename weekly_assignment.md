@@ -239,14 +239,15 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
-#### Week 3 - 12th September 2016
+-->
+
+#### Week 2 - 30th January 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2016/fall/week3)
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2017)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/vAz5Ug6c/week-1-project-details)
--->
+  * [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
 
 ##### Week 1 - 23rd January 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document

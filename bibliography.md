@@ -98,11 +98,12 @@ There is no specific textbook for this course.
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
 
-##### Week 3 - 12th September 2016
+-->
+
+##### Week 2 - 30th January 2017
 
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
--->
 
 ##### Week 1 - 23rd January 2017
 
