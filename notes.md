@@ -60,10 +60,10 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week5.pdf)
   * extras
     * [design mockups](/assets/docs/extras/fall2016/design-mockups.pdf)
-
-##### Week 4 - 19th September 2016
-  * [course](/assets/docs/Comp424-week4.pdf)
 -->
+
+##### Week 3 - 6th February 2017
+  * [course](/assets/docs/Comp424-week3.pdf)
 
 ##### Week 2 - 30th January 2017
   * [course](/assets/docs/Comp424-week2.pdf)

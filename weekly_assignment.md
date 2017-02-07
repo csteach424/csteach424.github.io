@@ -222,15 +222,17 @@ Enjoy your mid-semester break.
 
 Any questions, please let me know.
 
-#### Week 4 - 19th September 2016
+-->
+
+#### Week 3 - 6th February 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Review the CSS code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 4](https://github.com/csteach424/source/tree/master/2016/fall/week4)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2017/week3)
 * Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course and class notes for weeks 1 to 4 inclusive
-  * quiz will be approximately 30 minutes in length
+  * quiz will include material from the course and class notes for weeks 1 to 3 inclusive
+  * quiz will be approximately 40 minutes in length
     * **n.b.** extra time will be available if needed...
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
@@ -239,13 +241,13 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
--->
+Enjoy your week.
 
 #### Week 2 - 30th January 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2017)
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/2017/week2)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
   * [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
 
