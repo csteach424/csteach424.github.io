@@ -231,7 +231,7 @@ Any questions, please let me know.
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach424/source/tree/master/2017/week3)
 * Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course and class notes for weeks 1 to 3 inclusive
+  * quiz will include material from the course, and class notes for weeks 1 to 3 inclusive
   * quiz will be approximately 40 minutes in length
     * **n.b.** extra time will be available if needed...
   * questions will be multiple choice
