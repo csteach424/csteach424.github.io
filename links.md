@@ -26,25 +26,22 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
   * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-
-<!--
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 #### Documentation & Guides
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
 -->
 
+  * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 <!--
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -59,7 +56,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [AngularJS](https://angularjs.org/)
@@ -95,7 +91,6 @@ and choose your favourite.
 #### Various
 
 * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
--->
 
 #### Videos
 
@@ -111,16 +106,13 @@ and choose your favourite.
 * [Git](http://git-scm.com/)
   * [Pro Git](http://git-scm.com/book/en/v2)
 -->
+
 * [CSS Lint](http://csslint.net/)
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
-
-<!--
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
--->
-
 * [Web Developer](http://chrispederick.com/work/web-developer/)
 
 #### Websites
