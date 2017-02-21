@@ -183,24 +183,41 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 6 - 3rd October 2016
+#### Week 6 - 27th February 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
-  * [design and interface](/assets/docs/extras/fall2016/design-interface.pdf)
+  *
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 6](https://github.com/csteach424/source/tree/master/2016/fall/week6)
-* Prepare you DEV week group project and demonstration, as outlined in this week's class
+  * [Source - Week 6](https://github.com/csteach424/source/tree/master/2017/week6)
+* Please start to prepare you DEV week group project and demonstration, as outlined in this week's class
   * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
   * details are also available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [DEV Week updates](https://trello.com/b/R2mpO0wN/dev-week)
+  * [Week 6 - DEV Week Prep]()
   * I've added instructions on this board.
+
+**n.b.** **NO** CLASS NEXT WEEK
+
+Enjoy your Spring Break.
+
+-->
+
+#### Week 5 - 20th February 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [design and interface](/assets/docs/extras/2017/spring/design-interface-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 5](https://github.com/csteach424/source/tree/master/2017/week5)
+* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week5**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+  * consider organisation of content
+  * general consistency of design, colours, interaction options
+  * navigation and data presentation patterns
 
 Any questions, please let me know.
 
-Enjoy your mid-semester break.
--->
+Enjoy your week.
 
 #### Week 4 - 13th September 2017
 

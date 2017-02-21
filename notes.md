@@ -51,11 +51,12 @@ This material will be updated on a weekly basis.
 ##### Week 8 - 17th October 2016
   * N/A
 
-##### Week 6 - 3rd October 2016
-  * [course](/assets/docs/Comp424-week6.pdf)
-  * extras
-    * [design and interface](/assets/docs/extras/fall2016/design-interface.pdf)
 -->
+
+##### Week 5 - 20th February 2017
+  * [course](/assets/docs/Comp424-week5.pdf)
+  * extras
+    * [design and interface](/assets/docs/extras/2017/spring/design-interface-intro.pdf)
 
 ##### Week 4 - 13th February 2017
   * [course](/assets/docs/Comp424-week4.pdf)
