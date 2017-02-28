@@ -183,6 +183,8 @@ Any questions, please let me know.
 
 Enjoy your week.
 
+-->
+
 #### Week 6 - 27th February 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
@@ -194,14 +196,12 @@ Enjoy your week.
   * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
   * details are also available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [Week 6 - DEV Week Prep]()
+  * [Week 6 - DEV Week](https://trello.com/b/zqDet2iN/dev-week)
   * I've added instructions on this board.
 
 **n.b.** **NO** CLASS NEXT WEEK
 
 Enjoy your Spring Break.
-
--->
 
 #### Week 5 - 20th February 2017
 

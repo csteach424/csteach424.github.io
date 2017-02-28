@@ -66,17 +66,13 @@ There is no specific textbook for this course.
   * W3
     * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 
-##### Week 9 - 24th October 2016
+-->
+
+##### Week 6 - 27th February 2017
 
   * [jQuery API](https://api.jquery.com/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-
-##### Week 8 - 17th October 2016
-
-  * N/A
-
--->
 
 ##### Week 5 - 20th February 2017
 
