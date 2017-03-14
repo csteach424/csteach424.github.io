@@ -46,6 +46,9 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week10.pdf)
 -->
 
+##### Week 8 - 13th March 2017
+  * [course](/assets/docs/Comp424-week8.pdf)
+
 ##### Week 6 - 27th February 2017
   * [course](/assets/docs/Comp424-week6.pdf)
 

@@ -68,6 +68,10 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 8 - 13th March 2017
+
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+
 ##### Week 6 - 27th February 2017
 
   * [jQuery API](https://api.jquery.com/)
