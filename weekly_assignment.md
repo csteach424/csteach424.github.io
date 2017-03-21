@@ -110,42 +110,24 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
-#### Week 10 - 31st October 2016
+-->
 
-* Review this week's [notes and material](/notes)
+#### Week 9 - 20th March 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [design our app](/assets/docs/extras/2017/spring/design-our-app.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 10](https://github.com/csteach424/source/tree/master/2016/fall/week10)
+  * [Source - Week 9](https://github.com/csteach424/source/tree/master/2017/week9)
 * Prepare for a quiz, which is scheduled for next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 5, 6, 9, and 10 inclusive
-  * quiz will be approximately 40 minutes in length
-    * **n.b.** extra time will be available if needed...
+  * quiz will include material from the course, class, and extra notes for weeks 4, 5, 6, 8, and 9 inclusive
+  * quiz will be approximately 45 minutes in length
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
   * this quiz uses an online Google Form
     * **NB:** you'll need a Google account to register for the quiz
 
 Any questions, please let me know.
-
-#### Week 9 - 24th October 2016
-
-* Review this week's [notes and material](/notes)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 9](https://github.com/csteach424/source/tree/master/2016/fall/week9)
-* Please contribute to this week's class discussion on the Slack channel, **#discussion-week9**, for the website, [Werner Design Werks](http://wdw.com/)
-  * consider overall aesthetics for the website, including use of typography, images...
-  * consider organisation and presentation of data
-  * consider website's design as a reflection of its goals
-    * eg: how is the content influencing the site's design, organisation, and general layout
-  * how do they use their site to engage with their users, customers, and general visitors?
-    * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
-
-Any questions, please let me know,
-
-Enjoy your week.
-
--->
 
 #### Week 8 - 13th March 2017
 

@@ -53,7 +53,9 @@ There is no specific textbook for this course.
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
 
-##### Week 10 - 31st October 2016
+-->
+
+##### Week 9 - 20th March 2017
 
   * Flickr API
     * [Public feeds](https://www.flickr.com/services/feeds/)
@@ -65,8 +67,6 @@ There is no specific textbook for this course.
     * [jQuery - promise](https://api.jquery.com/promise/)
   * W3
     * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-
--->
 
 ##### Week 8 - 13th March 2017
 

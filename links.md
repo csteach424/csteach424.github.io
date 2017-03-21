@@ -83,6 +83,7 @@ and choose your favourite.
   * [Flinto](https://www.flinto.com/)
   * [Framer](http://framerjs.com/)
   * [Google Drawings](http://goo.gl/qPRCfG)
+  * [InVision](https://www.invisionapp.com/)
   * [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
@@ -103,11 +104,11 @@ and choose your favourite.
 <!--
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
-* [Git](http://git-scm.com/)
-  * [Pro Git](http://git-scm.com/book/en/v2)
 -->
 
 * [CSS Lint](http://csslint.net/)
+* [Git](http://git-scm.com/)
+  * [Pro Git](http://git-scm.com/book/en/v2)
 * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
 * [HTML5 Test](http://html5test.com/)
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)

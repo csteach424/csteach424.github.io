@@ -39,12 +39,12 @@ This material will be updated on a weekly basis.
 
 ##### Week 11 - 7th November 2016
   * [course](/assets/docs/Comp424-week11.pdf)
-  * extras
-    * [Designing our app](/assets/docs/extras/fall2016/design-our-app.pdf)
-
-##### Week 10 - 31st October 2016
-  * [course](/assets/docs/Comp424-week10.pdf)
 -->
+
+##### Week 9 - 20th March 2017
+  * [course](/assets/docs/Comp424-week9.pdf)
+  * extras
+    * [Designing our app](/assets/docs/extras/2017/spring/design-our-app.pdf)
 
 ##### Week 8 - 13th March 2017
   * [course](/assets/docs/Comp424-week8.pdf)
