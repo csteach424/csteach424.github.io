@@ -42,18 +42,14 @@ There is no specific textbook for this course.
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * Node.js
-    * [Node.js](https://nodejs.org/en/)
-    * [ExpressJS](http://expressjs.com/)
   * Redis
     * [redis.io](http://redis.io/)
+-->
 
-###### Week 11 - 7th November 2016
+##### Week 10 - 27th March 2017
   * Node.js
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
-
--->
 
 ##### Week 9 - 20th March 2017
 

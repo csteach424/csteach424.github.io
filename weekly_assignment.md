@@ -65,7 +65,7 @@ Any questions, please let me know. Enjoy your week.
   * please also include an outline of planned contribution from each group member
 * Please continue project design and development for the end of semester final presentation and report
 * Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
-  * choose two favourite data visualistions you've recently seen in an article, website, mobile application etc...
+  * choose two favourite data visualistions you've recently seen in an article, website, mobile application &c....
   * why did you choose these visualisations?
   * what did you like or dislike about each visualisation?
   * outline the underlying data source, for example a census or opinion poll, geographical data, and so on
@@ -106,11 +106,34 @@ Any questions, please let me know.
   * consider data organisation, and the available search and filter options?
     * how easy is it to find examples of artefacts and objects within the site's catalogue?
   * how well do they manage the presentation of site resources in different natural languages?
-    * eg: did you notice any difference in content, format, or options from French to English etc?
+    * eg: did you notice any difference in content, format, or options from French to English &c.?
 
 Any questions, please let me know.
 
+#### Week
+
 -->
+
+#### Week 10 - 27th March 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [design and information architecture](/assets/docs/extras/2017/spring/design-information-architecture.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 10](https://github.com/csteach424/source/tree/master/2017/week10)
+* Please create a list on the [Week 10 - Patterns](https://trello.com/b/l5SBU7f0/week-10-patterns) Trello board for your group, and add the following details,
+  * examples of interaction within your site that would benefit from using jQuery's Deferred object
+  * other events or requests within your site that would also benefit from jQuery's Deferred object
+    * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
+* Please contribute to this week's class discussion on Slack, **#discussion-week10**, for the website, [The Louvre](http://www.louvre.fr/en/)
+  * please consider this site's presentation of media, and its organisation and structure
+  * how does the site present its cultural assets to help engage with users and visitors?
+  * consider data organisation, and the available search and filter options?
+    * how easy is it to find examples of artefacts and objects within the site's catalogue?
+  * how well do they manage the presentation of site resources in different natural languages?
+    * eg: did you notice any difference in content, format, or options from French to English &c.?
+
+Any questions, please let me know.
 
 #### Week 9 - 20th March 2017
 
@@ -151,7 +174,7 @@ Any questions, please let me know.
   * Please add these files as soon as possible, and by **Monday 20th March 2017** at the latest
   * instructions are included as a list on the above board
 * Please share your completed DEV Week code, and any associated files or data, with myself
-  * code etc should be pushed to a repository on GitHub or Bitbucket
+  * code &c. should be pushed to a repository on GitHub or Bitbucket
   * please share these files by **Monday 20th March 2017** at the latest
 * Complete the following Trello board,
   * [Week 8 - DEV Week Contributions](https://trello.com/b/LoJ0RdPK/week-8-dev-week-contributions)
