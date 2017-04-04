@@ -35,7 +35,9 @@ There is no specific textbook for this course.
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
-###### Week 12 - 14th November 2016
+-->
+
+##### Week 11 - 3rd April 2017
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * MongoDB
@@ -44,7 +46,6 @@ There is no specific textbook for this course.
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * Redis
     * [redis.io](http://redis.io/)
--->
 
 ##### Week 10 - 27th March 2017
   * Node.js

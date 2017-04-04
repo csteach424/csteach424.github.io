@@ -38,6 +38,21 @@ This material will be updated on a weekly basis.
     * [Designing our app](/assets/docs/extras/fall2016/design-information-architecture.pdf)
 -->
 
+##### Week 11 - 3rd April 2017
+  * [course](/assets/docs/Comp424-week11.pdf)
+  * extras - full notes - HTML
+    * [HTML - Intro](/assets/docs/extras/2017/spring/html/html-intro.pdf)
+    * [HTML - Basics](/assets/docs/extras/2017/spring/html/html-basics.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2017/spring/html/html-dom-intro.pdf)
+  * extras - full notes - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2017/spring/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2017/spring/html5/html5-extra.pdf)
+  * extras - full notes - CSS
+    * [CSS - Intro](/assets/docs/extras/2017/spring/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2017/spring/css/css-basics.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2017/spring/css/css-html5.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2017/spring/css/css-box-model.pdf)
+
 ##### Week 10 - 27th March 2017
   * [course](/assets/docs/Comp424-week10.pdf)
   * extras

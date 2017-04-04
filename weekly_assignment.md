@@ -75,44 +75,28 @@ Any questions, please let me know.
 
 Enjoy your Thanksgiving holiday!
 
+-->
 
-#### Week 12 - 14th November 2016
+#### Week 11 - 3rd April 2017
 
 * Review this week's [notes and material](/notes)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 12](https://github.com/csteach424/source/tree/master/2016/fall/week12)
-* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * [Source - Week 11](https://github.com/csteach424/source/tree/master/2017/week11)
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
   * please consider this site's overall aesthetics, graphics, and general images
   * does the form match the intended function?
   * is it a useful website for its intended target, a restaurant?
   * what would you change in the site's design and usage, and why?
+* Prepare for a quiz, which is scheduled for next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 10 and 11 inclusive
+  * quiz will be approximately 35 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * this quiz uses an online Google Form
+    * **NB:** you'll need a Google account to register for the quiz
 
 Any questions, please let me know.
-
-#### Week 11 - 7th November 2016
-
-* Review this week's [notes and material](/notes)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 11](https://github.com/csteach424/source/tree/master/2016/fall/week11)
-* Please create a list on the [Week 11 - Patterns](https://trello.com/b/SdwwrD0q/week-11-patterns) Trello board for your group, and add the following details,
-  * examples of interaction within your site that would benefit from using jQuery's Deferred object
-  * other events or requests within your site that would also benefit from jQuery's Deferred object
-  * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [The Louvre](http://www.louvre.fr/en/)
-  * please consider this site's presentation of media, and its organisation and structure
-  * how does the site present its cultural assets to help engage with users and visitors?
-  * consider data organisation, and the available search and filter options?
-    * how easy is it to find examples of artefacts and objects within the site's catalogue?
-  * how well do they manage the presentation of site resources in different natural languages?
-    * eg: did you notice any difference in content, format, or options from French to English &c.?
-
-Any questions, please let me know.
-
-#### Week
-
--->
 
 #### Week 10 - 27th March 2017
 
