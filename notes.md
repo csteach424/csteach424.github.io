@@ -31,12 +31,17 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week13.pdf)
   * extras
     * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
-
-##### Week 12 - 14th November 2016
-  * [course](/assets/docs/Comp424-week12.pdf)
-  * extras
-    * [Designing our app](/assets/docs/extras/fall2016/design-information-architecture.pdf)
 -->
+
+##### Week 12 - 10th April 2017
+  * [course](/assets/docs/Comp424-week12.pdf)
+  * extras - final report outline
+    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
+  * extras - JS
+    * [JS - Intro](/assets/docs/extras/2017/spring/js/js-intro.pdf)
+    * [JS - Core](/assets/docs/extras/2017/spring/js/js-core.pdf)
+    * [JS - Logic](/assets/docs/extras/2017/spring/js/js-logic.pdf)
+    * [JS - JSON](/assets/docs/extras/2017/spring/js/js-json.pdf)
 
 ##### Week 11 - 3rd April 2017
   * [course](/assets/docs/Comp424-week11.pdf)

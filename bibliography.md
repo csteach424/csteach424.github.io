@@ -27,15 +27,14 @@ There is no specific textbook for this course.
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
+-->
 
-###### Week 13 - 21st November 2016
+###### Week 12 - 10th April 2017
 
   * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
-
--->
 
 ##### Week 11 - 3rd April 2017
   * Homebrew for OS X

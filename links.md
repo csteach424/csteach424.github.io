@@ -119,15 +119,11 @@ and choose your favourite.
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
-
-<!--
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
-
 * [The Unicode Consortium](http://www.unicode.org/)
 * [Unicode Information](http://www.alanwood.net/unicode/)
   * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
