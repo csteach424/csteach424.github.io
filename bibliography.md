@@ -20,14 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
-<!--
-###### Week 14 - 28th November 2016
+###### Week 13 - 17th April 2017
 
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
-  * [React - Starter Kit](http://facebook.github.io/react/docs/getting-started.html)
--->
 
 ###### Week 12 - 10th April 2017
 

@@ -54,6 +54,30 @@ Any questions, please let me know. Enjoy your week.
 
 -->
 
+#### Week 13 - 17th April 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the following extra documents
+  * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
+  * [Node.js - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-outline.pdf)
+  * [Node.js & Express - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-express-outline.pdf)
+  * [Node.js & MongoDB - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-mongo-outline.pdf)
+  * [OAuth 2.0 & Google APIs](/assets/docs/extras/2017/spring/google-apis-overview.pdf)
+  * [JSX - intro](/assets/docs/extras/2017/spring/react/jsx-intro.pdf)
+  * [React - intro](/assets/docs/extras/2017/spring/react/react-proofs.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 13](https://github.com/csteach424/source/tree/master/2017/week13)
+* Please prepare your group's project presentation for Monday 24th April 2017
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be a maximum of 10 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 27th April 2017.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 12 - 10th April 2017
 
 * Review this week's [notes and material](/notes)

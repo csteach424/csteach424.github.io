@@ -26,12 +26,21 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week14.pdf)
   * extras
     * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
-
-##### Week 13 - 21st November 2016
-  * [course](/assets/docs/Comp424-week13.pdf)
-  * extras
-    * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
 -->
+
+##### Week 13 - 17th April 2017
+  * [course](/assets/docs/Comp424-week13.pdf)
+  * extras - final report outline
+    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
+  * extras - Node.js, Express, MongoDB &c.
+    * [Node.js - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-outline.pdf)
+    * [Node.js & Express - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-express-outline.pdf)
+    * [Node.js & MongoDB - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-mongo-outline.pdf)
+  * extras - OAuth 2.0
+    * [OAuth 2.0 & Google APIs](/assets/docs/extras/2017/spring/google-apis-overview.pdf)
+  * extras - React
+    * [JSX - intro](/assets/docs/extras/2017/spring/react/jsx-intro.pdf)
+    * [React - intro](/assets/docs/extras/2017/spring/react/react-proofs.pdf)
 
 ##### Week 12 - 10th April 2017
   * [course](/assets/docs/Comp424-week12.pdf)
