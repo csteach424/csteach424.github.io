@@ -72,7 +72,7 @@ Any questions, please let me know. Enjoy your week.
   * please consult the [coursework](/coursework) page for further details
   * each presentation should be a maximum of 10 minutes in length
 
-If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 27th April 2017.
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 24th April 2017.
 
 Any questions, please let me know.
 
