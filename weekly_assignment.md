@@ -54,6 +54,22 @@ Any questions, please let me know. Enjoy your week.
 
 -->
 
+#### Week 14 - 24th April 2017
+
+* Please complete your group's final project report
+  * suggested report length between 5 and 10 pages
+* Further details can be found in the following outline
+  * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
+* Report must be submitted by 4.15pm on Monday 1st May 2017
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub or Bitbucket
+  * zip file containing project code
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
+
+Any questions, please let me know.
+
 #### Week 13 - 17th April 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extra documents

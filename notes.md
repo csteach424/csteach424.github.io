@@ -28,6 +28,10 @@ This material will be updated on a weekly basis.
     * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
 -->
 
+##### Week 14 - 24th April 2017
+  * extras - final report outline
+    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
+
 ##### Week 13 - 17th April 2017
   * [course](/assets/docs/Comp424-week13.pdf)
   * extras - final report outline
