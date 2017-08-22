@@ -1,5 +1,5 @@
 ---
-title: Week 3 course update
+title: Week 1 course update
 author: ancientlives
 layout: post-vertical
 
@@ -8,14 +8,14 @@ categories:
 
 tags: general news
 year: 2017
-month: 02
-day: 06
+month: 08
+day: 28
 published: true
-summary: site updated and week 3 assignment
+summary: site updated and week 1 assignment
 menu: new-semester
 ---
 
-The course website has now been updated for this week's class, week 3.
+The course website has now been updated for this week's class, week 1.
 
 Updates include the following,
 

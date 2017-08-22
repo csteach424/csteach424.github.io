@@ -20,16 +20,16 @@ If you have any questions on the following assessments, please [contact](/contac
 
 * assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), DEV week ([2](#assessment2)), and final demo and report ([3](#assessment3))
   * DEV week demo
-    * brief group presentation or demo
+    * brief group presentation and demo
   * final demo
-    * presentation, online demo, video overview...
+    * presentation and demo
   * final report
     * clearly detail design and development process
     * explain implemented differences from DEV week
       * where and why did you update the app?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 5 persons per group)
+  * work may be conducted individually or in groups (max. 4 persons per group)
     * **hint**: working as a group will be a lot easier
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
@@ -78,7 +78,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * ~ 5 to 10 minutes per group
   * analysis of work conducted so far
     * e.g. during semester & DEV week
-  * presentation, demonstration, or video overview...
+  * presentation and demonstration
     * outline current state of web app
     * show prototypes and designs
     * explain what works & does not work
@@ -103,11 +103,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Monday 13th March 2017 @ 4.15pm
+  * due Monday 16th October 2017 @ 4.15pm
 * final team demo
-  * due Monday 24th April 2017 @ 4.15pm
+  * due Monday 4th December 2017 @ 4.15pm
 * final team report
-  * due Monday 1st May 2017 @ 4.15pm
+  * due Monday 11th December 2017 @ 4.15pm
 
 #### Grading
 

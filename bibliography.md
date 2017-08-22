@@ -20,6 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
 ###### Week 14 - 24th April 2017
 
   * N/A
@@ -106,3 +107,5 @@ There is no specific textbook for this course.
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+
+-->

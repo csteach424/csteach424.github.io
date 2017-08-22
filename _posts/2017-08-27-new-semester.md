@@ -8,10 +8,10 @@ categories:
 
 tags: general news
 year: 2017
-month: 01
-day: 22
+month: 08
+day: 27
 published: true
-summary: welcome to the new Spring semester, 2017
+summary: welcome to the new Fall semester, 2017
 menu: new-semester
 ---
 

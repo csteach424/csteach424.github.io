@@ -22,6 +22,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+<!--
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
@@ -131,3 +132,5 @@ and choose your favourite.
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
+
+-->

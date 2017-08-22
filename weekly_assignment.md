@@ -52,8 +52,6 @@ If there are any special hardware or software requirements for next week's prese
 
 Any questions, please let me know. Enjoy your week.
 
--->
-
 #### Week 14 - 24th April 2017
 
 * Please complete your group's final project report
@@ -325,3 +323,6 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+-->
+
+##### Week 1 - 28th August 2017
