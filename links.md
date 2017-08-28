@@ -22,15 +22,17 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles & Papers
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
   * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+
+<!--
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
+-->
 
 #### Documentation & Guides
-
+<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -46,7 +48,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+-->
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+
+<!--
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
@@ -86,13 +91,15 @@ and choose your favourite.
 #### Various
 
 * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
+-->
 
 #### Videos
 
-* Introducing Atom = [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+* Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
 * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
 * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
+<!--
 #### Useful Tools & Reference
 
 * [Chocolatey for Windows](https://chocolatey.org/)

@@ -295,12 +295,14 @@ Enjoy your week.
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
   * [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
 
-##### Week 1 - 23rd January 2017
+##### Week 1 - 28th August 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
-  * [Git basics](/assets/docs/extras/2017/spring/git-basics.pdf)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
+  * [Git basics](/assets/docs/extras/2017/fall/git-basics.pdf)
+* Please check the following board on Trello for group details, including individual group assignments
+  * [Project Groups](https://trello.com/b/RSGGhi9C/project-groups)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/mkDZFkad/week-1-project-details)
   * project name
-  * team members
+  * the full name of each team member (or preferred name)
   * any ideas you are currently considering for this project work
   * level of experience with HTML, CSS, JS
 
@@ -308,9 +310,10 @@ Enjoy your week.
 
 The course's Trello group is available at the following URL,
 
-* [COMP 424 - Spring 2017 @ LUC](https://trello.com/comp424spring2017luc)
+* [COMP 424 - Fall 2017 @ LUC](https://trello.com/csteach424)
+  * https://trello.com/csteach424
 
-**NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP424 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
+**n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
 
@@ -324,5 +327,3 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 -->
-
-##### Week 1 - 28th August 2017

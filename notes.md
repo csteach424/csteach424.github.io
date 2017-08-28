@@ -95,9 +95,9 @@ This material will be updated on a weekly basis.
 ##### Week 2 - 30th January 2017
   * [course](/assets/docs/Comp424-week2.pdf)
 
-##### Week 1 - 23rd January 2017
-  * [course](/assets/docs/Comp424-week1.pdf)
+##### Week 1 - 28th August 2017
+  * [course](/assets/docs/comp424-week1.pdf)
   * extras
-    * [Git basics](/assets/docs/extras/2017/spring/git-basics.pdf)
+    * [Git basics](/assets/docs/extras/2017/fall/git-basics.pdf)
 
 -->

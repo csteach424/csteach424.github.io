@@ -29,8 +29,7 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the app?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 4 persons per group)
-    * **hint**: working as a group will be a lot easier
+  * groups will be assigned at the start of the semester (max. 4 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
