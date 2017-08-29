@@ -295,6 +295,8 @@ Enjoy your week.
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
   * [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
 
+-->
+
 ##### Week 1 - 28th August 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
   * [Git basics](/assets/docs/extras/2017/fall/git-basics.pdf)
@@ -304,7 +306,7 @@ Enjoy your week.
   * project name
   * the full name of each team member (or preferred name)
   * any ideas you are currently considering for this project work
-  * level of experience with HTML, CSS, JS
+  * level of experience with HTML, CSS, JS...
 
   Please read the instructions available on the board, and then create a new list for your project group.
 
@@ -326,4 +328,3 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
--->
