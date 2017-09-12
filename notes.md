@@ -50,12 +50,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 11 - 3rd April 2017
   * [course](/assets/docs/Comp424-week11.pdf)
-  * extras - full notes - HTML
-    * [HTML - Intro](/assets/docs/extras/2017/spring/html/html-intro.pdf)
-    * [HTML - Basics](/assets/docs/extras/2017/spring/html/html-basics.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2017/spring/html/html-dom-intro.pdf)
-  * extras - full notes - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2017/spring/html5/html5-intro.pdf)
     * [HTML5 - Extra](/assets/docs/extras/2017/spring/html5/html5-extra.pdf)
   * extras - full notes - CSS
     * [CSS - Intro](/assets/docs/extras/2017/spring/css/css-intro.pdf)
@@ -91,11 +85,18 @@ This material will be updated on a weekly basis.
 
 ##### Week 3 - 6th February 2017
   * [course](/assets/docs/Comp424-week3.pdf)
-
-##### Week 2 - 30th January 2017
-  * [course](/assets/docs/Comp424-week2.pdf)
-
 -->
+
+##### Week 3 - 11th September 2017
+  * [course](/assets/docs/2017/Comp424-week3.pdf)
+  * extras - HTML
+    * [HTML - Intro](/assets/docs/extras/2017/fall/html/html-intro.pdf)
+    * [HTML - Basics](/assets/docs/extras/2017/fall/html/html-basics.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2017/fall/html/html-dom-intro.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2017/fall/html5/html5-intro.pdf)
+
+##### Week 2 - N/A
 
 ##### Week 1 - 28th August 2017
   * [course](/assets/docs/2017/Comp424-week1.pdf)

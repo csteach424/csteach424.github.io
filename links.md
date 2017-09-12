@@ -26,35 +26,32 @@ If you have any suggestions for additions to this section of the site, please fe
 
 * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
   * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-
-<!--
 * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 #### Documentation & Guides
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [W3C - CSS](http://www.w3.org/Style/CSS/)
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
 -->
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
 
 <!--
-  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
-  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [AngularJS](https://angularjs.org/)
@@ -95,28 +92,40 @@ and choose your favourite.
 
 #### Videos
 
-* Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
-* Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
-* W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
-<!--
 #### Useful Tools & Reference
 
+  * [CSS Lint](http://csslint.net/)
+  * [Git](http://git-scm.com/)
+    * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
+
+<!--
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
-* [CSS Lint](http://csslint.net/)
-* [Git](http://git-scm.com/)
-  * [Pro Git](http://git-scm.com/book/en/v2)
-* [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-* [HTML5 Test](http://html5test.com/)
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
 * [JSLint - JavaScript Validator](http://jslint.com/)
 * [JSONLint - JSON Validator](http://jsonlint.com/)
 * [Web Developer](http://chrispederick.com/work/web-developer/)
+-->
 
 #### Websites
 
-* A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * [The Unicode Consortium](http://www.unicode.org/)
+  * [Unicode Information](http://www.alanwood.net/unicode/)
+    * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
+  * [W3 Schools](http://www.w3schools.com/)
+    * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
+  * W3C
+    * [App Foundations](http://www.w3.org/appfoundations/)
+    * [Standards](http://www.w3.org/standards/)
+
+<!--
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
@@ -127,17 +136,9 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* [The Unicode Consortium](http://www.unicode.org/)
-* [Unicode Information](http://www.alanwood.net/unicode/)
-  * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
-* [W3 Schools](http://www.w3schools.com/)
-  * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
-* W3C
-  * [App Foundations](http://www.w3.org/appfoundations/)
-  * [Standards](http://www.w3.org/standards/)
 
 ***
 
-**n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
-
 -->
+
+**n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
