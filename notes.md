@@ -85,7 +85,7 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 4 - 18th September 2017
-  * [course](/assets/docs/Comp424-week4.pdf)
+  * [course](/assets/docs/2017/Comp424-week4.pdf)
   * extras - CSS
     * [CSS - Intro](/assets/docs/extras/2017/fall/css/css-intro.pdf)
     * [CSS - Basics](/assets/docs/extras/2017/fall/css/css-basics.pdf)
