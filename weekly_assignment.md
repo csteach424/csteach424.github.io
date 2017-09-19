@@ -268,16 +268,26 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 3 - 6th February 2017
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes
+#### Week 4 - 18th September 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - CSS
+    * [CSS - Intro](/assets/docs/extras/2017/fall/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2017/fall/css/css-basics.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2017/fall/css/css-html5.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2017/fall/css/css-box-model.pdf)
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2017/fall/design/design-mockups.pdf)
+  * extras - HTML5
+    * [HTML5 - Extra](/assets/docs/extras/2017/fall/html5/html5-extra.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/2017/week3)
+  * [Source - Week 4](https://github.com/csteach424/source/tree/master/week4)
 * Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course, and class notes for weeks 1 to 3 inclusive
+  * quiz will include material from the course, class, and extra notes for weeks 1 to 4 inclusive
   * quiz will be approximately 40 minutes in length
-    * **n.b.** extra time will be available if needed...
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
   * this quiz uses an online Google Form
@@ -286,8 +296,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 3 - 11th September 2017
 

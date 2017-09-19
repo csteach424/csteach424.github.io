@@ -82,10 +82,19 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp424-week4.pdf)
   * extras
     * [design mockups](/assets/docs/extras/2017/spring/design-mockups.pdf)
-
-##### Week 3 - 6th February 2017
-  * [course](/assets/docs/Comp424-week3.pdf)
 -->
+
+##### Week 4 - 18th September 2017
+  * [course](/assets/docs/Comp424-week4.pdf)
+  * extras - CSS
+    * [CSS - Intro](/assets/docs/extras/2017/fall/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2017/fall/css/css-basics.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2017/fall/css/css-html5.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2017/fall/css/css-box-model.pdf)
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2017/fall/design/design-mockups.pdf)
+  * extras - HTML5
+    * [HTML5 - Extra](/assets/docs/extras/2017/fall/html5/html5-extra.pdf)
 
 ##### Week 3 - 11th September 2017
   * [course](/assets/docs/2017/Comp424-week3.pdf)

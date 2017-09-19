@@ -24,9 +24,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Articles & Papers
 
-* Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.
-  * [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-* Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
+  * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+  * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -70,6 +69,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
+-->
 
 #### Mockup & Prototype Tools - a few examples
 
@@ -85,17 +85,6 @@ and choose your favourite.
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
-#### Various
-
-* Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
--->
-
-#### Videos
-
-  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
-  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
-  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
-
 #### Useful Tools & Reference
 
   * [CSS Lint](http://csslint.net/)
@@ -103,6 +92,19 @@ and choose your favourite.
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+
+#### Various
+
+  * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
+
+#### Videos
+
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 <!--
 * [Chocolatey for Windows](https://chocolatey.org/)
