@@ -245,13 +245,19 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 4 - 13th September 2017
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
-  * [design mockups](/assets/docs/extras/2017/spring/design-mockups.pdf)
+#### Week 5 - 25th September 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2017/fall/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2017/fall/js/js-logic.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 4](https://github.com/csteach424/source/tree/master/2017/week4)
+  * [Source - Week 5](https://github.com/csteach424/source/tree/master/week5)
 * Please start to design and outline your project's application and website
   * consider initial pages, content, navigation, and required user interaction
   * what is the primary goal of the homepage for this application/website
@@ -262,13 +268,11 @@ Enjoy your week.
     * views can include content pages/screens, dialogs, overlays, admin/account screens...
   * Please add this information, and associated mockup images or drawings, to this week's board on the course's Trello group
     * I've added initial instructions to this board, which is available at the following URL
-      * [Week 4 - Project Mockups](https://trello.com/b/95ovV175/week-4-project-mockups)
+      * [Week 5 - Project Mockups](https://trello.com/b/mZIlCja6/week-5-project-mockups)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 4 - 18th September 2017
 

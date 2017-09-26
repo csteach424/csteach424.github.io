@@ -72,17 +72,17 @@ This material will be updated on a weekly basis.
 
 ##### Week 6 - 27th February 2017
   * [course](/assets/docs/Comp424-week6.pdf)
-
-##### Week 5 - 20th February 2017
-  * [course](/assets/docs/Comp424-week5.pdf)
-  * extras
-    * [design and interface](/assets/docs/extras/2017/spring/design-interface-intro.pdf)
-
-##### Week 4 - 13th February 2017
-  * [course](/assets/docs/Comp424-week4.pdf)
-  * extras
-    * [design mockups](/assets/docs/extras/2017/spring/design-mockups.pdf)
 -->
+
+##### Week 5 - 25th September 2017
+  * [course](/assets/docs/Comp424-week5.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2017/fall/js/js-intro.pdf)
+    * [JS - core](/assets/docs/extras/2017/fall/js/js-core.pdf)
+    * [JS - json](/assets/docs/extras/2017/fall/js/js-json.pdf)
+    * [JS - logic](/assets/docs/extras/2017/fall/js/js-logic.pdf)
 
 ##### Week 4 - 18th September 2017
   * [course](/assets/docs/2017/Comp424-week4.pdf)

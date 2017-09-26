@@ -28,6 +28,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
+  * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -41,8 +43,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -50,11 +50,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [redis.io](http://redis.io/)
 -->
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
-  * [AngularJS](https://angularjs.org/)
-  * [D3](http://d3js.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
@@ -67,9 +64,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
 
-NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
-and choose your favourite.
+<!--
+  * [AngularJS](https://angularjs.org/)
+  * [D3](http://d3js.org/)
 -->
+
+NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c.
+and choose your favourite.
 
 #### Mockup & Prototype Tools - a few examples
 
@@ -92,6 +93,8 @@ and choose your favourite.
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 #### Various
 
@@ -110,9 +113,6 @@ and choose your favourite.
 * [Chocolatey for Windows](https://chocolatey.org/)
 * [Firebug](http://getfirebug.com/)
 * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-* [JSLint - JavaScript Validator](http://jslint.com/)
-* [JSONLint - JSON Validator](http://jsonlint.com/)
-* [Web Developer](http://chrispederick.com/work/web-developer/)
 -->
 
 #### Websites
