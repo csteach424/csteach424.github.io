@@ -212,40 +212,33 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 6 - 27th February 2017
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes
+#### Week 6 - 2nd October 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - core](/assets/docs/extras/2017/fall/js/js-core.pdf)
+    * [JS - json](/assets/docs/extras/2017/fall/js/js-json.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 6](https://github.com/csteach424/source/tree/master/2017/week6)
-* Please start to prepare you DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 3 and 4 of this week's class [notes](/assets/docs/Comp424-week6.pdf)
-  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
-* Please add updates on your group's project development to the course's Trello group,
-  * [Week 6 - DEV Week](https://trello.com/b/zqDet2iN/dev-week)
-  * I've added instructions on this board.
-
-**n.b.** **NO** CLASS NEXT WEEK
-
-Enjoy your Spring Break.
-
-#### Week 5 - 20th February 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
-  * [design and interface](/assets/docs/extras/2017/spring/design-interface-intro.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 5](https://github.com/csteach424/source/tree/master/2017/week5)
-* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week5**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+  * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
+* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week6**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
   * consider organisation of content
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns
+* Please start to prepare you DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp424-week6.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 6 - DEV Week](https://trello.com/b/jc94WsGO/week-6-dev-week)
+  * I've added instructions on this board.
 
-Any questions, please let me know.
+**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
 
-Enjoy your week.
-
--->
+Enjoy your DEV Week and mid-semester break.
 
 #### Week 5 - 25th September 2017
 
