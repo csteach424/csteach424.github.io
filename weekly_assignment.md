@@ -229,7 +229,7 @@ Enjoy your week.
   * consider organisation of content
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns
-* Please start to prepare you DEV week group project and demonstration, as outlined in this week's class
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
   * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp424-week6.pdf)
   * details are also available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
