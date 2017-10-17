@@ -172,34 +172,31 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
-#### Week 8 - 13th March 2017
+-->
+
+#### Week 8 - 16th October 2017
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Team Purple](https://goo.gl/forms/FSKpBl3cm6rbqVuv2)
-  * [Group 2 - Team JRE](https://goo.gl/forms/7Fljj5crPTFIlQQn2)
-  * [Group 3 - Team JOKE](https://goo.gl/forms/tHaMwoQrGKSqzgog2)
-  * [Group 4 - Team Weather.Mix](https://goo.gl/forms/3lIG3O3an4jekFaf1)
-  * [Group 5 - Team Chicago](https://goo.gl/forms/hy7gLHaIRUXNdyMS2)
-  * [Group 6 - Team Sustainability](https://goo.gl/forms/pf5BKsFp3GQgDjFJ3)
-  * [Group 7 - Team VHR](https://goo.gl/forms/vp17UjEmQMKQAHcG3)
-  * [Group 8 - Team MDS](https://goo.gl/forms/qDMQv8YqNft1Agn22)
-  * [Group 9 - Team FSSA](https://goo.gl/forms/wTstikurDNK2wZp62)
-  * [Group 10 - Team SRCB](https://goo.gl/forms/LFYsOGQCK8KXNxmJ3)
-  * [Group 11 - Team M2NS](https://goo.gl/forms/mlNEh4cfzZh8F2ip1)
-* Complete these peer review forms by **Monday 20th March 2017** at the latest
+  * [1 - Group A](https://goo.gl/forms/1xeMjrRVaaYMp7sN2)
+  * [2 - Group B](https://goo.gl/forms/oO0aue5NCUnbcn9s2)
+  * [3 - Group C](https://goo.gl/forms/qULpMWG1edx9Pgsg2)
+  * [4 - Group D](https://goo.gl/forms/K7i38diupgwOTFzj1)
+  * [5 - Group E](https://goo.gl/forms/LLmEOmQIECxDYVyr1)
+  * [6 - Group F](https://goo.gl/forms/WWXVUACKWtVJdEjY2)
+* Complete these peer review forms by **Monday 23rd October 2017** at the latest
   * please complete these forms individually, and **NOT** as a project group
 * You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
 * Please add your DEV week presentation files, notes, &c. to the following board on Trello,
-  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/neOdAgfe/week-8-dev-week-presentation-files)
-  * Please add these files as soon as possible, and by **Monday 20th March 2017** at the latest
+  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/RgXOF2DD/week-8-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 23rd October 2017** at the latest
   * instructions are included as a list on the above board
 * Please share your completed DEV Week code, and any associated files or data, with myself
-  * code &c. should be pushed to a repository on GitHub or Bitbucket
-  * please share these files by **Monday 20th March 2017** at the latest
+  * code &c. should be pushed to your group's repository on GitHub
+  * please share these files by **Monday 23rd October 2017** at the latest
 * Complete the following Trello board,
-  * [Week 8 - DEV Week Contributions](https://trello.com/b/LoJ0RdPK/week-8-dev-week-contributions)
+  * [Week 8 - DEV Week Contributions](https://trello.com/b/ZyDMYBvS/week-8-dev-week-contributions)
   * this board is **important** - it will help to establish member contributions for the DEV week project
-  * please complete this requirement by **Monday 20th March 2017** at the latest
+  * please complete this requirement by **Monday 23rd October 2017** at the latest
 * Please contribute to this week's class discussion on the Slack channel, **#discussion-week8**, for the website, [Werner Design Werks](http://wdw.com/)
   * consider overall aesthetics for the website, including use of typography, images...
   * consider organisation and presentation of data
@@ -211,8 +208,6 @@ Any questions, please let me know.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 6 - 2nd October 2017
 

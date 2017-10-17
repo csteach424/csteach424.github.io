@@ -72,6 +72,9 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 8 - 16th October 2017
+  * N/A
+
 ##### Week 6 - 2nd October 2017
   * [course](/assets/docs/2017/Comp424-week6.pdf)
   * extras - JS

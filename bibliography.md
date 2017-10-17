@@ -72,6 +72,10 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 8 - 16th October 2017
+
+  * N/A
+
 ##### Week 6 - 2nd October 2017
 
   * [jQuery](https://jQuery.com/)
