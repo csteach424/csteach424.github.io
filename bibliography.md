@@ -57,18 +57,14 @@ There is no specific textbook for this course.
 
 ##### Week 9 - 23rd October 2017
 
-  * jQuery
-      * [jQuery](https://jQuery.com/)
-      * [jQuery API](https://api.jquery.com/)
-      * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-      * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
-  * MDN
-      * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-  * Various
-      * [Create your own AJAX loader](http://www.ajaxload.info/)
-  * W3
-      * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
-      * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+  * [jQuery](https://jQuery.com/)
+  * [jQuery API](https://api.jquery.com/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [Create your own AJAX loader](http://www.ajaxload.info/)
+  * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
+  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
 
 ##### Week 8 - 16th October 2017
 
