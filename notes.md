@@ -72,6 +72,11 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 9 - 23rd October 2017
+  * [course](/assets/docs/2017/Comp424-week9.pdf)
+  * extras
+    * [designing our app](/assets/docs/extras/2017/fall/design/design-our-app.pdf)
+
 ##### Week 8 - 16th October 2017
   * N/A
 

@@ -53,24 +53,22 @@ There is no specific textbook for this course.
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
 
-##### Week 9 - 20th March 2017
-
-  * Flickr API
-    * [Public feeds](https://www.flickr.com/services/feeds/)
-    * [Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * jQuery
-    * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
-    * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-    * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
-    * [jQuery - promise](https://api.jquery.com/promise/)
-  * W3
-    * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-
-##### Week 8 - 13th March 2017
-
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-
 -->
+
+##### Week 9 - 23rd October 2017
+
+  * jQuery
+      * [jQuery](https://jQuery.com/)
+      * [jQuery API](https://api.jquery.com/)
+      * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+      * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * MDN
+      * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * Various
+      * [Create your own AJAX loader](http://www.ajaxload.info/)
+  * W3
+      * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
+      * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
 
 ##### Week 8 - 16th October 2017
 
