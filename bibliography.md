@@ -55,6 +55,13 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 10 - 30th October 2017
+
+  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
 ##### Week 9 - 23rd October 2017
 
   * [jQuery](https://jQuery.com/)
