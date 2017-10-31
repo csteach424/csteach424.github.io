@@ -157,6 +157,8 @@ Any questions, please let me know.
 
 Any questions, please let me know.
 
+Enjoy your week.
+
 #### Week 9 - 23rd October 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
