@@ -153,7 +153,7 @@ Any questions, please let me know.
   * consider data organisation, and the available search and filter options?
     * how easy is it to find examples of artefacts and objects within the site's catalogue?
   * how well do they manage the presentation of site resources in different natural languages?
-    * eg: did you notice any difference in content, format, or options from French to English &c.?
+    * e.g. did you notice any difference in content, format, or options from French to English &c.?
 
 Any questions, please let me know.
 
