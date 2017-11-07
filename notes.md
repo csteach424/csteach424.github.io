@@ -57,20 +57,12 @@ This material will be updated on a weekly basis.
     * [CSS - HTML5](/assets/docs/extras/2017/spring/css/css-html5.pdf)
     * [CSS - Box Model](/assets/docs/extras/2017/spring/css/css-box-model.pdf)
 
-##### Week 10 - 27th March 2017
-  * [course](/assets/docs/Comp424-week10.pdf)
-  * extras
-    * [design and information architecture](/assets/docs/extras/2017/spring/design-information-architecture.pdf)
-
-##### Week 9 - 20th March 2017
-  * [course](/assets/docs/Comp424-week9.pdf)
-  * extras
-    * [designing our app](/assets/docs/extras/2017/spring/design-our-app.pdf)
-
-##### Week 8 - 13th March 2017
-  * [course](/assets/docs/Comp424-week8.pdf)
-
 -->
+
+##### Week 11 - 6th November 2017
+  * [course](/assets/docs/2017/Comp424-week11.pdf)
+  * extras
+    * [JS - Generators and Promises](/assets/docs/extras/2017/fall/js/js-generators-promises.pdf)
 
 ##### Week 10 - 30th October 2017
   * [course](/assets/docs/2017/Comp424-week10.pdf)

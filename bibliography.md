@@ -55,12 +55,20 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 11 - 6th November 2017
+
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
+
 ##### Week 10 - 30th October 2017
 
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
 ##### Week 9 - 23rd October 2017
 

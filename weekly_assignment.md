@@ -136,6 +136,23 @@ Any questions, please let me know.
 
 -->
 
+#### Week 11 - 6th November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+  * [JS - Generators and Promises](/assets/docs/extras/2017/fall/js/js-generators-promises.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * please consider this site's overall aesthetics, graphics, and general images
+  * does the form match the intended function?
+  * is it a useful website for its intended target, a restaurant?
+  * what would you change in the site's design and usage, and why?
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 10 - 30th October 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
