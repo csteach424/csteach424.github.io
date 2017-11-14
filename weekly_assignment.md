@@ -136,6 +136,29 @@ Any questions, please let me know.
 
 -->
 
+#### Week 12 - 13th November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * [Node.js outline](/assets/docs/extras/2017/fall/node/nodejs-outline.pdf)
+  * [Node.js and Express](/assets/docs/extras/2017/fall/node/nodejs-express-outline.pdf)
+  * [Node.js and MongoDB](/assets/docs/extras/2017/fall/node/nodejs-mongo-outline.pdf)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
+* Prepare for a quiz, which is scheduled for next week's class
+  * quiz will include material from the course, class, and extra notes for weeks 10, 11, and 12 inclusive
+  * quiz will be approximately 40 minutes in length
+  * questions will be multiple choice
+  * please bring your laptop or other internet connected device to class
+  * this quiz uses an online Google Form
+    * **NB:** you'll need a Google account to register for the quiz
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 11 - 6th November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document

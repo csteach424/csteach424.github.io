@@ -55,6 +55,14 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 12 - 13th November 2017
+
+  * Homebrew for OS X
+    * [Homebrew - the missing package manager for OS X](http://brew.sh/)
+  * Node.js
+    * [Node.js](https://nodejs.org/en/)
+    * [ExpressJS](http://expressjs.com/)
+
 ##### Week 11 - 6th November 2017
 
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
