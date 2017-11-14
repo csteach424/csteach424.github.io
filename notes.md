@@ -60,7 +60,7 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 12 - 13th November 2017
-  * [course](/assets/docs/2017/Comp424-week11.pdf)
+  * [course](/assets/docs/2017/Comp424-week12.pdf)
   * extras - Node.js, Express, and MongoDB
     * [Node.js outline](/assets/docs/extras/2017/fall/node/nodejs-outline.pdf)
     * [Node.js and Express](/assets/docs/extras/2017/fall/node/nodejs-express-outline.pdf)
