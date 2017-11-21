@@ -38,26 +38,13 @@ This material will be updated on a weekly basis.
     * [JSX - intro](/assets/docs/extras/2017/spring/react/jsx-intro.pdf)
     * [React - intro](/assets/docs/extras/2017/spring/react/react-proofs.pdf)
 
-##### Week 12 - 10th April 2017
-  * [course](/assets/docs/Comp424-week12.pdf)
-  * extras - final report outline
-    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
-  * extras - JS
-    * [JS - Intro](/assets/docs/extras/2017/spring/js/js-intro.pdf)
-    * [JS - Core](/assets/docs/extras/2017/spring/js/js-core.pdf)
-    * [JS - Logic](/assets/docs/extras/2017/spring/js/js-logic.pdf)
-    * [JS - JSON](/assets/docs/extras/2017/spring/js/js-json.pdf)
-
-##### Week 11 - 3rd April 2017
-  * [course](/assets/docs/Comp424-week11.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2017/spring/html5/html5-extra.pdf)
-  * extras - full notes - CSS
-    * [CSS - Intro](/assets/docs/extras/2017/spring/css/css-intro.pdf)
-    * [CSS - Basics](/assets/docs/extras/2017/spring/css/css-basics.pdf)
-    * [CSS - HTML5](/assets/docs/extras/2017/spring/css/css-html5.pdf)
-    * [CSS - Box Model](/assets/docs/extras/2017/spring/css/css-box-model.pdf)
-
 -->
+
+##### Week 13 - 20th November 2017
+  * [course](/assets/docs/2017/Comp424-week13.pdf)
+  * extras - various
+    * [Google APIs - overview](/assets/docs/extras/2017/fall/various/google-apis-overview.pdf)
+    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2017/fall/various/oauth-google-api.pdf)
 
 ##### Week 12 - 13th November 2017
   * [course](/assets/docs/2017/Comp424-week12.pdf)
@@ -126,4 +113,4 @@ This material will be updated on a weekly basis.
 ##### Week 1 - 28th August 2017
   * [course](/assets/docs/2017/Comp424-week1.pdf)
   * extras
-    * [Git basics](/assets/docs/extras/2017/fall/git-basics.pdf)
+    * [Git basics](/assets/docs/extras/2017/fall/various/git-basics.pdf)

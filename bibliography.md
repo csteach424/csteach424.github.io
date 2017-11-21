@@ -31,29 +31,17 @@ There is no specific textbook for this course.
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
 
-###### Week 12 - 10th April 2017
+-->
 
-  * Kirk, A. *Data Visualisation: A successful design process.* Packt Publishing. 2012.
-  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
-  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
+##### Week 13 - 20th November 2017
 
-##### Week 11 - 3rd April 2017
-  * Homebrew for OS X
-    * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * MongoDB
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * Redis
     * [redis.io](http://redis.io/)
-
-##### Week 10 - 27th March 2017
-  * Node.js
-    * [Node.js](https://nodejs.org/en/)
-    * [ExpressJS](http://expressjs.com/)
-
--->
+  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
 ##### Week 12 - 13th November 2017
 

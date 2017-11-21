@@ -28,6 +28,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
 #### Documentation & Guides
+  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
+  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
@@ -49,14 +51,14 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
-  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
-  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
 -->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
+  * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
+  * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
@@ -67,11 +69,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Pure CSS](http://purecss.io/)
   * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
-
-<!--
-  * [AngularJS](https://angularjs.org/)
-  * [D3](http://d3js.org/)
--->
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c.
 and choose your favourite.
