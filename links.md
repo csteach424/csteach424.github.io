@@ -43,16 +43,13 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
+  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-
-<!--
-  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
--->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -130,7 +127,8 @@ and choose your favourite.
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
 
-<!--
+#### Extras
+
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
@@ -138,7 +136,5 @@ and choose your favourite.
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 
 ***
-
--->
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.

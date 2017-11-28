@@ -136,6 +136,30 @@ Any questions, please let me know.
 
 -->
 
+
+#### Week 14 - 27th November 2017
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the following extra documents
+  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/2017/fall/various/data-stores-apis.pdf)
+  * [Heroku and Postman](/assets/docs/extras/2017/fall/node-apis/api-heroku-mongo.pdf)
+  * [Node.js API](/assets/docs/extras/2017/fall/node-apis/node-todos-api.pdf)
+  * [Node.js API Testing](/assets/docs/extras/2017/fall/node-apis/testing-todos-api.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
+* Please prepare your group's project presentation for Monday 4th December 2017
+  * as detailed in previous classes, this presentation should be an outline of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be a maximum of 10 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 4th December 2017.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 13 - 20th November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

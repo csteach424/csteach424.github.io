@@ -40,6 +40,18 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 14 - 27th November 2017
+  * [course](/assets/docs/2017/Comp424-week14.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2017/fall/various/git-heroku-setup.pdf)
+    * [Heroku & MongoDB](/assets/docs/extras/2017/fall/various/heroku-mongodb-setup.pdf)
+  * extras - MongoDB & Native Driver
+    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/2017/fall/various/data-stores-apis.pdf)
+  * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
+    * [Heroku and Postman](/assets/docs/extras/2017/fall/node-apis/api-heroku-mongo.pdf)
+    * [Node.js API](/assets/docs/extras/2017/fall/node-apis/node-todos-api.pdf)
+    * [Node.js API Testing](/assets/docs/extras/2017/fall/node-apis/testing-todos-api.pdf)
+
 ##### Week 13 - 20th November 2017
   * [course](/assets/docs/2017/Comp424-week13.pdf)
   * extras - various
