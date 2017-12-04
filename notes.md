@@ -40,8 +40,14 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 15 - 4th December 2017
+  * extras - Final Report Outline
+    * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
+
 ##### Week 14 - 27th November 2017
   * [course](/assets/docs/2017/Comp424-week14.pdf)
+  * extras - Final Report Outline
+    * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
   * extras - Heroku & Git setup
     * [Heroku & Git](/assets/docs/extras/2017/fall/various/git-heroku-setup.pdf)
     * [Heroku & MongoDB](/assets/docs/extras/2017/fall/various/heroku-mongodb-setup.pdf)
