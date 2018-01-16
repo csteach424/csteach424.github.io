@@ -42,8 +42,9 @@ If you have any questions on the following assessments, please [contact](/contac
 ##### 1. quizzes or exercises at the end of each course section (30%)
 
 * at least one week notice before quiz
-  * average time ~30 minutes (can be extended if necessary...)
+  * average time ~40 minutes
   * taken towards the end of class
+  * must be taken in-class
 * exercises
   * help develop course project
   * test course knowledge at each stage
@@ -63,7 +64,9 @@ If you have any questions on the following assessments, please [contact](/contac
   * purpose, scope &c. is group's choice
   * **NO** blogs, to-do lists, note-taking...
     * chosen topic requires approval
-  * **NO** PHP, Python, Ruby, Go, XML, Bootstrap...
+  * **NO** content management systems (CMSs) such as Drupal, Joomla, WordPress...
+  * **NO** PHP, Python, Ruby, Go, XML...
+  * **NO** CSS frameworks, such as Bootstrap, Foundation, Materialize...
   * must implement data from either
       * self hosted (MongoDB, Redis...)
       * APIs
