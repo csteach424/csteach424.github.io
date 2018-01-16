@@ -33,7 +33,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/2017/comp424-final-report-outline.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
@@ -104,11 +104,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Monday 16th October 2017 @ 4.15pm
+  * due Monday 12th March 2018 @ 4.15pm
 * final team demo
-  * due Monday 4th December 2017 @ 4.15pm
+  * due Monday 23rd April 2018 @ 4.15pm
 * final team report
-  * due Monday 11th December 2017 @ 4.15pm
+  * due Monday 30th April 2018 @ 4.15pm
 
 #### Grading
 
@@ -123,5 +123,5 @@ Grades will use the following scale,
   * 70% to 61%  = B
   * 60% to 51%  = B-
   * 50% to 41%  = C
-  * 40% to 31%  = F
-  * 30% to 0%   = ?
+  * 40% to 31%  = C-
+  * 30% to 0%   = F

@@ -19,123 +19,6 @@ summary: weekly assignment for COMP 424
 ***
 
 <!--
-#### Week 15 - 5th December 2016
-
-* Please complete your group's final project report
-  * suggested report length between 5 and 10 pages
-* Further details can be found in the following outline
-  * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
-* Report must be submitted by 4.15pm on Monday 12th December 2016
-   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
-* Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub or Bitbucket
-  * zip file containing project code
-
-**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
-
-Any questions, please let me know.
-
-#### Week 14 - 28th November 2016
-
-* Review this week's [notes and material](/notes)
-* Review the Final Report Outline,
-  * [course extra - final report outline](/assets/docs/extras/fall2016/comp424-final-report-outline-2016.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 14](https://github.com/csteach424/source/tree/master/2016/fall/week14)
-* Please prepare your group's project presentation for Monday 5th December 2016
-  * as detailed in previous classes, this presentation should be an outline of your final group project
-  * please consult the [coursework](/coursework) page for further details
-  * each presentation should be a maximum of 10 minutes in length
-
-If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 5th December 2016.
-
-Any questions, please let me know. Enjoy your week.
-
-#### Week 14 - 24th April 2017
-
-* Please complete your group's final project report
-  * suggested report length between 5 and 10 pages
-* Further details can be found in the following outline
-  * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
-* Report must be submitted by 4.15pm on Monday 1st May 2017
-   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
-* Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub or Bitbucket
-  * zip file containing project code
-
-**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
-
-Any questions, please let me know.
-
-#### Week 13 - 17th April 2017
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the following extra documents
-  * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
-  * [Node.js - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-outline.pdf)
-  * [Node.js & Express - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-express-outline.pdf)
-  * [Node.js & MongoDB - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-mongo-outline.pdf)
-  * [OAuth 2.0 & Google APIs](/assets/docs/extras/2017/spring/google-apis-overview.pdf)
-  * [JSX - intro](/assets/docs/extras/2017/spring/react/jsx-intro.pdf)
-  * [React - intro](/assets/docs/extras/2017/spring/react/react-proofs.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 13](https://github.com/csteach424/source/tree/master/2017/week13)
-* Please prepare your group's project presentation for Monday 24th April 2017
-  * as detailed in previous classes, this presentation should be an outline of your final group project
-  * please consult the [coursework](/coursework) page for further details
-  * each presentation should be a maximum of 10 minutes in length
-
-If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 24th April 2017.
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 12 - 10th April 2017
-
-* Review this week's [notes and material](/notes)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 12](https://github.com/csteach424/source/tree/master/2017/week12)
-* Please create a list on the [Week 12 - Final Plan](https://trello.com/b/mOazidcr/week-12-final-plan) Trello board for your group, and add the following details,
-  * please add a brief plan and outline for your group's remaining work
-  * this should include any work that is planned towards your group's final project presentation
-    * this may include development, research, design, testing, and so on
-  * please also include an outline of planned contribution from each group member
-* Please continue project design and development for the end of semester final presentation and report
-* Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
-  * choose two favourite data visualistions you've recently seen in an article, website, mobile application &c....
-  * why did you choose these visualisations?
-  * what did you like or dislike about each visualisation?
-  * outline the underlying data source, for example a census or opinion poll, geographical data, and so on
-  * did the visualisation help improve understanding of the data?
-
-Any questions, please let me know.
-
-#### Week 11 - 3rd April 2017
-
-* Review this week's [notes and material](/notes)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 11](https://github.com/csteach424/source/tree/master/2017/week11)
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
-  * please consider this site's overall aesthetics, graphics, and general images
-  * does the form match the intended function?
-  * is it a useful website for its intended target, a restaurant?
-  * what would you change in the site's design and usage, and why?
-* Prepare for a quiz, which is scheduled for next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 10 and 11 inclusive
-  * quiz will be approximately 35 minutes in length
-  * questions will be multiple choice
-  * please bring your laptop or other internet connected device to class
-  * this quiz uses an online Google Form
-    * **NB:** you'll need a Google account to register for the quiz
-
-Any questions, please let me know.
-
--->
-
 #### Week 15 - 4th December 2017
 
 * Please complete your group's final project report
@@ -416,14 +299,14 @@ Enjoy your week.
   * add the GitHub details for your project to the appropriate group list on Trello,
     * [Project Groups](https://trello.com/b/RSGGhi9C/project-groups)
 
-##### Week 2 - N/A
+-->
 
-##### Week 1 - 28th August 2017
+##### Week 2 - 22nd January 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
-  * [Git basics](/assets/docs/extras/2017/fall/git-basics.pdf)
+  * [Git basics](/assets/docs/extras/git-basics.pdf)
 * Please check the following board on Trello for group details, including individual group assignments
-  * [Project Groups](https://trello.com/b/RSGGhi9C/project-groups)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/mkDZFkad/week-1-project-details)
+  * [Project Groups]()
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details]()
   * project name
   * the full name of each team member (or preferred name)
   * any ideas you are currently considering for this project work
@@ -433,7 +316,7 @@ Enjoy your week.
 
 The course's Trello group is available at the following URL,
 
-* [COMP 424 - Fall 2017 @ LUC](https://trello.com/csteach424)
+* [COMP 424 - Spring 2018 @ LUC](https://trello.com/csteach424)
   * https://trello.com/csteach424
 
 **n.b.** I'll send an invite for this Trello group to your registered LUC email address. If you do not currently have a Trello username, you'll need to register at the following URL,
@@ -449,3 +332,7 @@ The course's Trello group is available at the following URL,
   * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
   * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
   * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+
+##### Week 1 - 15th January 2018
+
+* N/A

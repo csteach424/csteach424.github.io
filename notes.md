@@ -19,27 +19,6 @@ This material will be updated on a weekly basis.
 ***
 
 <!--
-
-##### Week 14 - 24th April 2017
-  * extras - final report outline
-    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
-
-##### Week 13 - 17th April 2017
-  * [course](/assets/docs/Comp424-week13.pdf)
-  * extras - final report outline
-    * [Spring 2017 Final Report Outline](/assets/docs/extras/2017/spring/comp424-final-report-outline-2017.pdf)
-  * extras - Node.js, Express, MongoDB &c.
-    * [Node.js - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-outline.pdf)
-    * [Node.js & Express - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-express-outline.pdf)
-    * [Node.js & MongoDB - outline](/assets/docs/extras/2017/spring/nodejs-mongo-etc/nodejs-mongo-outline.pdf)
-  * extras - OAuth 2.0
-    * [OAuth 2.0 & Google APIs](/assets/docs/extras/2017/spring/google-apis-overview.pdf)
-  * extras - React
-    * [JSX - intro](/assets/docs/extras/2017/spring/react/jsx-intro.pdf)
-    * [React - intro](/assets/docs/extras/2017/spring/react/react-proofs.pdf)
-
--->
-
 ##### Week 15 - 4th December 2017
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
@@ -125,10 +104,11 @@ This material will be updated on a weekly basis.
     * [HTML - DOM Intro](/assets/docs/extras/2017/fall/html/html-dom-intro.pdf)
   * extras - HTML5
     * [HTML5 - Intro](/assets/docs/extras/2017/fall/html5/html5-intro.pdf)
+-->
 
-##### Week 2 - N/A
-
-##### Week 1 - 28th August 2017
-  * [course](/assets/docs/2017/Comp424-week1.pdf)
+##### Week 2 - 22nd January 2018
+  * [course](/assets/docs/2018/Comp424-week1.pdf)
   * extras
-    * [Git basics](/assets/docs/extras/2017/fall/various/git-basics.pdf)
+    * [Git basics](/assets/docs/extras/git-basics.pdf)
+
+##### Week 1 - N/A

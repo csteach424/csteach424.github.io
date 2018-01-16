@@ -1,5 +1,5 @@
 ---
-title: Week 4 course update
+title: Week 2 course update
 author: ancientlives
 layout: post-vertical
 
@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2017
-month: 09
-day: 18
+year: 2018
+month: 01
+day: 22
 published: true
-summary: site updated and week 4 assignment
+summary: site updated and week 2 assignment
 menu: new-semester
 ---
 
-The course website has now been updated for this week's class, week 4.
+The course website has now been updated for this week's class, week 2.
 
 Updates include the following,
 
