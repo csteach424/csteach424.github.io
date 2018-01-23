@@ -107,7 +107,7 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 2 - 22nd January 2018
-  * [course](/assets/docs/2018/Comp424-week1.pdf)
+  * [course](/assets/docs/2018/comp424-week2.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
 

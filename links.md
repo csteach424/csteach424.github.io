@@ -30,9 +30,11 @@ If you have any suggestions for additions to this section of the site, please fe
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 -->
 
-<!--
 #### Documentation & Guides
 
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+
+<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -41,7 +43,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
@@ -88,14 +89,17 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Useful Tools & Reference
 
+  * [Git](http://git-scm.com/)
+    * [Pro Git](http://git-scm.com/book/en/v2)
+
+<!--
   * [CSS Lint](http://csslint.net/)
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Firebug](http://getfirebug.com/)
-  * [Git](http://git-scm.com/)
-    * [Pro Git](http://git-scm.com/book/en/v2)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
@@ -105,15 +109,18 @@ and choose your favourite.
 #### Various
 
   * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
+-->
 
 #### Videos
 
-  * Beginning Graphic Design
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+
+<!--
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
 
 #### Websites
 

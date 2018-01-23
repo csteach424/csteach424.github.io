@@ -12,7 +12,7 @@ published: true
 summary: course bibliography and references for COMP 424
 ---
 
-The course 'bibliography & references' will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
+The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
 
 References will be cited at the end of each week's notes.
 
