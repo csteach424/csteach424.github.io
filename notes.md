@@ -110,5 +110,9 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp424-week2.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+  * extras - HTML
+    * [HTML - Intro](/assets/docs/extras/2018/spring/html/html-intro.pdf)
+    * [HTML - Basics](/assets/docs/extras/2018/spring/html/html-basics.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2018/spring/html/html-dom-intro.pdf)
 
 ##### Week 1 - N/A
