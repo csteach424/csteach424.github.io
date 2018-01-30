@@ -281,25 +281,26 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 3 - 11th September 2017
+-->
+
+#### Week 3 - 29th January 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * extras - HTML
-    * [HTML - Intro](/assets/docs/extras/2017/fall/html/html-intro.pdf)
-    * [HTML - Basics](/assets/docs/extras/2017/fall/html/html-basics.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2017/fall/html/html-dom-intro.pdf)
   * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2017/fall/html5/html5-intro.pdf)
+    * [HTML5 - Intro](/assets/docs/extras/2018/spring/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2018/spring/html5/html5-extra.pdf)
 * Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/OPR3wLdN/week-1-project-details)
+  * [Week 1 - Project Details](https://trello.com/b/3Dh6pCTu/week-1-project-details)
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Project Groups](https://trello.com/b/RSGGhi9C/project-groups)
+    * [Project Groups](https://trello.com/b/mO2QxhRj/project-groups)
 
--->
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 2 - 22nd January 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document

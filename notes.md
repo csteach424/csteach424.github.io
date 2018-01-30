@@ -93,18 +93,13 @@ This material will be updated on a weekly basis.
     * [CSS - Box Model](/assets/docs/extras/2017/fall/css/css-box-model.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2017/fall/design/design-mockups.pdf)
-  * extras - HTML5
-    * [HTML5 - Extra](/assets/docs/extras/2017/fall/html5/html5-extra.pdf)
-
-##### Week 3 - 11th September 2017
-  * [course](/assets/docs/2017/Comp424-week3.pdf)
-  * extras - HTML
-    * [HTML - Intro](/assets/docs/extras/2017/fall/html/html-intro.pdf)
-    * [HTML - Basics](/assets/docs/extras/2017/fall/html/html-basics.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2017/fall/html/html-dom-intro.pdf)
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2017/fall/html5/html5-intro.pdf)
 -->
+
+##### Week 3 - 29th January 2018
+  * [course](/assets/docs/2018/comp424-week3.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2018/spring/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2018/spring/html5/html5-extra.pdf)
 
 ##### Week 2 - 22nd January 2018
   * [course](/assets/docs/2018/comp424-week2.pdf)

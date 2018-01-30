@@ -33,6 +33,9 @@ If you have any suggestions for additions to this section of the site, please fe
 #### Documentation & Guides
 
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
@@ -52,10 +55,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
-  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -95,21 +95,21 @@ and choose your favourite.
 
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
 
 <!--
   * [CSS Lint](http://csslint.net/)
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Firebug](http://getfirebug.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-  * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
+-->
 
 #### Various
 
   * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
--->
 
 #### Videos
 
@@ -121,14 +121,10 @@ and choose your favourite.
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+-->
 
 #### Websites
 
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
@@ -138,6 +134,13 @@ and choose your favourite.
   * W3C
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
+
+<!--
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 
 #### Extras
 
