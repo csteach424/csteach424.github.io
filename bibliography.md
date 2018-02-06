@@ -97,12 +97,13 @@ There is no specific textbook for this course.
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
 
-##### Week 4 - 18th September 2017
+-->
+
+##### Week 4 - 5th February 2018
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
--->
 
 ##### Week 3 - 29th January 2018
 
