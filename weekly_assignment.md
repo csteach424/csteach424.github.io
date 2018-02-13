@@ -227,14 +227,16 @@ Enjoy your week.
 
 Enjoy your DEV Week and mid-semester break.
 
-#### Week 5 - 25th September 2017
+-->
+
+#### Week 5 - 12th February 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - Design
-    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
+    * [design and interface](/assets/docs/extras/2018/spring/design/design-interface-intro.pdf)
   * extras - JS
-    * [JS - intro](/assets/docs/extras/2017/fall/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2017/fall/js/js-logic.pdf)
+    * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 5](https://github.com/csteach424/source/tree/master/week5)
@@ -242,19 +244,15 @@ Enjoy your DEV Week and mid-semester break.
   * consider initial pages, content, navigation, and required user interaction
   * what is the primary goal of the homepage for this application/website
     * consider content sections, navigation options, possible user interactions...
-  * detail at least three other aspects of your current project design/concept
-    * eg: other pages, tools, search options, content designs, views or overlays...
   * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
     * views can include content pages/screens, dialogs, overlays, admin/account screens...
   * Please add this information, and associated mockup images or drawings, to this week's board on the course's Trello group
     * I've added initial instructions to this board, which is available at the following URL
-      * [Week 5 - Project Mockups](https://trello.com/b/mZIlCja6/week-5-project-mockups)
+      * [Week 5 - Project Mockups](https://trello.com/b/UszOdFMS/week-5-project-mockups)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 4 - 5th February 2018
 

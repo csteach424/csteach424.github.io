@@ -76,15 +76,15 @@ This material will be updated on a weekly basis.
     * [JS - core](/assets/docs/extras/2017/fall/js/js-core.pdf)
     * [JS - json](/assets/docs/extras/2017/fall/js/js-json.pdf)
 
-##### Week 5 - 25th September 2017
-  * [course](/assets/docs/2017/Comp424-week5.pdf)
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2017/fall/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2017/fall/js/js-logic.pdf)
-
 -->
+
+##### Week 5 - 12th February 2018
+  * [course](/assets/docs/2018/comp424-week5.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2018/spring/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
 
 ##### Week 4 - 5th February 2018
   * [course](/assets/docs/2018/comp424-week4.pdf)
@@ -94,7 +94,7 @@ This material will be updated on a weekly basis.
     * [CSS - HTML5](/assets/docs/extras/2018/spring/css/css-html5.pdf)
     * [CSS - Box Model](/assets/docs/extras/2018/spring/css/css-box-model.pdf)
   * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2017/spring/design/design-mockups.pdf)
+    * [Design - Mockups](/assets/docs/extras/2018/spring/design/design-mockups.pdf)
 
 ##### Week 3 - 29th January 2018
   * [course](/assets/docs/2018/comp424-week3.pdf)
