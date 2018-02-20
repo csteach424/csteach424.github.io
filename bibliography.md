@@ -79,7 +79,9 @@ There is no specific textbook for this course.
 
   * N/A
 
-##### Week 6 - 2nd October 2017
+-->
+
+##### Week 6 - 19th February 2018
 
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
@@ -88,8 +90,6 @@ There is no specific textbook for this course.
   [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
-
--->
 
 ##### Week 5 - 12th February 2018
 

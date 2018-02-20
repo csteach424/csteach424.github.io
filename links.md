@@ -29,6 +29,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -45,8 +47,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
@@ -75,8 +75,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
 
-<!--
-
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -90,7 +88,6 @@ NB: there are many other options available, simply search online for [css framew
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Useful Tools & Reference
 

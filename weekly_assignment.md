@@ -197,25 +197,14 @@ Enjoy your week.
   * how do they use their site to engage with their users, customers, and general visitors?
     * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
 
+**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
+
 Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 6 - 2nd October 2017
+#### Week 7 - 26th February 2018
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2017/fall/design/design-interface-intro.pdf)
-  * extras - JS
-    * [JS - core](/assets/docs/extras/2017/fall/js/js-core.pdf)
-    * [JS - json](/assets/docs/extras/2017/fall/js/js-json.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
-* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week6**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
-  * consider organisation of content
-  * general consistency of design, colours, interaction options
-  * navigation and data presentation patterns
 * Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
   * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp424-week6.pdf)
   * details are also available in the [Coursework](/coursework/#assessment2) section of this site
@@ -223,11 +212,23 @@ Enjoy your week.
   * [Week 6 - DEV Week](https://trello.com/b/jc94WsGO/week-6-dev-week)
   * I've added instructions on this board.
 
-**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
-
-Enjoy your DEV Week and mid-semester break.
-
 -->
+
+#### Week 6 - 19th February 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - JS
+    * [JS - core](/assets/docs/extras/2018/spring/js/js-core.pdf)
+    * [JS - json](/assets/docs/extras/2018/spring/js/js-json.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
+* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week6**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
+  * consider organisation of content
+  * general consistency of design, colours, interaction options
+  * navigation and data presentation patterns
+
+Enjoy your week.
 
 #### Week 5 - 12th February 2018
 

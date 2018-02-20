@@ -70,13 +70,13 @@ This material will be updated on a weekly basis.
 ##### Week 8 - 16th October 2017
   * N/A
 
-##### Week 6 - 2nd October 2017
-  * [course](/assets/docs/2017/Comp424-week6.pdf)
-  * extras - JS
-    * [JS - core](/assets/docs/extras/2017/fall/js/js-core.pdf)
-    * [JS - json](/assets/docs/extras/2017/fall/js/js-json.pdf)
-
 -->
+
+##### Week 6 - 19th February 2018
+  * [course](/assets/docs/2018/comp424-week6.pdf)
+  * extras - JS
+    * [JS - core](/assets/docs/extras/2018/spring/js/js-core.pdf)
+    * [JS - json](/assets/docs/extras/2018/spring/js/js-json.pdf)
 
 ##### Week 5 - 12th February 2018
   * [course](/assets/docs/2018/comp424-week5.pdf)
