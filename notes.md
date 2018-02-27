@@ -62,15 +62,15 @@ This material will be updated on a weekly basis.
   * extras
     * [design and information architecture](/assets/docs/extras/2017/fall/design/design-information-architecture.pdf)
 
-##### Week 9 - 23rd October 2017
-  * [course](/assets/docs/2017/Comp424-week9.pdf)
-  * extras
-    * [designing our app](/assets/docs/extras/2017/fall/design/design-our-app.pdf)
-
 ##### Week 8 - 16th October 2017
   * N/A
 
 -->
+
+##### Week 7 - 26th February 2018
+  * [course](/assets/docs/2018/comp424-week7.pdf)
+  * extras - Design
+    * [designing our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
 
 ##### Week 6 - 19th February 2018
   * [course](/assets/docs/2018/comp424-week6.pdf)

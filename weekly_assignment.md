@@ -203,16 +203,28 @@ Any questions, please let me know.
 
 Enjoy your week.
 
+-->
+
 #### Week 7 - 26th February 2018
 
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Design
+    * [designing our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 7](https://github.com/csteach424/source/tree/master/week7)
 * Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 3, 4, and 5 of this week's class [notes](/assets/docs/2017/Comp424-week6.pdf)
+  * further details can be found on pages 2, 3, and 4 of this week's class [notes](/assets/docs/2018/comp424-week7.pdf)
   * details are also available in the [Coursework](/coursework/#assessment2) section of this site
 * Please add updates on your group's project development to the course's Trello group,
-  * [Week 6 - DEV Week](https://trello.com/b/jc94WsGO/week-6-dev-week)
+  * [Week 7 - DEV Week](https://trello.com/b/awQ43MKR/week-7-dev-week)
   * I've added instructions on this board.
 
--->
+**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
+
+Any questions, please let me know.
+
+Enjoy your week, and Spring Break.
 
 #### Week 6 - 19th February 2018
 

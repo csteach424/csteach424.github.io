@@ -63,17 +63,7 @@ There is no specific textbook for this course.
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-
-##### Week 9 - 23rd October 2017
-
-  * [jQuery](https://jQuery.com/)
-  * [jQuery API](https://api.jquery.com/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
-  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [Create your own AJAX loader](http://www.ajaxload.info/)
-  * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
-  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
 
 ##### Week 8 - 16th October 2017
 
@@ -81,13 +71,18 @@ There is no specific textbook for this course.
 
 -->
 
-##### Week 6 - 19th February 2018
+##### Week 7 - 26th February 2018
 
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+
+##### Week 6 - 19th February 2018
+
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
 

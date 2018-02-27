@@ -92,17 +92,17 @@ NB: there are many other options available, simply search online for [css framew
 #### Useful Tools & Reference
 
   * [CSS Lint](http://csslint.net/)
+  * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Firebug](http://getfirebug.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
 -->
 
 #### Various
@@ -111,15 +111,12 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Videos
 
-  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
-  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
-  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
-
-<!--
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
--->
+  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 #### Websites
 
