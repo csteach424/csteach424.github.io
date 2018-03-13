@@ -15,7 +15,7 @@ summary: welcome to the new Spring semester, 2018
 menu: new-semester
 ---
 
-Welcome to the new semester, and the COMP 424 course in *Client-Side Web Design*.
+Welcome to the new semester, and the COMP 324/424 course in *Client-Side Web Design*.
 
 Please ensure that you check this website each week for new posts, notes, and material.
 

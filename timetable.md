@@ -9,7 +9,7 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 424
+summary: course timetable for COMP 324/424
 ---
 
 #### Class Schedule

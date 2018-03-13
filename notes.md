@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 424
+summary: course notes and material for COMP 324/424
 ---
 
 Course notes and material will be added to this page during the semester.
@@ -62,10 +62,13 @@ This material will be updated on a weekly basis.
   * extras
     * [design and information architecture](/assets/docs/extras/2017/fall/design/design-information-architecture.pdf)
 
-##### Week 8 - 16th October 2017
-  * N/A
-
 -->
+
+##### Week 9 - 12th March 2018
+  * N/A - DEV Week
+
+##### Week 8 - 5th March 2018
+  * N/A
 
 ##### Week 7 - 26th February 2018
   * [course](/assets/docs/2018/comp424-week7.pdf)

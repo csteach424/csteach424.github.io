@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 424
+summary: weekly assignment for COMP 324/424
 ---
 
 #### Assignment submission
@@ -166,44 +166,48 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 8 - 16th October 2017
+-->
+
+#### Week 9 - 12th March 2018
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [1 - Group A](https://goo.gl/forms/1xeMjrRVaaYMp7sN2)
-  * [2 - Group B](https://goo.gl/forms/oO0aue5NCUnbcn9s2)
-  * [3 - Group C](https://goo.gl/forms/qULpMWG1edx9Pgsg2)
-  * [4 - Group D](https://goo.gl/forms/K7i38diupgwOTFzj1)
-  * [5 - Group E](https://goo.gl/forms/LLmEOmQIECxDYVyr1)
-  * [6 - Group F](https://goo.gl/forms/WWXVUACKWtVJdEjY2)
-* Complete these peer review forms by **Monday 23rd October 2017** at the latest
+  * [1 - Group A](https://goo.gl/forms/HYKvvYmqRkityOkZ2)
+  * [2 - Group B](https://goo.gl/forms/wnQxYiLEfDB8wJdJ2)
+  * [3 - Group C](https://goo.gl/forms/9vxKtBd51PWZt5983)
+  * [4 - Group D](https://goo.gl/forms/dGMfAoWhloKWGVuL2)
+  * [5 - Group E](https://goo.gl/forms/u6mWcnFvh2OM3fUB2)
+  * [6 - Group F](https://goo.gl/forms/T68uMnccF8D3pv3z2)
+* Complete these peer review forms by **Monday 19th March 2018** at the latest
   * please complete these forms individually, and **NOT** as a project group
 * You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
 * Please add your DEV week presentation files, notes, &c. to the following board on Trello,
-  * [Week 8 - DEV Week Presentation Files](https://trello.com/b/RgXOF2DD/week-8-dev-week-presentation-files)
-  * Please add these files as soon as possible, and by **Monday 23rd October 2017** at the latest
+  * [Week 9 - DEV Week Presentation Files](https://trello.com/b/JrRwxijz/week-9-dev-week-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 19th March 2018** at the latest
   * instructions are included as a list on the above board
 * Please share your completed DEV Week code, and any associated files or data, with myself
   * code &c. should be pushed to your group's repository on GitHub
-  * please share these files by **Monday 23rd October 2017** at the latest
+  * please share these files by **Monday 19th March 2018** at the latest
 * Complete the following Trello board,
-  * [Week 8 - DEV Week Contributions](https://trello.com/b/ZyDMYBvS/week-8-dev-week-contributions)
+  * [Week 9 - DEV Week Contributions](https://trello.com/b/bLWt0d4A/week-9-dev-week-contributions)
   * this board is **important** - it will help to establish member contributions for the DEV week project
-  * please complete this requirement by **Monday 23rd October 2017** at the latest
-* Please contribute to this week's class discussion on the Slack channel, **#discussion-week8**, for the website, [Werner Design Werks](http://wdw.com/)
+  * please complete this requirement by **Monday 19th March 2018** at the latest
+* Please contribute to this week's class discussion on the Slack channel, **#discussion-week9**, for the website, [Werner Design Werks](http://wdw.com/)
   * consider overall aesthetics for the website, including use of typography, images...
   * consider organisation and presentation of data
   * consider website's design as a reflection of its goals
-    * eg: how is the content influencing the site's design, organisation, and general layout
+    * e.g. how is the content influencing the site's design, organisation, and general layout
   * how do they use their site to engage with their users, customers, and general visitors?
-    * eg: is the site a reflection of the company or a simple tool to attract attention, and so on
-
-**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
+    * e.g. is the site a reflection of the company or a simple tool to attract attention, and so on
 
 Any questions, please let me know.
 
 Enjoy your week.
 
--->
+#### Week 8 - 5th March 2018
+
+* N/A - Spring Break
+
+Enjoy your week, and Spring Break.
 
 #### Week 7 - 26th February 2018
 

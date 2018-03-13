@@ -9,7 +9,7 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 424
+summary: course bibliography and references for COMP 324/424
 ---
 
 The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
@@ -65,11 +65,15 @@ There is no specific textbook for this course.
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [Create your own AJAX loader](http://www.ajaxload.info/)
 
-##### Week 8 - 16th October 2017
-
-  * N/A
-
 -->
+
+##### Week 9 - 12th March 2018
+
+  * N/A - DEV Week
+
+##### Week 8 - 5th March 2018
+
+  * N/A - Spring Break
 
 ##### Week 7 - 26th February 2018
 
