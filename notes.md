@@ -54,15 +54,15 @@ This material will be updated on a weekly basis.
 
 ##### Week 11 - 6th November 2017
   * [course](/assets/docs/2017/Comp424-week11.pdf)
-  * extras
-    * [JS - Generators and Promises](/assets/docs/extras/2017/fall/js/js-generators-promises.pdf)
-
-##### Week 10 - 30th October 2017
-  * [course](/assets/docs/2017/Comp424-week10.pdf)
-  * extras
-    * [design and information architecture](/assets/docs/extras/2017/fall/design/design-information-architecture.pdf)
 
 -->
+
+##### Week 10 - 19th March 2018
+  * [course](/assets/docs/2018/comp424-week10.pdf)
+  * extras - Design
+    * [design and information architecture](/assets/docs/extras/2018/spring/design/design-information-architecture.pdf)
+  * extras - JS
+    * [JS - Generators and Promises](/assets/docs/extras/2018/spring/js/js-generators-promises.pdf)
 
 ##### Week 9 - 12th March 2018
   * N/A - DEV Week

@@ -58,14 +58,14 @@ There is no specific textbook for this course.
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 
-##### Week 10 - 30th October 2017
+-->
+
+##### Week 10 - 19th March 2018
 
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [Create your own AJAX loader](http://www.ajaxload.info/)
-
--->
 
 ##### Week 9 - 12th March 2018
 

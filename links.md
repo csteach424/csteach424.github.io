@@ -29,11 +29,15 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
@@ -45,10 +49,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
-  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
-  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
