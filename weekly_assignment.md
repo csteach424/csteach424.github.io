@@ -163,7 +163,7 @@ Enjoy your week.
   * questions will be multiple choice
   * please bring your laptop or other internet connected device to class
   * this quiz uses an online Google Form
-    * **NB:** you'll need a Google account to register for the quiz
+    * **n.b.** you'll need a Google account to register for the quiz
 
 Any questions, please let me know.
 
