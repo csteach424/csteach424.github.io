@@ -110,7 +110,6 @@ Enjoy your week.
 #### Week 11 - 6th November 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra document
-  * [JS - Generators and Promises](/assets/docs/extras/2017/fall/js/js-generators-promises.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
@@ -124,18 +123,18 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 10 - 30th October 2017
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
-  * [design and information architecture](/assets/docs/extras/2017/fall/design/design-information-architecture.pdf)
+#### Week 11 - 26th March 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 10](https://github.com/csteach424/source/tree/master/week10)
-* Please create a list on the [Week 10 - Patterns](https://trello.com/b/gi3gdL7U/week-10-patterns) Trello board for your group, and add the following details,
+  * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
+* Please create a list on the [Week 11 - Patterns](https://trello.com/b/WEAm1X2K/week-11-patterns) Trello board for your group, and add the following details,
   * examples of interaction within your site that would benefit from using *deferred* object
-  * other events or requests within your site that would also benefit from *deferred* object
-    * **NB:** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
-* Please contribute to this week's class discussion on Slack, **#discussion-week10**, for the website, [The Louvre](http://www.louvre.fr/en/)
+    * **n.b.** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [The Louvre](http://www.louvre.fr/en/)
   * please consider this site's presentation of media, and its organisation and structure
   * how does the site present its cultural assets to help engage with users and visitors?
   * consider data organisation, and the available search and filter options?
@@ -147,12 +146,10 @@ Any questions, please let me know.
 
 Enjoy your week.
 
--->
-
 #### Week 10 - 19th March 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * [design our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
+  * [design and information architecture](/assets/docs/extras/2018/spring/design/design-information-architecture.pdf)
   * [JS - Generators and Promises](/assets/docs/extras/2018/spring/js/js-generators-promises.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,

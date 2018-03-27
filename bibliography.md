@@ -49,7 +49,9 @@ There is no specific textbook for this course.
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
 
-##### Week 11 - 6th November 2017
+-->
+
+##### Week 11 - 26th March 2018
 
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
@@ -57,8 +59,6 @@ There is no specific textbook for this course.
   * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-
--->
 
 ##### Week 10 - 19th March 2018
 

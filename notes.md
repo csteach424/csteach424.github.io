@@ -52,10 +52,10 @@ This material will be updated on a weekly basis.
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
 
-##### Week 11 - 6th November 2017
-  * [course](/assets/docs/2017/Comp424-week11.pdf)
-
 -->
+
+##### Week 11 - 26th March 2018
+  * [course](/assets/docs/2018/comp424-week11.pdf)
 
 ##### Week 10 - 19th March 2018
   * [course](/assets/docs/2018/comp424-week10.pdf)
