@@ -107,13 +107,22 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 11 - 6th November 2017
+-->
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra document
+#### Week 12 - 2nd April 2018
+
+* Review this week's [notes and material](/notes), which includes the following
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
+  * extras - various
+    * [Google APIs - overview](/assets/docs/extras/2018/spring/various/google-apis-overview.pdf)
+    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2018/spring/various/oauth-google-api.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
   * please consider this site's overall aesthetics, graphics, and general images
   * does the form match the intended function?
   * is it a useful website for its intended target, a restaurant?
@@ -122,8 +131,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 11 - 26th March 2018
 

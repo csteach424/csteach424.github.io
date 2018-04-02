@@ -41,15 +41,15 @@ There is no specific textbook for this course.
     * [redis.io](http://redis.io/)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
-##### Week 12 - 13th November 2017
+-->
+
+##### Week 12 - 2nd April 2018
 
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * Node.js
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
-
--->
 
 ##### Week 11 - 26th March 2018
 

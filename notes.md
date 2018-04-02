@@ -39,20 +39,23 @@ This material will be updated on a weekly basis.
 
 ##### Week 13 - 20th November 2017
   * [course](/assets/docs/2017/Comp424-week13.pdf)
-  * extras - various
-    * [Google APIs - overview](/assets/docs/extras/2017/fall/various/google-apis-overview.pdf)
-    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2017/fall/various/oauth-google-api.pdf)
 
 ##### Week 12 - 13th November 2017
   * [course](/assets/docs/2017/Comp424-week12.pdf)
   * extras - Node.js, Express, and MongoDB
-    * [Node.js outline](/assets/docs/extras/2017/fall/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2017/fall/node/nodejs-express-outline.pdf)
     * [Node.js and MongoDB](/assets/docs/extras/2017/fall/node/nodejs-mongo-outline.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
 
 -->
+
+##### Week 12 - 2nd April 2018
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
+  * extras - various
+    * [Google APIs - overview](/assets/docs/extras/2018/spring/various/google-apis-overview.pdf)
+    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2018/spring/various/oauth-google-api.pdf)
 
 ##### Week 11 - 26th March 2018
   * [course](/assets/docs/2018/comp424-week11.pdf)
