@@ -27,27 +27,24 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/Comp424-week14.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
-  * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/extras/2017/fall/various/git-heroku-setup.pdf)
-    * [Heroku & MongoDB](/assets/docs/extras/2017/fall/various/heroku-mongodb-setup.pdf)
-  * extras - MongoDB & Native Driver
-    * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/2017/fall/various/data-stores-apis.pdf)
   * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
     * [Heroku and Postman](/assets/docs/extras/2017/fall/node-apis/api-heroku-mongo.pdf)
     * [Node.js API](/assets/docs/extras/2017/fall/node-apis/node-todos-api.pdf)
     * [Node.js API Testing](/assets/docs/extras/2017/fall/node-apis/testing-todos-api.pdf)
-
-##### Week 13 - 20th November 2017
-  * [course](/assets/docs/2017/Comp424-week13.pdf)
-
-##### Week 12 - 13th November 2017
-  * [course](/assets/docs/2017/Comp424-week12.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2017/fall/node/nodejs-mongo-outline.pdf)
-  * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
+* extras - MongoDB & Native Driver
+  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/2018/spring/various/data-stores-apis.pdf)
 
 -->
+
+##### Week 13 - 9th April 2018
+  * [course](/assets/docs/2018/comp424-week13.pdf)
+  * extras - Node.js, Express, and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2018/spring/node/nodejs-mongo-outline.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2018/spring/various/git-heroku-setup.pdf)
+    * [Heroku & MongoDB](/assets/docs/extras/2018/spring/various/heroku-mongodb-setup.pdf)
+  * extras - Final Report Outline
+    * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
 
 ##### Week 12 - 2nd April 2018
   * extras - Node.js and Express

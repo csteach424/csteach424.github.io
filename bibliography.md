@@ -39,17 +39,22 @@ There is no specific textbook for this course.
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * Redis
     * [redis.io](http://redis.io/)
-  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
 -->
 
-##### Week 12 - 2nd April 2018
+##### Week 13 - 9th April 2018
 
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * Node.js
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
+
+##### Week 12 - 2nd April 2018
+
+  * Node.js
+    * [Node.js](https://nodejs.org/en/)
+  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
 ##### Week 11 - 26th March 2018
 

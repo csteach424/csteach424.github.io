@@ -39,7 +39,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [Node.js home](https://nodejs.org/en/)
+  * [redis.io](http://redis.io/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
@@ -50,11 +52,8 @@ If you have any suggestions for additions to this section of the site, please fe
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
-  * [redis.io](http://redis.io/)
-
 -->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -132,8 +131,6 @@ NB: there are many other options available, simply search online for [css framew
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
 
-<!--
-
 #### Extras
 
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
@@ -141,7 +138,6 @@ NB: there are many other options available, simply search online for [css framew
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
 
 ***
 
