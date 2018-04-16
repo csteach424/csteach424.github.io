@@ -29,6 +29,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
+  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
@@ -40,7 +42,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
+  * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
+  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
@@ -48,13 +52,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-
-<!--
-  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
-  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
--->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 

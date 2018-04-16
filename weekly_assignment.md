@@ -112,6 +112,45 @@ Enjoy your week.
 
 -->
 
+#### Week 14 - 16th April 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2018/spring/node/update-nodejs.pdf)
+  * extras - Node.js & Express
+    * [Node.js & Express starter](/assets/docs/extras/2018/spring/node/node-express-starter.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2018/spring/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/spring/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2018/spring/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - React starter
+    * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
+    * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-timestamps.pdf)
+  * extras - Web development - patterns
+    * [Observer pattern](/assets/docs/extras/2018/spring/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2018/spring/web-general/patterns/pubsub.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
+* Please prepare your group's **project presentation** for Monday 23rd April 2018
+  * as detailed in previous classes, this presentation should be an outline and demo of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be between 10 to 15 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 23rd April 2018.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 13 - 9th April 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents

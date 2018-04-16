@@ -22,19 +22,32 @@ This material will be updated on a weekly basis.
 ##### Week 15 - 4th December 2017
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
-
-##### Week 14 - 27th November 2017
-  * [course](/assets/docs/2017/Comp424-week14.pdf)
-  * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
-  * extras - Node.js APIs, MongoDB, Testing, Heroku, &c.
-    * [Heroku and Postman](/assets/docs/extras/2017/fall/node-apis/api-heroku-mongo.pdf)
-    * [Node.js API](/assets/docs/extras/2017/fall/node-apis/node-todos-api.pdf)
-    * [Node.js API Testing](/assets/docs/extras/2017/fall/node-apis/testing-todos-api.pdf)
-* extras - MongoDB & Native Driver
-  * [Data Stores and APIs - using MongoDB and native driver](/assets/docs/extras/2018/spring/various/data-stores-apis.pdf)
-
 -->
+
+##### Week 14 - 16th April 2018
+  * [course](/assets/docs/2018/comp424-week14.pdf)
+  * extras - Final Report Outline
+    * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2018/spring/node/update-nodejs.pdf)
+  * extras - Node.js & Express
+    * [Node.js & Express starter](/assets/docs/extras/2018/spring/node/node-express-starter.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2018/spring/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/spring/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2018/spring/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - React starter
+    * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
+    * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-timestamps.pdf)
+  * extras - Web development - patterns
+    * [Observer pattern](/assets/docs/extras/2018/spring/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2018/spring/web-general/patterns/pubsub.pdf)
 
 ##### Week 13 - 9th April 2018
   * [course](/assets/docs/2018/comp424-week13.pdf)
