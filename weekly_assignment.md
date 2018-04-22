@@ -19,22 +19,6 @@ summary: weekly assignment for COMP 324/424
 ***
 
 <!--
-#### Week 15 - 4th December 2017
-
-* Please complete your group's final project report
-  * suggested report length approximately 10 pages
-* Further details can be found in the following outline
-  * [Final Report Outline](/assets/docs/2017/comp424-final-report-outline.pdf)
-* Report must be submitted by 4.15pm on Monday 11th December 2017
-   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
-* Please share with me a copy of your group's final code. This may include the following options,
-  * GitHub
-
-**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
-
-Any questions, please let me know.
-
-Enjoy your week.
 
 #### Week 14 - 27th November 2017
 
@@ -111,6 +95,23 @@ Any questions, please let me know.
 Enjoy your week.
 
 -->
+
+#### Week 15 - 23rd April 2018
+
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
+* Report must be submitted by 4.15pm on Monday 30th April 2018
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
+* Please share with me a copy of your group's final code. This may include the following options,
+  * GitHub
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 14 - 16th April 2018
 
