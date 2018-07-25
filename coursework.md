@@ -33,7 +33,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
