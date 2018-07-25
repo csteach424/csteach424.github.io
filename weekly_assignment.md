@@ -96,6 +96,7 @@ Enjoy your week.
 
 -->
 
+<!--
 #### Week 15 - 23rd April 2018
 
 * Please complete your group's final project report
@@ -439,3 +440,8 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 ##### Week 1 - 15th January 2018
 
 * N/A
+-->
+
+##### Week 1 - 28th August 2018
+
+  * 

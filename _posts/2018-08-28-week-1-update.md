@@ -1,5 +1,5 @@
 ---
-title: Week 14 course update
+title: Week 1 course update
 author: ancientlives
 layout: post-vertical
 
@@ -8,14 +8,14 @@ categories:
 
 tags: general news
 year: 2018
-month: 04
-day: 16
+month: 08
+day: 28
 published: true
-summary: site updated and week 14 assignment
+summary: site updated and week 1 assignment
 menu: new-semester
 ---
 
-The course website has now been updated for this week's class, week 14.
+The course website has now been updated for this week's class, week 1.
 
 Updates include the following,
 

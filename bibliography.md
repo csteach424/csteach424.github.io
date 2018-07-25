@@ -20,6 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
 ###### Week 15 - 23rd April 2018
 
   * N/A
@@ -116,3 +117,8 @@ There is no specific textbook for this course.
 ##### Week 1 - 15th January 2018
 
   * N/A
+-->
+
+##### Week 1 - 28th August 2018
+
+  * 

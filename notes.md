@@ -17,7 +17,7 @@ Course notes and material will be added to this page during the semester.
 This material will be updated on a weekly basis.
 
 ***
-
+<!--
 ##### Week 15 - 23rd April 2018
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
@@ -126,3 +126,8 @@ This material will be updated on a weekly basis.
     * [HTML - DOM Intro](/assets/docs/extras/2018/spring/html/html-dom-intro.pdf)
 
 ##### Week 1 - N/A
+-->
+
+##### Week 1 - 28th August 2018
+
+  * 

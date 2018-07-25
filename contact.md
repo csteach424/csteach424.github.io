@@ -22,4 +22,4 @@ For course enquiries, please use one of the following contact options
 * Email: [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 324/424 Enquiry)
 * [Faculty Page](http://www.luc.edu/cs/people/ftfaculty/haywardnicholas.shtml)
 
-Office hours for this semester are Monday afternoon [by appointment](mailto:nhayward@luc.edu?subject=Comp 324/424 Appointment).
+Office hours for this semester are Tuesday [by appointment](mailto:nhayward@luc.edu?subject=Comp 324/424 Appointment).

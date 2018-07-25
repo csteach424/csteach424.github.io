@@ -109,11 +109,11 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * DEV week demo
-  * due Monday 12th March 2018 @ 4.15pm
+  * due Tuesday 16th October 2018 @ 7pm
 * final team demo
-  * due Monday 23rd April 2018 @ 4.15pm
+  * due Tuesday 4th December 2018 @ 7pm
 * final team report
-  * due Monday 30th April 2018 @ 4.15pm
+  * due Tuesday 11th December 2018 @ 7pm
 
 #### Grading
 
