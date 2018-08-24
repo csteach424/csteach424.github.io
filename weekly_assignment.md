@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 324/424
+summary: weekly assignment for COMP 424
 ---
 
 #### Assignment submission
@@ -444,4 +444,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 
 ##### Week 1 - 28th August 2018
 
-  * 
+  *

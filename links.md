@@ -9,7 +9,7 @@ categories:
 
 tags: links resources
 published: true
-summary: suggested links and resources for COMP 324/424
+summary: suggested links and resources for COMP 424
 ---
 
 This list contains a variety of information, suggestions, and generally interesting material.

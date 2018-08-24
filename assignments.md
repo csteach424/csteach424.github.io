@@ -9,7 +9,7 @@ categories:
 
 tags: assignments coursework
 published: true
-summary: assignments and coursework for COMP 324/424
+summary: assignments and coursework for COMP 424
 ---
 
 This page will be updated each week during the semester with assignments, coursework, quizzes...

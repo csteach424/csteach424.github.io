@@ -9,7 +9,7 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 324/424
+summary: course bibliography and references for COMP 424
 ---
 
 The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
@@ -121,4 +121,4 @@ There is no specific textbook for this course.
 
 ##### Week 1 - 28th August 2018
 
-  * 
+  *

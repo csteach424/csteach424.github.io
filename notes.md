@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 324/424
+summary: course notes and material for COMP 424
 ---
 
 Course notes and material will be added to this page during the semester.
@@ -130,4 +130,4 @@ This material will be updated on a weekly basis.
 
 ##### Week 1 - 28th August 2018
 
-  * 
+  *
