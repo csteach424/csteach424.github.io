@@ -130,4 +130,10 @@ This material will be updated on a weekly basis.
 
 ##### Week 1 - 28th August 2018
 
-  *
+  * [course](/assets/docs/2018/fall/comp424-week1.pdf)
+  * extras
+    * [Git basics](/assets/docs/extras/git-basics.pdf)
+  * extras - HTML
+    * [HTML - Intro](/assets/docs/extras/2018/fall/html/html-intro.pdf)
+    <!--* [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)-->
+    * [HTML - DOM Intro](/assets/docs/extras/2018/fall/html/html-dom-intro.pdf)
