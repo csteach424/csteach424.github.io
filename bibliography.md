@@ -106,18 +106,15 @@ There is no specific textbook for this course.
 
 ##### Week 3 - 29th January 2018
 
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
 
-##### Week 2 - 22nd January 2018
-
-  * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
-
-##### Week 1 - 15th January 2018
-
-  * N/A
 -->
+
+##### Week 1 - 4th September 2018
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
 
 ##### Week 1 - 28th August 2018
 

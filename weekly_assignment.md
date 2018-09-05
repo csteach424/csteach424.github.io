@@ -394,55 +394,24 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 2 - 22nd January 2018
-* Review this week's [notes and material](/notes), which includes the class notes and the extra document
-  * [Git basics](/assets/docs/extras/git-basics.pdf)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/3Dh6pCTu/week-1-project-details)
-  * project name
-  * the full name of each team member (or preferred name)
-  * any ideas you are currently considering for this project work
-  * level of experience with HTML, CSS, JS...
-
-Please read the instructions available on the board, and then create a new list for your project group.
-
-##### Trello group
-I've now created a Trello group for this course, which is available at the following URL,
-
-  * [COMP 424 - Spring 2018 @ LUC](https://trello.com/csteach424)
-
-**n.b.** Please add your Trello username to the following spreadsheet,
-
-  * [COMP 424 - Trello Signup](https://docs.google.com/spreadsheets/d/14jKuwTHT2swawrLL8bIl0NqF3nA3RTAckTufFT4BNR4/edit?usp=sharing)
-
-If you do not currently have a Trello username, you'll need to register at the following URL,
-
-* Trello - [Signup](https://trello.com/signup)
-
-##### Slack group
-I've also created a Slack group for this course, which is called **COMP 424 - Spring 2018 @ LUC**.
-
-Invite link for this group is as follows,
-
-  * [COMP 424 - Spring 2018 @ LUC](https://join.slack.com/t/csteach424/shared_invite/enQtMjk5NjY1MTYyMzA4LTg1NDg5NDhmMzYyNjNmNWE0NWFiYmRjMmNmYTJkNWNjYTUyYzhlNDFkN2QyZjE5OGRjNDU4MTE1ODhlYWZjMjM)
-
-Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
-
-###### Extras
-* Review the following online Git tutorials (if necessary)
-  * [Getting Started - Installing Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  * [Getting Started - First-time Git Setup](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
-  * [Getting Started - Getting Help](http://git-scm.com/book/en/v2/Getting-Started-Getting-Help)
-  * [Git Basics - Getting a Git Repository](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-  * [Git Basics - Recording Changes to the Repository](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
-  * [Git Basics - Viewing the Commit History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-  * [Git Basics - Undoing Things](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
-
-Slack - Fall 2018 - invite url = https://join.slack.com/t/csteach424-2018/shared_invite/enQtNDIzMjYyMDUwOTc2LTE0Y2MwZGIxOGEyNDk2YjRlMDIwNTRjMzZkN2M0NTQxMmE1MjhiYmEwNWUyMDc1OThhYmZhZWUzYzFmNzY1ZTE
-
-##### Week 1 - 15th January 2018
-
-* N/A
 -->
+
+##### Week 2 - 4th September 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the extra documents
+  * [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)
+* Review the DOM and HTML code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/week2)
+* Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
+  * [Week 1 - Project Details](https://trello.com/b/YYRSir8c)
+* Please create a GitHub account for your project group
+  * create a new repository for `source` code & any other project material or notes
+  * add the GitHub details for your project to the appropriate group list on Trello,
+    * [Week 1 - Project Details](https://trello.com/b/YYRSir8c)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 
 ##### Week 1 - 28th August 2018
 

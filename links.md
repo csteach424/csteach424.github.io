@@ -35,7 +35,9 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -127,14 +129,9 @@ NB: there are many other options available, simply search online for [css framew
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
-<!--
 #### Websites
 
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
@@ -144,6 +141,13 @@ NB: there are many other options available, simply search online for [css framew
   * W3C
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
+
+<!--
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 -->
 
 <!--
@@ -155,8 +159,6 @@ NB: there are many other options available, simply search online for [css framew
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 -->
-
-
 
 ***
 

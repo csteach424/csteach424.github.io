@@ -116,17 +116,13 @@ This material will be updated on a weekly basis.
     * [HTML5 - Intro](/assets/docs/extras/2018/spring/html5/html5-intro.pdf)
     * [HTML5 - Extra](/assets/docs/extras/2018/spring/html5/html5-extra.pdf)
 
-##### Week 2 - 22nd January 2018
-  * [course](/assets/docs/2018/comp424-week2.pdf)
-  * extras
-    * [Git basics](/assets/docs/extras/git-basics.pdf)
-  * extras - HTML
-    * [HTML - Intro](/assets/docs/extras/2018/spring/html/html-intro.pdf)
-    * [HTML - Basics](/assets/docs/extras/2018/spring/html/html-basics.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2018/spring/html/html-dom-intro.pdf)
-
-##### Week 1 - N/A
 -->
+
+##### Week 2 - 4th September 2018
+
+  * [course](/assets/docs/2018/fall/comp424-week2.pdf)
+  * extras - HTML
+      * [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)
 
 ##### Week 1 - 28th August 2018
 
@@ -135,5 +131,4 @@ This material will be updated on a weekly basis.
     * [Git basics](/assets/docs/extras/git-basics.pdf)
   * extras - HTML
     * [HTML - Intro](/assets/docs/extras/2018/fall/html/html-intro.pdf)
-    <!--* [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)-->
     * [HTML - DOM Intro](/assets/docs/extras/2018/fall/html/html-dom-intro.pdf)
