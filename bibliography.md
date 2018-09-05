@@ -110,7 +110,7 @@ There is no specific textbook for this course.
 
 -->
 
-##### Week 1 - 4th September 2018
+##### Week 2 - 4th September 2018
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
