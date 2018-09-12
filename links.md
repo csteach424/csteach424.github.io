@@ -84,7 +84,6 @@ Links will be added during the course...
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
 -->
 
-<!--
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -98,20 +97,19 @@ NB: there are many other options available, simply search online for [css framew
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Useful Tools & Reference
 
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [CSS Lint](http://csslint.net/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-  * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
 -->
@@ -131,7 +129,12 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
@@ -142,15 +145,6 @@ NB: there are many other options available, simply search online for [css framew
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
 
-<!--
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
--->
-
-<!--
 #### Extras
 
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
@@ -158,7 +152,6 @@ NB: there are many other options available, simply search online for [css framew
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
 
 ***
 

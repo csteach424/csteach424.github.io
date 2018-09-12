@@ -103,12 +103,13 @@ There is no specific textbook for this course.
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+-->
 
 ##### Week 3 - 29th January 2018
 
+  * [MDN - HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-
--->
+  * [W3 Schools - HTML5](https://www.w3schools.com/html/default.asp)
 
 ##### Week 2 - 4th September 2018
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)

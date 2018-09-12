@@ -107,25 +107,22 @@ This material will be updated on a weekly basis.
     * [CSS - Basics](/assets/docs/extras/2018/spring/css/css-basics.pdf)
     * [CSS - HTML5](/assets/docs/extras/2018/spring/css/css-html5.pdf)
     * [CSS - Box Model](/assets/docs/extras/2018/spring/css/css-box-model.pdf)
-  * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2018/spring/design/design-mockups.pdf)
-
-##### Week 3 - 29th January 2018
-  * [course](/assets/docs/2018/comp424-week3.pdf)
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2018/spring/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2018/spring/html5/html5-extra.pdf)
-
 -->
 
-##### Week 2 - 4th September 2018
+##### Week 3 - 11th September 2018
+  * [course](/assets/docs/2018/fall/comp424-week3.pdf)
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2018/fall/design/design-mockups.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2018/fall/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2018/fall/html5/html5-extra.pdf)
 
+##### Week 2 - 4th September 2018
   * [course](/assets/docs/2018/fall/comp424-week2.pdf)
   * extras - HTML
       * [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)
 
 ##### Week 1 - 28th August 2018
-
   * [course](/assets/docs/2018/fall/comp424-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)

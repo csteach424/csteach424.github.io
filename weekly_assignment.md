@@ -336,15 +336,6 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 5](https://github.com/csteach424/source/tree/master/week5)
-* Please start to design and outline your project's application and website
-  * consider initial pages, content, navigation, and required user interaction
-  * what is the primary goal of the homepage for this application/website
-    * consider content sections, navigation options, possible user interactions...
-  * create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
-    * views can include content pages/screens, dialogs, overlays, admin/account screens...
-  * Please add this information, and associated mockup images or drawings, to this week's board on the course's Trello group
-    * I've added initial instructions to this board, which is available at the following URL
-      * [Week 5 - Project Mockups](https://trello.com/b/UszOdFMS/week-5-project-mockups)
 
 Any questions, please let me know.
 
@@ -358,43 +349,40 @@ Enjoy your week.
     * [CSS - Basics](/assets/docs/extras/2018/spring/css/css-basics.pdf)
     * [CSS - HTML5](/assets/docs/extras/2018/spring/css/css-html5.pdf)
     * [CSS - Box Model](/assets/docs/extras/2018/spring/css/css-box-model.pdf)
-  * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2018/spring/design/design-mockups.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach424/source/tree/master/week4)
-* Prepare for a quiz, which is scheduled for the end of next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 1 to 4 inclusive
-  * quiz will be approximately 30 minutes in length
-  * questions will be multiple choice
-  * please bring your laptop or other internet connected device to class
-  * this quiz uses an online Google Form
-    * **n.b.** you'll need a Google account to register for the quiz
 
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 3 - 29th January 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2018/spring/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2018/spring/html5/html5-extra.pdf)
-* Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
-* Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/3Dh6pCTu/week-1-project-details)
-* Please create a GitHub account for your project group
-  * create a new repository for `source` code & any other project material or notes
-  * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Project Groups](https://trello.com/b/mO2QxhRj/project-groups)
+* create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
+  * views can include content pages/screens, dialogs, overlays, admin/account screens...
 
 Any questions, please let me know.
 
 Enjoy your week.
 
 -->
+
+#### Week 3 - 11th September 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2018/fall/design/design-mockups.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2018/fall/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2018/fall/html5/html5-extra.pdf)
+* Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
+* Please start to design and outline your project's application and website
+  * consider initial pages, content, navigation, and required user interaction
+  * what is the primary goal of the homepage for this application/website
+    * consider content sections, navigation options, possible user interactions...
+  * Please add this information, and any initial images or drawings &c., to this week's board on the course's Trello group
+    * I've added initial instructions to this board, which is available at the following URL
+      * [Week 3 - Project Outline](https://trello.com/b/SGFSsfWJ/week-3-project-outline)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 2 - 4th September 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
