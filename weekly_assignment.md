@@ -341,26 +341,27 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 4 - 5th February 2018
+-->
+
+#### Week 4 - 18th September 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - CSS
-    * [CSS - Intro](/assets/docs/extras/2018/spring/css/css-intro.pdf)
-    * [CSS - Basics](/assets/docs/extras/2018/spring/css/css-basics.pdf)
-    * [CSS - HTML5](/assets/docs/extras/2018/spring/css/css-html5.pdf)
-    * [CSS - Box Model](/assets/docs/extras/2018/spring/css/css-box-model.pdf)
+    * [CSS - Intro](/assets/docs/extras/2018/fall/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2018/fall/css/css-basics.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2018/fall/css/css-box-model.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2018/fall/css/css-html5.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 4](https://github.com/csteach424/source/tree/master/week4)
-
-* create a low-fidelity or hi-fidelity mockup of conceptual designs for your application's views
-  * views can include content pages/screens, dialogs, overlays, admin/account screens...
+* Please prepare your first presentation and demo for the start of next week's class
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach424.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 10 & 11](http://csteach424.github.io/assets/docs/2018/fall/comp424-week1.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 3 - 11th September 2018
 

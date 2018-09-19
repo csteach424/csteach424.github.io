@@ -27,17 +27,21 @@ Links will be added during the course...
 #### Articles & Papers
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-  * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
-
-<!--
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
+  * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
 
 #### Documentation & Guides
 
+  * [MDN - Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+  * [MDN - Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+  * [W3C - CSS](http://www.w3.org/Style/CSS/)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -51,7 +55,6 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
@@ -60,8 +63,6 @@ Links will be added during the course...
   * [Node.js home](https://nodejs.org/en/)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
 -->
 
 <!--
@@ -100,15 +101,16 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Useful Tools & Reference
 
+  * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
-  * [CSS Lint](http://csslint.net/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)

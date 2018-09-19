@@ -100,14 +100,15 @@ This material will be updated on a weekly basis.
     * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
     * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
 
-##### Week 4 - 5th February 2018
-  * [course](/assets/docs/2018/comp424-week4.pdf)
-  * extras - CSS
-    * [CSS - Intro](/assets/docs/extras/2018/spring/css/css-intro.pdf)
-    * [CSS - Basics](/assets/docs/extras/2018/spring/css/css-basics.pdf)
-    * [CSS - HTML5](/assets/docs/extras/2018/spring/css/css-html5.pdf)
-    * [CSS - Box Model](/assets/docs/extras/2018/spring/css/css-box-model.pdf)
 -->
+
+##### Week 4 - 18th September 2018
+  * [course](/assets/docs/2018/fall/comp424-week4.pdf)
+  * extras - CSS
+    * [CSS - Intro](/assets/docs/extras/2018/fall/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2018/fall/css/css-basics.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2018/fall/css/css-box-model.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2018/fall/css/css-html5.pdf)
 
 ##### Week 3 - 11th September 2018
   * [course](/assets/docs/2018/fall/comp424-week3.pdf)
