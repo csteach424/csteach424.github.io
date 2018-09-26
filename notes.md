@@ -102,6 +102,10 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 5 - 25th September 2018
+
+  * N/A
+
 ##### Week 4 - 18th September 2018
   * [course](/assets/docs/2018/fall/comp424-week4.pdf)
   * extras - CSS
