@@ -94,13 +94,22 @@ This material will be updated on a weekly basis.
 
 ##### Week 5 - 12th February 2018
   * [course](/assets/docs/2018/comp424-week5.pdf)
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2018/spring/design/design-interface-intro.pdf)
   * extras - JS
     * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
     * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
 
 -->
+
+##### Week 6 - 2nd October 2018
+  * [course](/assets/docs/2018/fall/comp424-week4.pdf)
+  * extras - CSS
+    * [CSS - Grid Basics](/assets/docs/extras/2018/fall/css/css-grid.pdf)
+    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2018/fall/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2018/fall/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
 
 ##### Week 5 - 25th September 2018
 

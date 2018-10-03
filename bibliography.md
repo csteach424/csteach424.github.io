@@ -99,6 +99,12 @@ There is no specific textbook for this course.
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
 -->
 
+##### Week 6 - 2nd October 2018
+
+  * [Google Web Fonts](https://fonts.google.com/)
+  * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
+
 ##### Week 5 - 25th September 2018
 
   * N/A

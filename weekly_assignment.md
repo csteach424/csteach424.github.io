@@ -318,18 +318,12 @@ Enjoy your week, and Spring Break.
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
-* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week6**, for the website, [Uniqlo](http://www.uniqlo.com/us/)
-  * consider organisation of content
-  * general consistency of design, colours, interaction options
-  * navigation and data presentation patterns
 
 Enjoy your week.
 
 #### Week 5 - 12th February 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2018/spring/design/design-interface-intro.pdf)
   * extras - JS
     * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
     * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
@@ -342,6 +336,32 @@ Any questions, please let me know.
 Enjoy your week.
 
 -->
+
+#### Week 6 - 2nd October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - CSS
+    * [CSS - Grid Basics](/assets/docs/extras/2018/fall/css/css-grid.pdf)
+    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2018/fall/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2018/fall/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
+* Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week6**, for the website, [National Geographic](https://www.nationalgeographic.com/)
+  * consider organisation of content
+  * use of structured zones and places within the UI for content, navigation, media &c.
+  * use of grid patterns within the site
+  * general use of aesthetics and colour
+
+**n.b.** there is no formal class next week, Tuesday 9th October 2018, due to mid-semester break.
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 5 - 25th September 2018
 
