@@ -309,33 +309,33 @@ Any questions, please let me know.
 
 Enjoy your week, and Spring Break.
 
-#### Week 6 - 19th February 2018
+*** add outline of JavaScript work to be completed for DEV Week presentations and demo... ***
 
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+
+-->
+
+#### Week 8 - 16th October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - JS
-    * [JS - core](/assets/docs/extras/2018/spring/js/js-core.pdf)
-    * [JS - json](/assets/docs/extras/2018/spring/js/js-json.pdf)
+    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
+    * [JS - core](/assets/docs/extras/2018/fall/js/js-core.pdf)
 * Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
-
-Enjoy your week.
-
-#### Week 5 - 12th February 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 5](https://github.com/csteach424/source/tree/master/week5)
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 8](https://github.com/csteach424/source/tree/master/week8)
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 8 - DEV Week prep](https://trello.com/b/XzRhbd4V/week-8-dev-week-prep)
+  * I've added instructions on this board.
 
 Any questions, please let me know.
 
 Enjoy your week.
 
--->
+#### Week 7 - 9th October 2018
+
+* N/A
 
 #### Week 6 - 2nd October 2018
 

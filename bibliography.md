@@ -89,15 +89,19 @@ There is no specific textbook for this course.
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+-->
 
-##### Week 5 - 12th February 2018
+##### Week 8 - 16th October 2018
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
--->
+
+##### Week 7 - 9th October 2018
+
+  * N/A
 
 ##### Week 6 - 2nd October 2018
 

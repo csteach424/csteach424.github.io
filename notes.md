@@ -86,19 +86,19 @@ This material will be updated on a weekly basis.
   * extras - Design
     * [designing our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
 
-##### Week 6 - 19th February 2018
-  * [course](/assets/docs/2018/comp424-week6.pdf)
-  * extras - JS
-    * [JS - core](/assets/docs/extras/2018/spring/js/js-core.pdf)
-    * [JS - json](/assets/docs/extras/2018/spring/js/js-json.pdf)
-
-##### Week 5 - 12th February 2018
-  * [course](/assets/docs/2018/comp424-week5.pdf)
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2018/spring/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2018/spring/js/js-logic.pdf)
+* [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
 
 -->
+
+##### Week 8 - 16th October 2018
+  * [course](/assets/docs/2018/fall/comp424-week8.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
+    * [JS - core](/assets/docs/extras/2018/fall/js/js-core.pdf)
+
+##### Week 7 - 9th October 2018
+  * N/A
 
 ##### Week 6 - 2nd October 2018
   * [course](/assets/docs/2018/fall/comp424-week4.pdf)

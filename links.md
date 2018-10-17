@@ -32,6 +32,8 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
   * [MDN - Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -40,6 +42,7 @@ Links will be added during the course...
   * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
@@ -55,9 +58,6 @@ Links will be added during the course...
   * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
@@ -67,7 +67,6 @@ Links will be added during the course...
   * [redis.io](http://redis.io/)
 -->
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [AngularJS](https://angularjs.org/)
@@ -85,7 +84,6 @@ Links will be added during the course...
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
--->
 
 #### Mockup & Prototype Tools - a few examples
 
@@ -111,12 +109,12 @@ NB: there are many other options available, simply search online for [css framew
   * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
 -->
 
 #### Various
