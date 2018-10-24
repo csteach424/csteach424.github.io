@@ -81,14 +81,17 @@ This material will be updated on a weekly basis.
 ##### Week 8 - 5th March 2018
   * N/A
 
-##### Week 7 - 26th February 2018
-  * [course](/assets/docs/2018/comp424-week7.pdf)
-  * extras - Design
-    * [designing our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
-
-* [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
-
 -->
+
+##### Week 9 - 23rd October 2018
+  * [course](/assets/docs/2018/fall/comp424-week9.pdf)
+  * extras - Design
+    * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
+  * extras - JS
+    * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
 
 ##### Week 8 - 16th October 2018
   * [course](/assets/docs/2018/fall/comp424-week8.pdf)

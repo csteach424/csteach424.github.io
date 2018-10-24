@@ -314,6 +314,28 @@ Enjoy your week, and Spring Break.
 
 -->
 
+#### Week 9 - 23rd October 2018
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - Design
+    * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
+  * extras - JS
+    * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 9](https://github.com/csteach424/source/tree/master/week9)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/fall/comp424-week9.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment3) section of this site
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 8 - 16th October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

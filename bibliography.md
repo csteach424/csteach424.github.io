@@ -82,14 +82,14 @@ There is no specific textbook for this course.
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+-->
 
-##### Week 6 - 19th February 2018
+##### Week 9 - 23rd October 2018
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
--->
 
 ##### Week 8 - 16th October 2018
 
