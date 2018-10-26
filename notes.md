@@ -85,6 +85,8 @@ This material will be updated on a weekly basis.
 
 ##### Week 9 - 23rd October 2018
   * [course](/assets/docs/2018/fall/comp424-week9.pdf)
+  * extras - data stores
+    * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - Design
     * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS
