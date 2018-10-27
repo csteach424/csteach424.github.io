@@ -317,6 +317,8 @@ Enjoy your week, and Spring Break.
 #### Week 9 - 23rd October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - CSS
+    * [Flexbox - guide & usage](/assets/docs/extras/2018/fall/css/css-flexbox-guide.pdf)
   * extras - Design
     * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS
