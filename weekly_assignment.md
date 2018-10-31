@@ -314,6 +314,42 @@ Enjoy your week, and Spring Break.
 
 -->
 
+#### Week 10 - 30th October 2018
+
+* Review this week's [notes and material](/notes), which includes the following extra documents,
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
+	* extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-timestamps.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 10](https://github.com/csteach424/source/tree/master/week10)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+	* [Group 1 - Color My World](https://goo.gl/forms/vviCw46cLnyrPALg1)
+	* [Group 2 - Rendezvous](https://goo.gl/forms/TTDOW5eIrMpPfSg82)
+	* [Group 3 - Spark Dating](https://goo.gl/forms/Fu9DXBAPFLRFTKR32)
+	* [Group 4 - My Resume](https://goo.gl/forms/4BTXv2NLC5sNzEZb2)
+	* [Group 5 - HyperScheduler](https://goo.gl/forms/xp1jEDjubVcm3I603)
+  * [Group 6 - Strawberries](https://goo.gl/forms/mKgI2cHCxSRxnkKC3)
+* Complete these peer review forms by **Tuesday 6th November 2018** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/yl99MKTk/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Tuesday 6th November 2018** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/yQDYqS4E/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Tuesday 6th November 2018** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 23rd October 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
@@ -323,9 +359,6 @@ Enjoy your week, and Spring Break.
     * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS
     * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
-  * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 9](https://github.com/csteach424/source/tree/master/week9)

@@ -61,9 +61,6 @@ This material will be updated on a weekly basis.
   * extras - Node.js and Express
     * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
     * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
-  * extras - various
-    * [Google APIs - overview](/assets/docs/extras/2018/spring/various/google-apis-overview.pdf)
-    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2018/spring/various/oauth-google-api.pdf)
 
 ##### Week 11 - 26th March 2018
   * [course](/assets/docs/2018/comp424-week11.pdf)
@@ -83,6 +80,14 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 10 - 30th October 2018
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
+	* extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-timestamps.pdf)
+
 ##### Week 9 - 23rd October 2018
   * [course](/assets/docs/2018/fall/comp424-week9.pdf)
   * extras - CSS
@@ -93,9 +98,6 @@ This material will be updated on a weekly basis.
     * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS
     * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
-  * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
 
 ##### Week 8 - 16th October 2018
   * [course](/assets/docs/2018/fall/comp424-week8.pdf)

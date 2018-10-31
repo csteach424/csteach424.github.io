@@ -84,6 +84,14 @@ There is no specific textbook for this course.
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 -->
 
+##### Week 10 - 30th October 2018
+
+	* [jQuery](https://jQuery.com/)
+  * [jQuery API](https://api.jquery.com/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+
 ##### Week 9 - 23rd October 2018
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -111,7 +119,7 @@ There is no specific textbook for this course.
 
 ##### Week 5 - 25th September 2018
 
-  * N/A
+  * N/A - Presentations
 
 ##### Week 4 - 18th September 2018
 
