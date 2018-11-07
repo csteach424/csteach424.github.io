@@ -270,7 +270,28 @@ Enjoy your week.
   * [Week 9 - DEV Week Contributions](https://trello.com/b/bLWt0d4A/week-9-dev-week-contributions)
   * this board is **important** - it will help to establish member contributions for the DEV week project
   * please complete this requirement by **Monday 19th March 2018** at the latest
-* Please contribute to this week's class discussion on the Slack channel, **#discussion-week9**, for the website, [Werner Design Werks](http://wdw.com/)
+
+
+-->
+
+#### Week 11 - 6th November 2018
+
+* Review this week's [notes and material](/notes), which includes the following extra documents,
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
+  * extras - design
+	  * [design and information architecture](/assets/docs/extras/2018/fall/design/design-information-architecture.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Complete the following peer review form individually for the DEV Week projects and presentations
+	* [Group 7 - MiniGames](https://goo.gl/forms/CoVqRNpvosvOqEsZ2)
+* Complete this peer review form by **Tuesday 13th November 2018** at the latest
+  * please complete this form individually, and **NOT** as a project group
+* You may use the **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding this peer review
+* Please contribute to this week's class discussion on the Slack channel, **#discussion-week11**, for the website, [Werner Design Werks](http://wdw.com/)
   * consider overall aesthetics for the website, including use of typography, images...
   * consider organisation and presentation of data
   * consider website's design as a reflection of its goals
@@ -281,38 +302,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 8 - 5th March 2018
-
-* N/A - Spring Break
-
-Enjoy your week, and Spring Break.
-
-#### Week 7 - 26th February 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - Design
-    * [designing our app](/assets/docs/extras/2018/spring/design/design-our-app.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 7](https://github.com/csteach424/source/tree/master/week7)
-* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 2, 3, and 4 of this week's class [notes](/assets/docs/2018/comp424-week7.pdf)
-  * details are also available in the [Coursework](/coursework/#assessment2) section of this site
-* Please add updates on your group's project development to the course's Trello group,
-  * [Week 7 - DEV Week](https://trello.com/b/awQ43MKR/week-7-dev-week)
-  * I've added instructions on this board.
-
-**n.b.** **NO** formal class next week - work as a group on your DEV Week project.
-
-Any questions, please let me know.
-
-Enjoy your week, and Spring Break.
-
-*** add outline of JavaScript work to be completed for DEV Week presentations and demo... ***
-
-
--->
 
 #### Week 10 - 30th October 2018
 

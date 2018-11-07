@@ -62,35 +62,22 @@ There is no specific textbook for this course.
 
 ##### Week 10 - 19th March 2018
 
-  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [Create your own AJAX loader](http://www.ajaxload.info/)
+  * * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * 
+-->
 
-##### Week 9 - 12th March 2018
+##### Week 11 - 6th November 2018
 
-  * N/A - DEV Week
-
-##### Week 8 - 5th March 2018
-
-  * N/A - Spring Break
-
-##### Week 7 - 26th February 2018
-
-  * [jQuery](https://jQuery.com/)
-  * [jQuery API](https://api.jquery.com/)
+  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
--->
 
 ##### Week 10 - 30th October 2018
 
-	* [jQuery](https://jQuery.com/)
+  * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
-  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ##### Week 9 - 23rd October 2018
 

@@ -40,9 +40,6 @@ This material will be updated on a weekly basis.
   * extras - React starter
     * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
     * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
-  * extras - Web development - general
-    * [Basic geolocation](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-geolocation.pdf)
-    * [Basic timestamps](/assets/docs/extras/2018/spring/web-general/basic/notes-basic-timestamps.pdf)
   * extras - Web development - patterns
     * [Observer pattern](/assets/docs/extras/2018/spring/web-general/patterns/observer.pdf)
     * [Pubsub pattern](/assets/docs/extras/2018/spring/web-general/patterns/pubsub.pdf)
@@ -67,18 +64,18 @@ This material will be updated on a weekly basis.
 
 ##### Week 10 - 19th March 2018
   * [course](/assets/docs/2018/comp424-week10.pdf)
-  * extras - Design
-    * [design and information architecture](/assets/docs/extras/2018/spring/design/design-information-architecture.pdf)
   * extras - JS
-    * [JS - Generators and Promises](/assets/docs/extras/2018/spring/js/js-generators-promises.pdf)
-
-##### Week 9 - 12th March 2018
-  * N/A - DEV Week
-
-##### Week 8 - 5th March 2018
-  * N/A
+    * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
 
 -->
+
+##### Week 11 - 6th November 2018
+  * [course](/assets/docs/2018/fall/comp424-week11.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
+  * extras - design
+	  * [design and information architecture](/assets/docs/extras/2018/fall/design/design-information-architecture.pdf)
 
 ##### Week 10 - 30th October 2018
   * extras - various
