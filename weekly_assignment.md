@@ -212,10 +212,29 @@ Enjoy your week.
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
-* Please create a list on the [Week 11 - Patterns](https://trello.com/b/WEAm1X2K/week-11-patterns) Trello board for your group, and add the following details,
-  * examples of interaction within your site that would benefit from using *deferred* object
+
+-->
+
+#### Week 12 - 13th November 2018
+
+* Review this week's [notes and material](/notes), which includes the following extra documents,
+	* extras - Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2018/fall/canvas/canvas-drawing.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
+  * extras - various
+	  * [UI concept - autoscoll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Please create a list on the [Week 12 - Patterns](https://trello.com/b/JqJ40rwt/week-12-patterns) Trello board for your group, and add the following details,
+  * examples of interaction within your site that would benefit from using a *deferred* object
     * **n.b.** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, for the website, [The Louvre](http://www.louvre.fr/en/)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [The Louvre](http://www.louvre.fr/en/)
   * please consider this site's presentation of media, and its organisation and structure
   * how does the site present its cultural assets to help engage with users and visitors?
   * consider data organisation, and the available search and filter options?
@@ -226,53 +245,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 10 - 19th March 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * [design and information architecture](/assets/docs/extras/2018/spring/design/design-information-architecture.pdf)
-  * [JS - Generators and Promises](/assets/docs/extras/2018/spring/js/js-generators-promises.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 10](https://github.com/csteach424/source/tree/master/week10)
-* Prepare for a quiz, which is scheduled for next week's class
-  * quiz will include material from the course, class, and extra notes for weeks 5 to 10 inclusive
-  * quiz will be approximately 40 minutes in length
-  * questions will be multiple choice
-  * please bring your laptop or other internet connected device to class
-  * this quiz uses an online Google Form
-    * **n.b.** you'll need a Google account to register for the quiz
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 9 - 12th March 2018
-
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [1 - Group A](https://goo.gl/forms/HYKvvYmqRkityOkZ2)
-  * [2 - Group B](https://goo.gl/forms/wnQxYiLEfDB8wJdJ2)
-  * [3 - Group C](https://goo.gl/forms/9vxKtBd51PWZt5983)
-  * [4 - Group D](https://goo.gl/forms/dGMfAoWhloKWGVuL2)
-  * [5 - Group E](https://goo.gl/forms/u6mWcnFvh2OM3fUB2)
-  * [6 - Group F](https://goo.gl/forms/T68uMnccF8D3pv3z2)
-* Complete these peer review forms by **Monday 19th March 2018** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-* You may use the new **Slack** channel, **#dev-week-review**, for posting any questions, comments, or other information regarding these peer reviews for the DEV Week
-* Please add your DEV week presentation files, notes, &c. to the following board on Trello,
-  * [Week 9 - DEV Week Presentation Files](https://trello.com/b/JrRwxijz/week-9-dev-week-presentation-files)
-  * Please add these files as soon as possible, and by **Monday 19th March 2018** at the latest
-  * instructions are included as a list on the above board
-* Please share your completed DEV Week code, and any associated files or data, with myself
-  * code &c. should be pushed to your group's repository on GitHub
-  * please share these files by **Monday 19th March 2018** at the latest
-* Complete the following Trello board,
-  * [Week 9 - DEV Week Contributions](https://trello.com/b/bLWt0d4A/week-9-dev-week-contributions)
-  * this board is **important** - it will help to establish member contributions for the DEV week project
-  * please complete this requirement by **Monday 19th March 2018** at the latest
-
-
--->
 
 #### Week 11 - 6th November 2018
 

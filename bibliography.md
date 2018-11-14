@@ -55,21 +55,21 @@ There is no specific textbook for this course.
 
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
-  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
 
-##### Week 10 - 19th March 2018
-
-  * [Create your own AJAX loader](http://www.ajaxload.info/)
-  * * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
-  * 
 -->
+
+##### Week 12 - 13th November 2018
+
+  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+  * [Create your own AJAX loader](http://www.ajaxload.info/)
+  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 
 ##### Week 11 - 6th November 2018
 
-  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)

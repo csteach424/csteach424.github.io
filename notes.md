@@ -59,15 +59,24 @@ This material will be updated on a weekly basis.
     * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
     * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
 
-##### Week 11 - 26th March 2018
-  * [course](/assets/docs/2018/comp424-week11.pdf)
 
-##### Week 10 - 19th March 2018
-  * [course](/assets/docs/2018/comp424-week10.pdf)
-  * extras - JS
-    * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
+
+	  * [JS - Iterators & Iterables]()
+	  * [JS - Modules]()
 
 -->
+
+##### Week 12 - 13th November 2018
+  * [course](/assets/docs/2018/fall/comp424-week12.pdf)
+  * extras - Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2018/fall/canvas/canvas-drawing.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
+  * extras - various
+	  * [UI concept - autoscoll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
 
 ##### Week 11 - 6th November 2018
   * [course](/assets/docs/2018/fall/comp424-week11.pdf)
