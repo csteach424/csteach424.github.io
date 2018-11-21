@@ -215,6 +215,39 @@ Enjoy your week.
 
 -->
 
+#### Week 13 - 20th November 2018
+
+* Review this week's [notes and material](/notes), which includes the following extra documents,
+	* extras - Canvas
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2018/fall/canvas/canvas-interaction.pdf)
+	* extras - Heroku & Git setup
+		* [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2018/fall/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2018/fall/node/nodejs-express-outline.pdf)
+  * extras - Web development - patterns
+    * [Observer pattern](/assets/docs/extras/2018/fall/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2018/fall/web-general/patterns/pubsub.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's code examples,
+  * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)
+  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/VTOVVTyW/week-13-final-plan) Trello board for your group, and add the following details,
+  * please add a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
+* Please contribute to this week's class discussion on Slack, **#discussion-week13**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
+  * please consider this site's overall aesthetics, graphics, and general images
+  * does the form match the intended function?
+  * is it a useful website for its intended target, a restaurant?
+  * what would you change in the site's design and usage, and why?
+
+Any questions, please let me know.
+
+Enjoy your week, and Happy Thanksgiving.
+
 #### Week 12 - 13th November 2018
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,

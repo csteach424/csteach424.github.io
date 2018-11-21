@@ -40,24 +40,13 @@ This material will be updated on a weekly basis.
   * extras - React starter
     * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
     * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
-  * extras - Web development - patterns
-    * [Observer pattern](/assets/docs/extras/2018/spring/web-general/patterns/observer.pdf)
-    * [Pubsub pattern](/assets/docs/extras/2018/spring/web-general/patterns/pubsub.pdf)
 
 ##### Week 13 - 9th April 2018
   * [course](/assets/docs/2018/comp424-week13.pdf)
   * extras - Node.js, Express, and MongoDB
     * [Node.js and MongoDB](/assets/docs/extras/2018/spring/node/nodejs-mongo-outline.pdf)
-  * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/extras/2018/spring/various/git-heroku-setup.pdf)
-    * [Heroku & MongoDB](/assets/docs/extras/2018/spring/various/heroku-mongodb-setup.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
-
-##### Week 12 - 2nd April 2018
-  * extras - Node.js and Express
-    * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
 
 
 
@@ -65,6 +54,19 @@ This material will be updated on a weekly basis.
 	  * [JS - Modules]()
 
 -->
+
+##### Week 13 - 20th November 2018
+  * [course](/assets/docs/2018/fall/comp424-week13.pdf)
+  * extras - Canvas
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2018/fall/canvas/canvas-interaction.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2018/fall/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2018/fall/node/nodejs-express-outline.pdf)
+  * extras - Web development - patterns
+    * [Observer pattern](/assets/docs/extras/2018/fall/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2018/fall/web-general/patterns/pubsub.pdf)
 
 ##### Week 12 - 13th November 2018
   * [course](/assets/docs/2018/fall/comp424-week12.pdf)

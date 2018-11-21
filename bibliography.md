@@ -59,6 +59,15 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 13 - 20th November 2018
+
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
+  * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
+  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+
 ##### Week 12 - 13th November 2018
 
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
