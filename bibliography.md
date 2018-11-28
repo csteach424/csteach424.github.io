@@ -25,7 +25,9 @@ There is no specific textbook for this course.
 
   * N/A
 
-###### Week 14 - 16th April 2018
+-->
+
+##### Week 14 - 27th November 2018
 
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
@@ -33,10 +35,6 @@ There is no specific textbook for this course.
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
-
-##### Week 13 - 9th April 2018
-
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * Node.js
@@ -44,20 +42,6 @@ There is no specific textbook for this course.
     * [ExpressJS](http://expressjs.com/)
   * Redis
     * [redis.io](http://redis.io/)
-
-##### Week 12 - 2nd April 2018
-
-  * Node.js
-    * [Node.js](https://nodejs.org/en/)
-  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
-
-##### Week 11 - 26th March 2018
-
-  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
-  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-
--->
 
 ##### Week 13 - 20th November 2018
 
@@ -76,6 +60,7 @@ There is no specific textbook for this course.
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+  * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
 ##### Week 11 - 6th November 2018
 

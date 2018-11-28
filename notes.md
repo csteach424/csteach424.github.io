@@ -22,44 +22,36 @@ This material will be updated on a weekly basis.
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
 
-##### Week 14 - 16th April 2018
-  * [course](/assets/docs/2018/comp424-week14.pdf)
-  * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
-  * extras - Node.js
-    * [Node.js updating](/assets/docs/extras/2018/spring/node/update-nodejs.pdf)
-  * extras - Node.js & Express
-    * [Node.js & Express starter](/assets/docs/extras/2018/spring/node/node-express-starter.pdf)
-  * extras - Node.js API
-    * [Heroku & Postman](/assets/docs/extras/2018/spring/node-api-todos/heroku-mongo-postman.pdf)
-    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/spring/node-api-todos/mongodb-native-driver-api.pdf)
-    * [Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/node-todos-api.pdf)
-    * [Testing - Node Todos API](/assets/docs/extras/2018/spring/node-api-todos/testing-todos-api.pdf)
-  * extras - Node.js & Web Sockets
-    * [Node.js & Socket.io](/assets/docs/extras/2018/spring/node/web-sockets/notes-nodejs-socketio.pdf)
+
   * extras - React starter
     * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
     * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
 
-##### Week 13 - 9th April 2018
-  * [course](/assets/docs/2018/comp424-week13.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2018/spring/node/nodejs-mongo-outline.pdf)
-  * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
-
-
-
-	  * [JS - Iterators & Iterables]()
-	  * [JS - Modules]()
-
 -->
+
+##### Week 14 - 27th November 2018
+  * [course](/assets/docs/2018/fall/comp424-week14.pdf)
+  * extras - Final Report Outline
+    * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2018/fall/node/update-nodejs.pdf)
+  * extras - Node.js & Express
+    * [Node.js & Express starter](/assets/docs/extras/2018/fall/node/node-express-starter.pdf)
+  * extras - Node.js, Express, and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2018/fall/node/nodejs-mongo-outline.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2018/fall/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/fall/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2018/fall/node/web-sockets/notes-nodejs-socketio.pdf)
 
 ##### Week 13 - 20th November 2018
   * [course](/assets/docs/2018/fall/comp424-week13.pdf)
   * extras - Canvas
 	  * [HTML5 Canvas - interaction](/assets/docs/extras/2018/fall/canvas/canvas-interaction.pdf)
-  * extras - Heroku & Git setup
+  * extras - Heroku & MongoDB setup
     * [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
   * extras - Node.js and Express
     * [Node.js outline](/assets/docs/extras/2018/fall/node/nodejs-outline.pdf)
@@ -78,7 +70,7 @@ This material will be updated on a weekly basis.
 	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
 	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
   * extras - various
-	  * [UI concept - autoscoll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
+	  * [UI concept - autoscroll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
 
 ##### Week 11 - 6th November 2018
   * [course](/assets/docs/2018/fall/comp424-week11.pdf)
@@ -100,8 +92,6 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week9.pdf)
   * extras - CSS
     * [Flexbox - guide & usage](/assets/docs/extras/2018/fall/css/css-flexbox-guide.pdf)
-  * extras - data stores
-    * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - design
     * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS

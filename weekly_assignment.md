@@ -183,37 +183,43 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 12 - 2nd April 2018
 
-* Review this week's [notes and material](/notes), which includes the following
-  * extras - Node.js and Express
-    * [Node.js outline](/assets/docs/extras/2018/spring/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2018/spring/node/nodejs-express-outline.pdf)
-  * extras - various
-    * [Google APIs - overview](/assets/docs/extras/2018/spring/various/google-apis-overview.pdf)
-    * [Google OAuth 2.0 & APIs](/assets/docs/extras/2018/spring/various/oauth-google-api.pdf)
+-->
+
+#### Week 14 - 27th November 2018
+
+* Review this week's [notes and material](/notes), which includes the following extra documents,
+	* extras - Final Report Outline
+		* [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2018/fall/node/update-nodejs.pdf)
+  * extras - Node.js & Express
+    * [Node.js & Express starter](/assets/docs/extras/2018/fall/node/node-express-starter.pdf)
+  * extras - Node.js, Express, and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2018/fall/node/nodejs-mongo-outline.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2018/fall/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/fall/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2018/fall/node/web-sockets/notes-nodejs-socketio.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
-  * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
+  * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [Momotaro Chicago](http://www.momotarochicago.com/)
-  * please consider this site's overall aesthetics, graphics, and general images
-  * does the form match the intended function?
-  * is it a useful website for its intended target, a restaurant?
-  * what would you change in the site's design and usage, and why?
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
+* Please prepare your group's **project presentation** for Tuesday 4th December 2018
+  * as detailed in previous classes, this presentation should be an outline and demo of your final group project
+  * please consult the [coursework](/coursework) page for further details
+  * each presentation should be between 10 to 15 minutes in length
+
+If there are any special hardware or software requirements for next week's presentation, please let me know before Tuesday 4th December 2018.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 11 - 26th March 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review this week's [bibliography](/bibliography) links and material
-* Review this week's code examples,
-  * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
-
--->
 
 #### Week 13 - 20th November 2018
 
@@ -259,7 +265,7 @@ Enjoy your week, and Happy Thanksgiving.
 	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
 	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
   * extras - various
-	  * [UI concept - autoscoll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
+	  * [UI concept - autoscroll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
