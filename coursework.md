@@ -35,7 +35,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
 
 #### Assessed coursework will include the following primary categories:
 
@@ -132,13 +132,13 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * project outline and mockup
-  * due Tuesday 25th September 2018 @ 7pm
+  * due Monday 11th February 2019 @ 4.15pm
 * DEV week demo
-  * due Tuesday 30th October 2018 @ 7pm
+  * due Monday 18th March 2019 @ 4.15pm
 * final team demo
-  * due Tuesday 4th December 2018 @ 7pm
+  * due Monday 22nd April 2019 @ 4.15pm
 * final team report
-  * due Tuesday 11th December 2018 @ 7pm
+  * due Monday 29th April 2019 @ 4.15pm
 
 #### Grading
 

@@ -186,7 +186,7 @@ Enjoy your week.
 
 -->
 
-#### Week 15 - 4th December 2018
+<!-- #### Week 15 - 4th December 2018
 
 * Please complete your group's final project report
   * suggested report length approximately 10 pages
@@ -573,4 +573,6 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->
+
+

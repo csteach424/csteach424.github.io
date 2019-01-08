@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Client-Side Web Design, Fall 2018
+summary: Client-Side Web Design, Spring 2019
 ---
 
 Welcome to the course website for COMP 424, *Client-Side Web Design*.

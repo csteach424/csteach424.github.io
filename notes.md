@@ -17,19 +17,8 @@ Course notes and material will be added to this page during the semester.
 This material will be updated on a weekly basis.
 
 ***
-<!--
-##### Week 15 - 23rd April 2018
-  * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2018/spring/comp424-final-report-outline.pdf)
 
-
-  * extras - React starter
-    * [JSX Intro](/assets/docs/extras/2018/spring/web-general/react/jsx-intro.pdf)
-    * [Proofs](/assets/docs/extras/2018/spring/web-general/react/react-proofs.pdf)
-
--->
-
-##### Week 15 - 4th December 2018
+<!-- ##### Week 15 - 4th December 2018
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
 
@@ -153,4 +142,4 @@ This material will be updated on a weekly basis.
     * [Git basics](/assets/docs/extras/git-basics.pdf)
   * extras - HTML
     * [HTML - Intro](/assets/docs/extras/2018/fall/html/html-intro.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2018/fall/html/html-dom-intro.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2018/fall/html/html-dom-intro.pdf) -->
