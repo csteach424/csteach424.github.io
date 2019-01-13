@@ -31,7 +31,7 @@ If you have any questions on the following assessments, please [contact](/contac
       * where and why did you update the app?
       * benefits of updates
       * ...
-  * work may be conducted individually or in groups (max. 4 persons per group)
+  * work may be conducted individually or in groups (max. 5 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
