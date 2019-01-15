@@ -24,15 +24,21 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Links will be added during the course...
 
-<!-- 
 #### Articles & Papers
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
+
+<!--
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+  * -->
 
 #### Documentation & Guides
 
+  * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+
+<!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -62,8 +68,10 @@ Links will be added during the course...
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
 
+-->
+
+<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [AngularJS](https://angularjs.org/)
