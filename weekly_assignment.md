@@ -535,6 +535,8 @@ Enjoy your week.
   * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 1](https://github.com/csteach424/source/tree/master/week1)
+* Please review the following tutorial video on Git usage,
+  * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 * Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/2VJTDlHR/week-1-project-details)
   * project name
   * the full name of each team member (or preferred name)
