@@ -35,8 +35,15 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [MDN - Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+  * [MDN - Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
+  * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
+  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
@@ -46,14 +53,10 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
-  * [MDN - Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
   * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
   * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-  * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
@@ -65,10 +68,6 @@ Links will be added during the course...
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
-  * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-
 -->
 
 <!--
@@ -103,9 +102,15 @@ NB: there are many other options available, simply search online for [css framew
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Useful Tools & Reference
 
+  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
+
+<!--
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
@@ -113,34 +118,28 @@ NB: there are many other options available, simply search online for [css framew
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google Web Fonts](https://fonts.google.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
-  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-  * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 #### Various
 
   * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
+-->
 
 #### Videos
 
-  * Beginning Graphic Design
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
+<!--
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+-->
+
 #### Websites
 
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
-  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
-  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -149,6 +148,15 @@ NB: there are many other options available, simply search online for [css framew
   * W3C
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
+
+<!--
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 
 #### Extras
 

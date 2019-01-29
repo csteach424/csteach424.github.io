@@ -42,8 +42,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 13 - 20th November 2018
   * [course](/assets/docs/2018/fall/comp424-week13.pdf)
-  * extras - Canvas
-	  * [HTML5 Canvas - interaction](/assets/docs/extras/2018/fall/canvas/canvas-interaction.pdf)
   * extras - Heroku & MongoDB setup
     * [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
   * extras - Node.js and Express
@@ -55,8 +53,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 12 - 13th November 2018
   * [course](/assets/docs/2018/fall/comp424-week12.pdf)
-  * extras - Canvas
-	  * [HTML5 Canvas - drawing](/assets/docs/extras/2018/fall/canvas/canvas-drawing.pdf)
   * extras - Heroku & Git setup
     * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
   * extras - JS
@@ -127,16 +123,21 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week3.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2018/fall/design/design-mockups.pdf)
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2018/fall/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2018/fall/html5/html5-extra.pdf)
-
-##### Week 2 - 4th September 2018
-  * [course](/assets/docs/2018/fall/comp424-week2.pdf)
-  * extras - HTML
-      * [HTML - Basics](/assets/docs/extras/2018/fall/html/html-basics.pdf)
-
 -->
+
+##### Week 3 - 28th January 2019
+  * [course](/assets/docs/2019/spring/comp424-week3.pdf)
+  * extras - HTML
+    * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
+  * extras - HTML5 Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
+
+##### Week 2 - 21st January 2019
+  * N/A
 
 ##### Week 1 - 14th January 2019
   * [course](/assets/docs/2019/spring/comp424-week1.pdf)
