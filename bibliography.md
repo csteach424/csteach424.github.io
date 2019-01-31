@@ -108,6 +108,7 @@ There is no specific textbook for this course.
 
 ##### Week 3 - 28th January 2019
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * [MDN - Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
   * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
   * [MDN - HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
