@@ -35,14 +35,23 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
-  * [MDN - Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
-  * [MDN - Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
-  * [MDN - Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-  * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-  * [MDN - HTML developer guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-  * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  * [MDN - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  * [MDN - CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+  * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+  * [MDN - CSS Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
+  * [MDN - HTML Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
+  * [MDN - HTML Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
+  * [MDN - HTML Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+  * [MDN - HTML Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+  * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+  * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
@@ -54,10 +63,6 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
-  * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
@@ -66,9 +71,6 @@ Links will be added during the course...
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
   * [redis.io](http://redis.io/)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
-  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
-  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
 -->
 
 <!--
@@ -89,43 +91,43 @@ Links will be added during the course...
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
+-->
 
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
-  * [Bootstrap](http://getbootstrap.com/)
+  * [Figma](https://www.figma.com/)
   * [Flinto](https://www.flinto.com/)
   * [Framer](http://framerjs.com/)
   * [Google Drawings](http://goo.gl/qPRCfG)
   * [InVision](https://www.invisionapp.com/)
-  * [Mirror.js](http://jimulabs.com/mirrorjs-preview/) (useful for Android)
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Useful Tools & Reference
 
-  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
-  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-  * [HTML5 Test](http://html5test.com/)
-
-<!--
-  * [Chocolatey for Windows](https://chocolatey.org/)
   * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
+
+
+<!--
+  * [Chocolatey for Windows](https://chocolatey.org/)
   * [Google Web Fonts](https://fonts.google.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
+-->
 
 #### Various
 
   * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
--->
 
 #### Videos
 

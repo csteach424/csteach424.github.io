@@ -111,19 +111,19 @@ This material will be updated on a weekly basis.
 
   * N/A
 
-##### Week 4 - 18th September 2018
+-->
+
+##### Week 4 - 4th February 2019
   * [course](/assets/docs/2018/fall/comp424-week4.pdf)
   * extras - CSS
-    * [CSS - Intro](/assets/docs/extras/2018/fall/css/css-intro.pdf)
-    * [CSS - Basics](/assets/docs/extras/2018/fall/css/css-basics.pdf)
-    * [CSS - Box Model](/assets/docs/extras/2018/fall/css/css-box-model.pdf)
-    * [CSS - HTML5](/assets/docs/extras/2018/fall/css/css-html5.pdf)
-
-##### Week 3 - 11th September 2018
-  * [course](/assets/docs/2018/fall/comp424-week3.pdf)
+    * [CSS - Intro](/assets/docs/extras/2019/css/css-intro.pdf)
+    * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2019/css/css-box-model.pdf)
+    * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
+    * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
   * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2018/fall/design/design-mockups.pdf)
--->
+    * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
 
 ##### Week 3 - 28th January 2019
   * [course](/assets/docs/2019/spring/comp424-week3.pdf)
