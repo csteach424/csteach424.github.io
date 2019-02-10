@@ -134,6 +134,8 @@ NB: there are many other options available, simply search online for [css framew
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+  * Google Prototyping Series
+    * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
