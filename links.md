@@ -32,7 +32,6 @@ Links will be added during the course...
 
 #### Design &c.
 
-
   * [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
   * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
   * [Pantone Colour](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
@@ -162,6 +161,7 @@ NB: there are many other options available, simply search online for [css framew
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
+-->
 
 #### Extras
 
@@ -169,7 +169,7 @@ NB: there are many other options available, simply search online for [css framew
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html) -->
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 
 ***
 

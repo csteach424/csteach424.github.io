@@ -442,7 +442,7 @@ Enjoy your week.
 #### Week 5 - 11th September 2019
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Counquer: Fitness Tracking](https://goo.gl/forms/RHItxVgtMqGhb8Ir2)
+  * [Group 1 - Conquer: Fitness Tracking](https://goo.gl/forms/RHItxVgtMqGhb8Ir2)
   * [Group 2 - Night Out](https://goo.gl/forms/jgeFyC5LY3nv7DUC3)
   * [Group 3 - In Medias Res](https://goo.gl/forms/bcseBVDLlA1xk81w2)
   * [Group 4 - Girls Who Code](https://goo.gl/forms/bIjoRHNPBzsUxvlC2)
