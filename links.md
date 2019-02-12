@@ -30,6 +30,13 @@ Links will be added during the course...
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
 
+#### Design &c.
+
+
+  * [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
+  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
+  * [Pantone Colour]()https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2
+
 #### Documentation & Guides
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -109,7 +116,6 @@ NB: there are many other options available, simply search online for [css framew
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
-  * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
 
