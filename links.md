@@ -35,7 +35,7 @@ Links will be added during the course...
 
   * [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
   * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
-  * [Pantone Colour]()https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2
+  * [Pantone Colour](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
 
 #### Documentation & Guides
 
