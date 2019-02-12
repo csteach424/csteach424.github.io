@@ -106,12 +106,11 @@ This material will be updated on a weekly basis.
   * extras - JS
     * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
     * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
-
-##### Week 5 - 25th September 2018
-
-  * N/A
-
 -->
+
+##### Week 5 - 11th February 2019
+
+  * N/A - Presentations
 
 ##### Week 4 - 4th February 2019
   * [course](/assets/docs/2018/fall/comp424-week4.pdf)

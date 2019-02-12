@@ -27,11 +27,8 @@ Links will be added during the course...
 #### Articles & Papers
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-
-<!--
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
-  * -->
 
 #### Documentation & Guides
 

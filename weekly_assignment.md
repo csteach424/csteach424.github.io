@@ -437,27 +437,37 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 5 - 25th September 2018
+#### Week 5 - 11th September 2019
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Strawberries](https://goo.gl/forms/VgMmZo5TyPTNnClo1)
-  * [Group 2 - HyperScheduler](https://goo.gl/forms/ZVrqyJ6aZ5irLZh42)
-  * [Group 3 - My Resume](https://goo.gl/forms/EnsxOs67us06n4V13)
-  * [Group 4 - Spark Dating](https://goo.gl/forms/7QFYnJPjxpiBkEP63)
-  * [Group 5 - Rendezvous](https://goo.gl/forms/46cytUTKdENyXB9u2)
-  * [Group 6 - Color My World](https://goo.gl/forms/JEXdlLNrlSWARfmi1)
-* Complete these peer review forms by **Tuesday 2nd October 2018** at the latest
+  * [Group 1 - Counquer: Fitness Tracking](https://goo.gl/forms/RHItxVgtMqGhb8Ir2)
+  * [Group 2 - Night Out](https://goo.gl/forms/jgeFyC5LY3nv7DUC3)
+  * [Group 3 - In Medias Res](https://goo.gl/forms/bcseBVDLlA1xk81w2)
+  * [Group 4 - Girls Who Code](https://goo.gl/forms/bIjoRHNPBzsUxvlC2)
+  * [Group 5 - Harmony](https://goo.gl/forms/F9hmupoPeNiiCNXe2)
+  * [Group 6 - Reimagined Couscous](https://goo.gl/forms/tZqpLcCYnTiIOEcE3)
+  * [Group 7 - WaLit](https://goo.gl/forms/4TwMhMeVl0YTxlz62)
+  * [Group 8 - Da Hub](https://goo.gl/forms/XQQcEsu1ubRehdaC2)
+  * [Group 9 - My Closet](https://goo.gl/forms/Oeb05AtjFZaOIhrs1)
+  * [Group 10 - Vino/Viand](https://goo.gl/forms/o0tEZIuGzkgnAgfB3)
+  * [Group 11 - Beer Tracker](https://goo.gl/forms/NOm9nnds2YfE6Fhx2)
+  * [Group 12 - Recipes](https://goo.gl/forms/JhNEIkMDwuIyRn5m1)
+  * [Group 13 - Cooking Coach](https://goo.gl/forms/SFYOc5JvmaPjjkOC2)
+  <!-- * [Group 14 - PianoBoard](https://goo.gl/forms/KZc0hTt9ruWWui4S2) -->
+* Complete these peer review forms by **Monday 18th February 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/GglfRnNl/week-5-presentation-files)
-  * Please add these files as soon as possible, and by **Tuesday 2nd October 2018** at the latest
+  * [Week 5 - Presentation Files](https://trello.com/b/wGdMLdTC/wek-5-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 18th February 2019** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/UQztCuPq/week-5-project-contributions)
+  * [Week 5 - Project Contributions](https://trello.com/b/eDXaRBhx/week-5-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Tuesday 2nd October 2018** at the latest
+  * please complete this requirement by **Monday 18th February 2019** at the latest
 * Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week5**, for the website, [Lego](https://www.lego.com/en-us)
   * consider organisation of content
   * general consistency of design, colours, interaction options
@@ -467,7 +477,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 4 - 4th February 2019
 
