@@ -95,31 +95,30 @@ This material will be updated on a weekly basis.
 
 ##### Week 7 - 9th October 2018
   * N/A
-
-##### Week 6 - 2nd October 2018
-  * [course](/assets/docs/2018/fall/comp424-week4.pdf)
-  * extras - CSS
-    * [CSS - Grid Basics](/assets/docs/extras/2018/fall/css/css-grid.pdf)
-    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2018/fall/css/mdn-css-grid-basics.pdf)
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2018/fall/design/design-interface-intro.pdf)
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
 -->
+
+<!-- ##### Week 6 - 18th February 2019
+  * [course](/assets/docs/2019/spring/comp424-week6.pdf)
+  * extras - CSS
+    * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
+    * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
+    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2019/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2019/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
+    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf) -->
 
 ##### Week 5 - 11th February 2019
 
   * N/A - Presentations
 
 ##### Week 4 - 4th February 2019
-  * [course](/assets/docs/2018/fall/comp424-week4.pdf)
+  * [course](/assets/docs/2019/spring/comp424-week4.pdf)
   * extras - CSS
     * [CSS - Intro](/assets/docs/extras/2019/css/css-intro.pdf)
     * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
     * [CSS - Box Model](/assets/docs/extras/2019/css/css-box-model.pdf)
-    * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
-    * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
     * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)

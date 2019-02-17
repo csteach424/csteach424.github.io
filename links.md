@@ -115,13 +115,13 @@ NB: there are many other options available, simply search online for [css framew
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
 
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Google Web Fonts](https://fonts.google.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
