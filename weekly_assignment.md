@@ -413,8 +413,23 @@ Enjoy your week.
 * N/A
 -->
 
-<!-- #### Week 6 - 18th February 2019
+#### Week 6 - 18th February 2019
 
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 14 - PianoBoard](https://goo.gl/forms/KZc0hTt9ruWWui4S2)
+  * [Group 15 - Aewsome](https://goo.gl/forms/WHHRxs8TbfYMHOdk2)
+* Complete these peer review forms by **Monday 25th February 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/wGdMLdTC/wek-5-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 25th February 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/eDXaRBhx/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Monday 25th February 2019** at the latest
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - CSS
     * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
@@ -436,7 +451,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week. -->
+Enjoy your week.
 
 #### Week 5 - 11th February 2019
 

@@ -97,7 +97,7 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 
-<!-- ##### Week 6 - 18th February 2019
+##### Week 6 - 18th February 2019
   * [course](/assets/docs/2019/spring/comp424-week6.pdf)
   * extras - CSS
     * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
@@ -107,7 +107,7 @@ This material will be updated on a weekly basis.
     * [design and interface](/assets/docs/extras/2019/design/design-interface-intro.pdf)
   * extras - JS
     * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf) -->
+    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
 
 ##### Week 5 - 11th February 2019
 

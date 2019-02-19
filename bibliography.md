@@ -90,11 +90,11 @@ There is no specific textbook for this course.
   * N/A
 -->
 
-<!-- ##### Week 6 - 18th February 2019
+##### Week 6 - 18th February 2019
 
   * [Google Web Fonts](https://fonts.google.com/)
   * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp) -->
+  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
 
 ##### Week 5 - 11th February 2019
 
