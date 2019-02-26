@@ -385,22 +385,7 @@ Enjoy your week.
   * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/fall/comp424-week9.pdf)
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 
-Any questions, please let me know.
-
-Enjoy your week.
-
-#### Week 8 - 16th October 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
-    * [JS - core](/assets/docs/extras/2018/fall/js/js-core.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 8](https://github.com/csteach424/source/tree/master/week8)
-* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
-* Please add updates on your group's project development to the course's Trello group,
+Please add updates on your group's project development to the course's Trello group,
   * [Week 8 - DEV Week prep](https://trello.com/b/XzRhbd4V/week-8-dev-week-prep)
   * I've added instructions on this board.
 
@@ -408,10 +393,23 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 7 - 9th October 2018
-
-* N/A
 -->
+
+#### Week 7 - 25th February 2019
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - design
+    * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
+  * extras - JS
+    * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 7](https://github.com/csteach424/source/tree/master/week7)
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
+
+Any questions, please let me know.
+
+Enjoy your Spring Break.
 
 #### Week 6 - 18th February 2019
 

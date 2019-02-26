@@ -81,21 +81,16 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week9.pdf)
   * extras - CSS
     * [Flexbox - guide & usage](/assets/docs/extras/2018/fall/css/css-flexbox-guide.pdf)
-  * extras - design
-    * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
   * extras - JS
     * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
-
-##### Week 8 - 16th October 2018
-  * [course](/assets/docs/2018/fall/comp424-week8.pdf)
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2018/fall/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2018/fall/js/js-logic.pdf)
-    * [JS - core](/assets/docs/extras/2018/fall/js/js-core.pdf)
-
-##### Week 7 - 9th October 2018
-  * N/A
 -->
+
+##### Week 7 - 25th February 2019
+  * [course](/assets/docs/2019/spring/comp424-week7.pdf)
+  * extras - design
+    * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
+  * extras - JS
+    * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
 
 ##### Week 6 - 18th February 2019
   * [course](/assets/docs/2019/spring/comp424-week6.pdf)

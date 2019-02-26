@@ -50,6 +50,7 @@ Links will be added during the course...
   * [MDN - HTML Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
@@ -66,7 +67,6 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
@@ -76,13 +76,14 @@ Links will be added during the course...
   * [redis.io](http://redis.io/)
 -->
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
-  * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
-  * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
+
+<!--
+  * [AngularJS](https://angularjs.org/)
+  * [D3](http://d3js.org/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
   * jQuery
@@ -118,13 +119,13 @@ NB: there are many other options available, simply search online for [css framew
   * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
 -->
 
 #### Various
@@ -144,6 +145,7 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -158,7 +160,6 @@ NB: there are many other options available, simply search online for [css framew
   * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 -->
