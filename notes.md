@@ -76,14 +76,21 @@ This material will be updated on a weekly basis.
 	* extras - Web development - general
     * [Basic geolocation](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-geolocation.pdf)
     * [Basic timestamps](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-timestamps.pdf)
-
-##### Week 9 - 23rd October 2018
-  * [course](/assets/docs/2018/fall/comp424-week9.pdf)
-  * extras - CSS
-    * [Flexbox - guide & usage](/assets/docs/extras/2018/fall/css/css-flexbox-guide.pdf)
-  * extras - JS
-    * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
 -->
+
+##### Week 9 - 11th March 2019
+  * [course](/assets/docs/2019/spring/comp424-week9.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
+  * extras - JS
+    * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
 
 ##### Week 7 - 25th February 2019
   * [course](/assets/docs/2019/spring/comp424-week7.pdf)

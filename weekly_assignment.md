@@ -367,33 +367,38 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 9 - 23rd October 2018
+#### Week 9 - 11th March 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
-  * extras - CSS
-    * [Flexbox - guide & usage](/assets/docs/extras/2018/fall/css/css-flexbox-guide.pdf)
-  * extras - Design
-    * [designing our app](/assets/docs/extras/2018/fall/design/design-our-app.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - JS
-    * [JS - json](/assets/docs/extras/2018/fall/js/js-json.pdf)
+    * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 9](https://github.com/csteach424/source/tree/master/week9)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
-  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2018/fall/comp424-week9.pdf)
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2019/spring/comp424-week9.pdf)
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 
 Please add updates on your group's project development to the course's Trello group,
-  * [Week 8 - DEV Week prep](https://trello.com/b/XzRhbd4V/week-8-dev-week-prep)
-  * I've added instructions on this board.
+
+* [Week 9 - DEV Week prep](https://trello.com/b/pdFkXdPG/week-9-dev-week-prep)
+* I've added instructions on this board.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 7 - 25th February 2019
 
