@@ -331,43 +331,52 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 10 - 30th October 2018
+#### Week 10 - 18th March 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2018/fall/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2018/fall/various/oauth-google-api.pdf)
-	* extras - Web development - general
-    * [Basic geolocation](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-geolocation.pdf)
-    * [Basic timestamps](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-timestamps.pdf)
-* Review this week's [bibliography](/bibliography) links and material
+    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
 * Review this week's code examples,
-  * [Source - Week 10](https://github.com/csteach424/source/tree/master/week10)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-	* [Group 1 - Color My World](https://goo.gl/forms/vviCw46cLnyrPALg1)
-	* [Group 2 - Rendezvous](https://goo.gl/forms/TTDOW5eIrMpPfSg82)
-	* [Group 3 - Spark Dating](https://goo.gl/forms/Fu9DXBAPFLRFTKR32)
-	* [Group 4 - My Resume](https://goo.gl/forms/4BTXv2NLC5sNzEZb2)
-	* [Group 5 - HyperScheduler](https://goo.gl/forms/xp1jEDjubVcm3I603)
-  * [Group 6 - Strawberries](https://goo.gl/forms/mKgI2cHCxSRxnkKC3)
-* Complete these peer review forms by **Tuesday 6th November 2018** at the latest
+  * [Group 1 - Aewsome](https://goo.gl/forms/zKtkuF0G4JmIZuFO2)
+  * [Group 2 - Cooking Coach](https://goo.gl/forms/bHG3X2iclZTg4mHO2)
+  * [Group 3 - Beer Tracker](https://goo.gl/forms/BAmRKIDXY6O0u9Zj1)
+  * [Group 4 - Vino/Viand](https://goo.gl/forms/K9nerA47pu2PEw402)
+  * [Group 5 -  My Closet](https://goo.gl/forms/ibGgfeSa8zako0q83)
+  * [Group 6 - Da Hub](https://goo.gl/forms/IAw60AJ3cW2MsKS83)
+  * [Group 7 - Wa Lit](https://goo.gl/forms/G4Z5zT9SlOjXisMp1)
+  * [Group 8 - Reimagined Couscous](https://goo.gl/forms/BD9jNaEMKUbGrnpf1)
+  * [Group 9 - Pianoboard](https://goo.gl/forms/fE7mMbGknq7b95UC3)
+  * [Group 10 - Harmony](https://goo.gl/forms/Gj8SwUzcwtdztubt1)
+  * [Group 11 - Girls Who Code](https://goo.gl/forms/oWdSJ4Y1f89YJKvH2)
+  * [Group 12 -  Night out](https://goo.gl/forms/yekuEEN9RbNDOC3N2)
+  * [Group 13 - Conquer: Fitness Tracking](https://goo.gl/forms/fDeDSMhbKJIVRTWg2)
+  * [Group 14 - Advanced Trading Technologies](https://goo.gl/forms/nJZZIhXf0vUnWHb52)
+  * [Group 15 - Aerial Metrics](https://goo.gl/forms/nhl4tbg58oi2DT4P2)
+  * [Group 16 - Recipes](https://goo.gl/forms/j5wpHuJnYSXyaGWi1)
+* Complete these peer review forms by **Monday 25th March 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/yl99MKTk/week-10-presentation-dev-files)
-  * Please add these files as soon as possible, and by **Tuesday 6th November 2018** at the latest
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/IbygMIAw/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Monday 25th March 2019** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/yQDYqS4E/week-10-project-contributions)
+  * [Week 10 - Project Contributions](https://trello.com/b/jmCtsQLA/week-10-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Tuesday 6th November 2018** at the latest
+  * please complete this requirement by **Monday 25th March 2019** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 9 - 11th March 2019
 
@@ -377,9 +386,6 @@ Enjoy your week.
 	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - JS
     * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
-  * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
   * extras - Web development - general
     * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
     * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)

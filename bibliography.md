@@ -66,11 +66,19 @@ There is no specific textbook for this course.
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 -->
 
+##### Week 10 - 18th March 2019
+
+  * N/A - Presentations
+
 ##### Week 9 - 11th March 2019
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
+
+##### Week 8 - 4th March 2019
+
+  * N/A - Spring Break
 
 ##### Week 7 - 25th February 2019
 
