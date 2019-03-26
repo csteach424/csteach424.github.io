@@ -279,9 +279,6 @@ Enjoy your week, and Happy Thanksgiving.
 	  * [HTML5 Canvas - drawing](/assets/docs/extras/2018/fall/canvas/canvas-drawing.pdf)
   * extras - Heroku & Git setup
     * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
-  * extras - JS
-	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
-	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
   * extras - various
 	  * [UI concept - autoscroll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
 * Review this week's [bibliography](/bibliography) links and material
@@ -302,24 +299,20 @@ Enjoy your week, and Happy Thanksgiving.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 11 - 6th November 2018
+#### Week 11 - 25th March 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
-  * extras - data stores
-	  * [Firebase - authentication](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-auth-guide.pdf)
-	  * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - design
-	  * [design and information architecture](/assets/docs/extras/2018/fall/design/design-information-architecture.pdf)
+	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
+ * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/2019/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Complete the following peer review form individually for the DEV Week projects and presentations
-	* [Group 7 - MiniGames](https://goo.gl/forms/CoVqRNpvosvOqEsZ2)
-* Complete this peer review form by **Tuesday 13th November 2018** at the latest
-  * please complete this form individually, and **NOT** as a project group
-* You may use the **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding this peer review
 * Please contribute to this week's class discussion on the Slack channel, **#discussion-week11**, for the website, [Werner Design Werks](http://wdw.com/)
   * consider overall aesthetics for the website, including use of typography, images...
   * consider organisation and presentation of data
@@ -331,7 +324,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 10 - 18th March 2019
 

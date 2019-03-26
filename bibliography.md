@@ -49,22 +49,14 @@ There is no specific textbook for this course.
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
 
-##### Week 12 - 13th November 2018
+-->
 
-  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+##### Week 11 - 25th March 2019
+
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
-
-##### Week 11 - 6th November 2018
-
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
-  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
--->
 
 ##### Week 10 - 18th March 2019
 
@@ -75,6 +67,11 @@ There is no specific textbook for this course.
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
+  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+  * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
 ##### Week 8 - 4th March 2019
 

@@ -55,20 +55,19 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week12.pdf)
   * extras - Heroku & Git setup
     * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
-  * extras - JS
-	  * [JS - Generators and Promises](/assets/docs/extras/2018/fall/js/js-generators-promises.pdf)
-	  * [JS - Working with the DOM](/assets/docs/extras/2018/fall/web-general/dom/notes-js-dom.pdf)
-  * extras - various
-	  * [UI concept - autoscroll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
-
-##### Week 11 - 6th November 2018
-  * [course](/assets/docs/2018/fall/comp424-week11.pdf)
-  * extras - data stores
-	  * [Firebase - authentication](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-auth-guide.pdf)
-	  * [Firebase - setup & usage](/assets/docs/extras/2018/fall/data-stores/firebase/ds-firebase-guide.pdf)
-  * extras - design
-	  * [design and information architecture](/assets/docs/extras/2018/fall/design/design-information-architecture.pdf)
 -->
+
+##### Week 11 - 25th March 2019
+  * [course](/assets/docs/2019/spring/comp424-week11.pdf)
+  * extras - CSS
+    * [Common grid layouts]()
+  * extras - design
+	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/2019/js/js-generators-promises.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
+  * extras - various
+	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
 
 ##### Week 10 - 18th March 2019
   * extras - data stores
