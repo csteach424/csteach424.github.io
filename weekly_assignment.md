@@ -271,21 +271,27 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week, and Happy Thanksgiving.
+-->
 
-#### Week 12 - 13th November 2018
+#### Week 12 - 1st April 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
-	* extras - Canvas
-	  * [HTML5 Canvas - drawing](/assets/docs/extras/2018/fall/canvas/canvas-drawing.pdf)
   * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
-  * extras - various
-	  * [UI concept - autoscroll](/assets/docs/extras/2018/fall/web-general/basic/notes-basic-autoscroll.pdf)
+    * [Heroku & Git](/assets/docs/extras/2019/various/git-heroku-setup.pdf)
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2019/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2019/node/nodejs-express-outline.pdf)
+    * [Node.js & Express starter](/assets/docs/extras/2019/node/node-express-starter.pdf)
+  * extras - JavaScript modules
+    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
+    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
+    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
+    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please create a list on the [Week 12 - Patterns](https://trello.com/b/JqJ40rwt/week-12-patterns) Trello board for your group, and add the following details,
+* Please create a list on the [Week 12 - Patterns](https://trello.com/b/tVutpDLr/week-12-patterns) Trello board for your group, and add the following details,
   * examples of interaction within your site that would benefit from using a *deferred* object
     * **n.b.** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
 * Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [The Louvre](http://www.louvre.fr/en/)
@@ -299,7 +305,6 @@ Enjoy your week, and Happy Thanksgiving.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 11 - 25th March 2019
 

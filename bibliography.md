@@ -32,30 +32,30 @@ There is no specific textbook for this course.
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
+
+-->
+
+### Week 12 - 1st April 2019
+
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
+  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * Node.js
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
   * Redis
     * [redis.io](http://redis.io/)
-
-##### Week 13 - 20th November 2018
-
-  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
-  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
-
--->
 
 ##### Week 11 - 25th March 2019
 
   * [Create your own AJAX loader](http://www.ajaxload.info/)
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+  * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
 
 ##### Week 10 - 18th March 2019

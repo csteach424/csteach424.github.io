@@ -28,8 +28,6 @@ This material will be updated on a weekly basis.
     * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
   * extras - Node.js
     * [Node.js updating](/assets/docs/extras/2018/fall/node/update-nodejs.pdf)
-  * extras - Node.js & Express
-    * [Node.js & Express starter](/assets/docs/extras/2018/fall/node/node-express-starter.pdf)
   * extras - Node.js, Express, and MongoDB
     * [Node.js and MongoDB](/assets/docs/extras/2018/fall/node/nodejs-mongo-outline.pdf)
   * extras - Node.js API
@@ -44,18 +42,24 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week13.pdf)
   * extras - Heroku & MongoDB setup
     * [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
-  * extras - Node.js and Express
-    * [Node.js outline](/assets/docs/extras/2018/fall/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2018/fall/node/nodejs-express-outline.pdf)
   * extras - Web development - patterns
     * [Observer pattern](/assets/docs/extras/2018/fall/web-general/patterns/observer.pdf)
     * [Pubsub pattern](/assets/docs/extras/2018/fall/web-general/patterns/pubsub.pdf)
-
-##### Week 12 - 13th November 2018
-  * [course](/assets/docs/2018/fall/comp424-week12.pdf)
-  * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/extras/2018/fall/various/git-heroku-setup.pdf)
 -->
+
+##### Week 12 - 1st April 2019
+  * [course](/assets/docs/2019/spring/comp424-week12.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2019/various/git-heroku-setup.pdf)
+  * extras - Node.js and Express
+    * [Node.js outline](/assets/docs/extras/2019/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2019/node/nodejs-express-outline.pdf)
+    * [Node.js & Express starter](/assets/docs/extras/2019/node/node-express-starter.pdf)
+  * extras - JavaScript modules
+    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
+    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
+    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
+    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
 
 ##### Week 11 - 25th March 2019
   * [course](/assets/docs/2019/spring/comp424-week11.pdf)

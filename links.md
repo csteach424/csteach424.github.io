@@ -38,6 +38,7 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
@@ -58,6 +59,8 @@ Links will be added during the course...
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+  * [Node.js home](https://nodejs.org/en/)
+  * [redis.io](http://redis.io/)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
@@ -69,11 +72,8 @@ Links will be added during the course...
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [ExpressJS](http://expressjs.com/)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * [Node.js home](https://nodejs.org/en/)
-  * [redis.io](http://redis.io/)
 -->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -83,13 +83,13 @@ Links will be added during the course...
   * jQuery
     * [jQuery](https://jquery.com/)
     * [jQuery UI](http://jqueryui.com/)
+  * [Node.js](https://nodejs.org/en/)
 
 <!--
   * [AngularJS](https://angularjs.org/)
   * [D3](http://d3js.org/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
-  * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
   * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
@@ -112,21 +112,17 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Useful Tools & Reference
 
+  * [Chocolatey for Windows](https://chocolatey.org/)
   * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google Web Fonts](https://fonts.google.com/)
+  * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
-
-
-<!--
-  * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Homebrew - the missing package manager for OS X](http://brew.sh/)
--->
 
 #### Various
 
@@ -146,6 +142,7 @@ NB: there are many other options available, simply search online for [css framew
 #### Websites
 
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -161,7 +158,6 @@ NB: there are many other options available, simply search online for [css framew
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
-  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 -->
 
 #### Extras
