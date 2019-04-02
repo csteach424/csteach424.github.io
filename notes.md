@@ -64,7 +64,7 @@ This material will be updated on a weekly basis.
 ##### Week 11 - 25th March 2019
   * [course](/assets/docs/2019/spring/comp424-week11.pdf)
   * extras - CSS
-    * [Common grid layouts]()
+    * [Common grid layouts](/assets/docs/extras/2019/css/css-grid-common-layouts.pdf)
   * extras - design
 	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
   * extras - JS
