@@ -26,26 +26,30 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/fall/comp424-week14.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
-  * extras - Node.js
-    * [Node.js updating](/assets/docs/extras/2018/fall/node/update-nodejs.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2018/fall/node/nodejs-mongo-outline.pdf)
-  * extras - Node.js API
-    * [Heroku & Postman](/assets/docs/extras/2018/fall/node-api-todos/heroku-mongo-postman.pdf)
-    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/fall/node-api-todos/mongodb-native-driver-api.pdf)
-    * [Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/node-todos-api.pdf)
-    * [Testing - Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/testing-todos-api.pdf)
-  * extras - Node.js & Web Sockets
-    * [Node.js & Socket.io](/assets/docs/extras/2018/fall/node/web-sockets/notes-nodejs-socketio.pdf)
-
-##### Week 13 - 20th November 2018
-  * [course](/assets/docs/2018/fall/comp424-week13.pdf)
-  * extras - Heroku & MongoDB setup
-    * [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
   * extras - Web development - patterns
-    * [Observer pattern](/assets/docs/extras/2018/fall/web-general/patterns/observer.pdf)
-    * [Pubsub pattern](/assets/docs/extras/2018/fall/web-general/patterns/pubsub.pdf)
+    * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
 -->
+
+##### Week 13 - 8th April 2019
+  * [course](/assets/docs/2019/spring/comp424-week13.pdf)
+  * extras - Heroku & MongoDB setup
+    * [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2019/node/update-nodejs.pdf)
+  * extras - Node.js, Express, and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2019/node/nodejs-mongo-outline.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2019/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2019/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2019/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2019/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js testing
+    * [assertions](/assets/docs/extras/2019/node/testing/node-testing-assertions.pdf)
+    * [mocha](/assets/docs/extras/2019/node/testing/node-testing-mocha.pdf)
+    * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
 
 ##### Week 12 - 1st April 2019
   * [course](/assets/docs/2019/spring/comp424-week12.pdf)

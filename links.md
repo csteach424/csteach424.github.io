@@ -39,6 +39,10 @@ Links will be added during the course...
 #### Documentation & Guides
 
   * [ExpressJS](http://expressjs.com/)
+  * [Firebase](https://firebase.google.com/)
+  * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
+	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
+	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
@@ -59,6 +63,8 @@ Links will be added during the course...
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
+  * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
   * [redis.io](http://redis.io/)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -72,8 +78,6 @@ Links will be added during the course...
 <!--
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
-  * [MongooseJS Docs](http://mongoosejs.com/index.html)
 -->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -117,6 +121,7 @@ NB: there are many other options available, simply search online for [css framew
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Google Web Fonts](https://fonts.google.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
@@ -141,7 +146,12 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * [A List Apart - For People Who Make Websites](http://alistapart.com/)
+  * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
+  * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
@@ -151,14 +161,6 @@ NB: there are many other options available, simply search online for [css framew
   * W3C
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
-
-<!--
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
--->
 
 #### Extras
 

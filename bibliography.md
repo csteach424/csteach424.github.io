@@ -23,17 +23,21 @@ There is no specific textbook for this course.
 <!-- ###### Week 15 - 4th December 2018
 
   * N/A
-
-##### Week 14 - 27th November 2018
-
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
+-->
+
+##### Week 13 - 8th April 2019
+
+  * [Firebase](https://firebase.google.com/)
+  * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
+  * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
+  * [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
+  * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * MongoDB
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
-
--->
 
 ### Week 12 - 1st April 2019
 

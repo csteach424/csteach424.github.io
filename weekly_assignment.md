@@ -238,25 +238,33 @@ If there are any special hardware or software requirements for next week's prese
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 13 - 20th November 2018
+#### Week 13 - 8th April 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
-	* extras - Canvas
-	  * [HTML5 Canvas - interaction](/assets/docs/extras/2018/fall/canvas/canvas-interaction.pdf)
-	* extras - Heroku & Git setup
-		* [Heroku & MongoDB](/assets/docs/extras/2018/fall/various/heroku-mongodb-setup.pdf)
-  * extras - Node.js and Express
-    * [Node.js outline](/assets/docs/extras/2018/fall/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2018/fall/node/nodejs-express-outline.pdf)
-  * extras - Web development - patterns
-    * [Observer pattern](/assets/docs/extras/2018/fall/web-general/patterns/observer.pdf)
-    * [Pubsub pattern](/assets/docs/extras/2018/fall/web-general/patterns/pubsub.pdf)
+	* extras - Heroku & MongoDB setup
+  	* [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
+  * extras - Node.js
+    * [Node.js updating](/assets/docs/extras/2019/node/update-nodejs.pdf)
+  * extras - Node.js, Express, and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2019/node/nodejs-mongo-outline.pdf)
+  * extras - Node.js API
+    * [Heroku & Postman](/assets/docs/extras/2019/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2019/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2019/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2019/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js testing
+    * [assertions](/assets/docs/extras/2019/node/testing/node-testing-assertions.pdf)
+    * [mocha](/assets/docs/extras/2019/node/testing/node-testing-mocha.pdf)
+    * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
+  * extras - Node.js & Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/VTOVVTyW/week-13-final-plan) Trello board for your group, and add the following details,
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/xmgoJnZ7/week-13-final-plan) Trello board for your group, and add the following details,
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
@@ -270,8 +278,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week, and Happy Thanksgiving.
--->
+Enjoy your week.
 
 #### Week 12 - 1st April 2019
 
