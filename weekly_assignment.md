@@ -203,42 +203,39 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 14 - 27th November 2018
+#### Week 14 - 15th April 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
 	* extras - Final Report Outline
-		* [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
-  * extras - Node.js
-    * [Node.js updating](/assets/docs/extras/2018/fall/node/update-nodejs.pdf)
-  * extras - Node.js & Express
-    * [Node.js & Express starter](/assets/docs/extras/2018/fall/node/node-express-starter.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2018/fall/node/nodejs-mongo-outline.pdf)
-  * extras - Node.js API
-    * [Heroku & Postman](/assets/docs/extras/2018/fall/node-api-todos/heroku-mongo-postman.pdf)
-    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2018/fall/node-api-todos/mongodb-native-driver-api.pdf)
-    * [Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/node-todos-api.pdf)
-    * [Testing - Node Todos API](/assets/docs/extras/2018/fall/node-api-todos/testing-todos-api.pdf)
-  * extras - Node.js & Web Sockets
-    * [Node.js & Socket.io](/assets/docs/extras/2018/fall/node/web-sockets/notes-nodejs-socketio.pdf)
+  	* [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+  * extras - JS
+    * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
+  * extras - JavaScript modules
+    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
+    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
+    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
+    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
+  * extras - Web development - patterns
+    * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
+    * [Pubsub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Review the final report outline
-  * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
-* Please prepare your group's **project presentation** for Tuesday 4th December 2018
+  * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+* Please prepare your group's **project presentation** for Monday 22nd April 2019 @ 4.15pm
   * as detailed in previous classes, this presentation should be an outline and demo of your final group project
   * please consult the [coursework](/coursework) page for further details
-  * each presentation should be between 10 to 15 minutes in length
+  * each presentation should be approximately 10 minutes in length
 
-If there are any special hardware or software requirements for next week's presentation, please let me know before Tuesday 4th December 2018.
+If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 22nd April 2019.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 13 - 8th April 2019
 

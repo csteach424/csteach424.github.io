@@ -20,12 +20,15 @@ There is no specific textbook for this course.
 
 ***
 
-<!-- ###### Week 15 - 4th December 2018
+###### Week 14 - 15th April 2019
 
-  * N/A
+  * JavaScript
+    * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+    * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+    * [MDN - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+    * [MDN - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
--->
 
 ##### Week 13 - 8th April 2019
 
