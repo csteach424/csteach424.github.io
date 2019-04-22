@@ -125,6 +125,8 @@ NB: there are many other options available, simply search online for [css framew
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
+  * [Travis CI](https://travis-ci.org/)
+  * [Webpack](https://webpack.js.org/)
 
 #### Various
 

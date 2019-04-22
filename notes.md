@@ -18,10 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!-- ##### Week 15 - 4th December 2018
+##### Week 15 - 22nd April 2019
   * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2018/fall/comp424-final-report-outline.pdf)
--->
+    * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
 
 ##### Week 14 - 15th April 2019
   * [course](/assets/docs/2019/spring/comp424-week14.pdf)
