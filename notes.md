@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 424
+summary: course notes and material for COMP 324/424
 ---
 
 Course notes and material will be added to this page during the semester.
@@ -18,6 +18,7 @@ This material will be updated on a weekly basis.
 
 ***
 
+<!--
 ##### Week 15 - 22nd April 2019
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
@@ -159,3 +160,4 @@ This material will be updated on a weekly basis.
   * extras - HTML
     * [HTML - Intro](/assets/docs/extras/2019/html/html-intro.pdf)
     * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
+-->

@@ -9,7 +9,7 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 424
+summary: coursework for COMP 324/424
 ---
 
 Course assessment will continue throughout the semester.
@@ -136,13 +136,13 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Important assessment dates
 
 * project outline and mockup
-  * due Monday 11th February 2019 @ 4.15pm
+  * due Tuesday 24th September 2019 @ 7pm
 * DEV week demo
-  * due Monday 18th March 2019 @ 4.15pm
+  * due Tuesday 29th October 2019 @ 7pm
 * final team demo
-  * due Monday 22nd April 2019 @ 4.15pm
+  * due Tuesday 3rd December 2019 @ 7pm
 * final team report
-  * due Monday 29th April 2019 @ 4.15pm
+  * due Tuesday 10th December 2019
 
 #### Grading
 

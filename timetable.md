@@ -9,38 +9,38 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 424
+summary: course timetable for COMP 324/424
 ---
 
 #### Class Schedule
 
 This class will meet at the following time and place,
 
-* Time: Monday 4.15pm to 6.45pm
-* Place: [Cuneo Hall - Room 311](http://www.luc.edu/media/lucedu/lsc.pdf)
+* Time: Tuesday 7pm to 9.30pm
+* Place: [Corboy - Room 105](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
 
-* Martin Luther King, Jr. Holiday: Monday 21st January 2019
-  * **n.b.** no formal class: Monday 21st January 2019
-* Project outline and mockup
-  * presentation & demo: Monday 11th February 2019
-* Spring Break: Monday 4th to Saturday 9th March 2019
-  * **n.b.** no formal class: Monday 4th March 2019
-* DEV week: Monday 11th to Monday 18th March 2019
-  * presentation & demo: Monday 18th March 2019 @ 4.15pm
-* Final class: Monday 22nd April 2019
-	* presentation & demo: Monday 22nd April 2019 @ 4.15pm
-* Exam week: Monday 29th April to Saturday 4th May 2019
-	* Final assessment due on Monday 29th April 2019 by 4.15pm
+* Project outline and mockup - presentation & demo
+  * 24th September 2019 @ 7pm
+* Mid-semester break
+	* **n.b.** no formal class: 8th October 2019
+* DEV week: 22nd to 29th October 2019
+* DEV week - presentation & demo
+	* 29th October 2019 @ 7pm
+* Final class: 3rd December 2019
+* Final presentation & demo
+	* 3rd December 2019 @ 7pm
+* Exam week: 9th December to 14th December 2019
+	* Final assessment due on 10th December 2019
 
 #### Coursework Schedule
 
 * project outline & mockup
-	* due Monday 11th February 2019 @ 4.15pm
+	* due Tuesday 24th September 2019 @ 7pm
 * DEV week demo
-  * due Monday 18th March 2019 @ 4.15pm
+  * due Tuesday 29th October 2019 @ 7pm
 * final team demo
-  * due Monday 22nd April 2019 @ 4.15pm
+  * due Tuesday 3rd December 2019 @ 7pm
 * final team report
-  * due Monday 29th April 2019 @ 4.15pm
+  * due Tuesday 10th December 2019 @ 7pm

@@ -8,10 +8,10 @@ categories:
 
 tags: general news
 year: 2019
-month: 01
-day: 14
+month: 08
+day: 26
 published: true
-summary: welcome to the new Spring semester, 2019
+summary: welcome to the new Fall semester, 2019
 menu: new-semester
 ---
 

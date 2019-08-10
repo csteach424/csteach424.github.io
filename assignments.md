@@ -9,7 +9,7 @@ categories:
 
 tags: assignments coursework
 published: true
-summary: assignments and coursework for COMP 424
+summary: assignments and coursework for COMP 324/424
 ---
 
 This page will be updated each week during the semester with assignments, coursework, quizzes...
@@ -22,7 +22,7 @@ A full breakdown of this semester's coursework requirements is available at the 
 
 #### Weekly Assignment
 
-Tasks, reading, exercises, and quizzes are available at the following page
+Tasks, reading, exercises &c. are available at the following page
 
   * [Weekly Assignment](/weekly_assignment)
 

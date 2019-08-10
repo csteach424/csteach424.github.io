@@ -1,5 +1,5 @@
 ---
-title: COMP 424
+title: COMP 324/424
 layout: default-vertical
 
 categories:
@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Client-Side Web Design, Spring 2019
+summary: Client-Side Web Design, Fall 2019
 ---
 
-Welcome to the course website for COMP 424, *Client-Side Web Design*.
+Welcome to the course website for COMP 324/424, *Client-Side Web Design*.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 

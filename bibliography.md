@@ -9,7 +9,7 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 424
+summary: course bibliography and references for COMP 324/424
 ---
 
 The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
@@ -20,6 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
 ###### Week 15 - 22nd April 2019
 
   * [MDN - Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)
@@ -138,3 +139,4 @@ There is no specific textbook for this course.
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+-->

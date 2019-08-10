@@ -9,7 +9,7 @@ categories:
 
 tags: links resources
 published: true
-summary: suggested links and resources for COMP 424
+summary: suggested links and resources for COMP 324/424
 ---
 
 This list contains a variety of information, suggestions, and generally interesting material.
@@ -18,12 +18,13 @@ This section will be updated on a weekly basis during the semester.
 
 We are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
 
-If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=COMP424-Links).
+If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=COMP 324/424 - Links).
 
 ***
 
 Links will be added during the course...
 
+<!--
 #### Articles & Papers
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
@@ -172,3 +173,4 @@ NB: there are many other options available, simply search online for [css framew
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
+-->

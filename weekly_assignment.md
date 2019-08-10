@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 424
+summary: weekly assignment for COMP 324/424
 ---
 
 #### Assignment submission
@@ -182,10 +182,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-
 -->
 
+<!--
 #### Week 15 - 22nd April 2019
 
 * Please complete your group's final project report
@@ -478,7 +477,6 @@ Enjoy your week.
   * [Group 11 - Beer Tracker](https://goo.gl/forms/NOm9nnds2YfE6Fhx2)
   * [Group 12 - Recipes](https://goo.gl/forms/JhNEIkMDwuIyRn5m1)
   * [Group 13 - Cooking Coach](https://goo.gl/forms/SFYOc5JvmaPjjkOC2)
-  <!-- * [Group 14 - PianoBoard](https://goo.gl/forms/KZc0hTt9ruWWui4S2) -->
 * Complete these peer review forms by **Monday 18th February 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
@@ -524,30 +522,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-<!--
-#### Week 3 - 11th September 2018
-
-* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2018/fall/design/design-mockups.pdf)
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2018/fall/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2018/fall/html5/html5-extra.pdf)
-* Review the DOM, HTML, and HTML5 code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
-* Please start to design and outline your project's application and website
-  * consider initial pages, content, navigation, and required user interaction
-  * what is the primary goal of the homepage for this application/website
-    * consider content sections, navigation options, possible user interactions...
-  * Please add this information, and any initial images or drawings &c., to this week's board on the course's Trello group
-    * I've added initial instructions to this board, which is available at the following URL
-      * [Week 3 - Project Outline](https://trello.com/b/SGFSsfWJ/week-3-project-outline)
-
-Any questions, please let me know.
-
-Enjoy your week.
--->
 
 ##### Week 3 - 28th January 2019
 
@@ -628,5 +602,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 Any questions, please let me know.
 
 Enjoy your week.
-
-
+-->
