@@ -575,7 +575,7 @@ Please read the instructions available on the board, and then create a new list 
 ##### Trello group
 I've now created a Trello group for this course, which is available at the following URL,
 
-  * [COMP 424 - Spring 2019 @ LUC](https://trello.com/csteach424)
+  * [COMP 324/424 - Fall 2019 @ LUC](https://trello.com/csteach424)
 
 I'll send an invite to this group to each student's LUC email address.
 
