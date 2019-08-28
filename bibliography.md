@@ -132,11 +132,11 @@ There is no specific textbook for this course.
 
 ##### Week 2 - 21st January 2019
 
-  * N/A
+  * 
+-->
 
-##### Week 1 - 14th January 2019
+##### Week 1 - 27th August 2019
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
--->

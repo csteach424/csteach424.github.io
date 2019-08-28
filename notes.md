@@ -152,12 +152,12 @@ This material will be updated on a weekly basis.
 
 ##### Week 2 - 21st January 2019
   * N/A
+-->
 
-##### Week 1 - 14th January 2019
-  * [course](/assets/docs/2019/spring/comp424-week1.pdf)
+##### Week 1 - 27th August 2019
+  * [course](/assets/docs/2019/fall/comp424-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
   * extras - HTML
     * [HTML - Intro](/assets/docs/extras/2019/html/html-intro.pdf)
     * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
--->
