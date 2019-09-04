@@ -131,6 +131,9 @@ This material will be updated on a weekly basis.
 
 ##### Week 4 - 4th February 2019
   * [course](/assets/docs/2019/spring/comp424-week4.pdf)
+  * extras - HTML5 Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
   * extras - CSS
     * [CSS - Intro](/assets/docs/extras/2019/css/css-intro.pdf)
     * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
@@ -138,21 +141,15 @@ This material will be updated on a weekly basis.
     * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
+-->
 
-##### Week 3 - 28th January 2019
-  * [course](/assets/docs/2019/spring/comp424-week3.pdf)
+##### Week 2 - 3rd September 2019
+  * [course](/assets/docs/2019/fall/comp424-week2.pdf)
   * extras - HTML
     * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
   * extras - HTML5
     * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
     * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
-  * extras - HTML5 Canvas
-	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
-	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
-
-##### Week 2 - 21st January 2019
-  * N/A
--->
 
 ##### Week 1 - 27th August 2019
   * [course](/assets/docs/2019/fall/comp424-week1.pdf)

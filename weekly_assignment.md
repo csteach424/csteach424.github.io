@@ -502,6 +502,9 @@ Enjoy your week.
 #### Week 4 - 4th February 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - HTML5 Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
   * extras - CSS
     * [CSS - Intro](/assets/docs/extras/2019/css/css-intro.pdf)
     * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
@@ -522,8 +525,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 3 - 28th January 2019
+##### Week 2 - 3rd September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
   * extras - HTML
@@ -531,28 +535,20 @@ Enjoy your week.
   * extras - HTML5
     * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
     * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
-  * extras - HTML5 Canvas
-	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
-	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
 * Review the various code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
+  * [Source - Week 2](https://github.com/csteach424/source/tree/master/week2)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/YYRSir8c)
+  * [Week 1 - Project Details](https://trello.com/b/2gepsyfx/week-1-project-details)
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Week 1 - Project Details](https://trello.com/b/YYRSir8c)
+    * [Week 1 - Project Details](https://trello.com/b/2gepsyfx/week-1-project-details)
   * review the [GitHub Guides](https://guides.github.com/), including
     * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 Any questions, please let me know.
 
 Enjoy your week.
-
-##### Week 2 - 21st January 2019
-
-* N/A
--->
 
 ##### Week 1 - 27th August 2019
 
