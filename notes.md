@@ -128,9 +128,10 @@ This material will be updated on a weekly basis.
 ##### Week 5 - 11th February 2019
 
   * N/A - Presentations
+-->
 
-##### Week 4 - 4th February 2019
-  * [course](/assets/docs/2019/spring/comp424-week4.pdf)
+##### Week 3 - 10th September 2019
+  * [course](/assets/docs/2019/fall/comp424-week3.pdf)
   * extras - HTML5 Canvas
 	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
 	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
@@ -141,7 +142,6 @@ This material will be updated on a weekly basis.
     * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
--->
 
 ##### Week 2 - 3rd September 2019
   * [course](/assets/docs/2019/fall/comp424-week2.pdf)

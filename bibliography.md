@@ -113,13 +113,13 @@ There is no specific textbook for this course.
 ##### Week 5 - 11th February 2019
 
   * N/A - Presentations
+-->
 
-##### Week 4 - 4th February 2019
+##### Week 3 - 10th September 2019
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
--->
 
 ##### Week 2 - 3rd September 2019
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)

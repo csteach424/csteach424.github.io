@@ -495,11 +495,17 @@ Enjoy your week.
   * navigation and data presentation patterns
   * use of images and multimedia
 
+* Please prepare your first presentation and demo for the start of next week's class, Monday 11th February 2019 @ 4.15pm.
+  * further details may be found on the following pages,
+    * [Course Website - Coursework](http://csteach424.github.io/coursework/#assessment2)
+    * [Course Notes - Week 1 - Pages 10 & 11](http://csteach424.github.io/assets/docs/2019/spring/comp424-week1.pdf)
+
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 4 - 4th February 2019
+#### Week 3 - 10th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - HTML5 Canvas
@@ -516,16 +522,11 @@ Enjoy your week.
     * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 4](https://github.com/csteach424/source/tree/master/week4)
-* Please prepare your first presentation and demo for the start of next week's class, Monday 11th February 2019 @ 4.15pm.
-  * further details may be found on the following pages,
-    * [Course Website - Coursework](http://csteach424.github.io/coursework/#assessment2)
-    * [Course Notes - Week 1 - Pages 10 & 11](http://csteach424.github.io/assets/docs/2019/spring/comp424-week1.pdf)
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 2 - 3rd September 2019
 

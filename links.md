@@ -28,10 +28,7 @@ Links will be added during the course...
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
-  
-<!--
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 <!--
 #### Design &c.
@@ -43,6 +40,9 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - HTML Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
   * [MDN - HTML Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
   * [MDN - HTML Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
@@ -51,6 +51,8 @@ Links will be added during the course...
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
+  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
@@ -66,11 +68,8 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
   * [MDN - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
   * [MDN - CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-  * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - CSS Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -84,8 +83,6 @@ Links will be added during the course...
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
   * [redis.io](http://redis.io/)
-  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
-  * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
 -->
 
@@ -123,6 +120,7 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Useful Tools & Reference
 
+  * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
@@ -130,9 +128,9 @@ NB: there are many other options available, simply search online for [css framew
   * [HTML5 Test](http://html5test.com/)
 
   <!-- * [Chocolatey for Windows](https://chocolatey.org/)
-  * [CSS Lint](http://csslint.net/)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Google Web Fonts](https://fonts.google.com/)
+  * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
