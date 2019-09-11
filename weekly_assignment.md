@@ -505,7 +505,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
-#### Week 3 - 10th September 2019
+##### Week 3 - 10th September 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
   * extras - HTML5 Canvas
