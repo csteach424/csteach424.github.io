@@ -74,8 +74,6 @@ This material will be updated on a weekly basis.
 
 ##### Week 11 - 25th March 2019
   * [course](/assets/docs/2019/spring/comp424-week11.pdf)
-  * extras - CSS
-    * [Common grid layouts](/assets/docs/extras/2019/css/css-grid-common-layouts.pdf)
   * extras - design
 	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
   * extras - JS
@@ -110,25 +108,21 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2019/spring/comp424-week7.pdf)
   * extras - design
     * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
-  * extras - JS
+  * * extras - JS
+    * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
     * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
+    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
+-->
 
-##### Week 6 - 18th February 2019
-  * [course](/assets/docs/2019/spring/comp424-week6.pdf)
+##### Week 4 - 17th September 2019
+  * [course](/assets/docs/2019/fall/comp424-week4.pdf)
   * extras - CSS
+    * [CSS - Common grid layouts](/assets/docs/extras/2019/css/css-grid-common-layouts.pdf)
     * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
     * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
     * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2019/css/mdn-css-grid-basics.pdf)
   * extras - Design
     * [design and interface](/assets/docs/extras/2019/design/design-interface-intro.pdf)
-  * extras - JS
-    * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
-    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
-
-##### Week 5 - 11th February 2019
-
-  * N/A - Presentations
--->
 
 ##### Week 3 - 10th September 2019
   * [course](/assets/docs/2019/fall/comp424-week3.pdf)

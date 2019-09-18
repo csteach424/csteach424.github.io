@@ -42,7 +42,11 @@ Links will be added during the course...
 
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+  * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+  * [MDN - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+  * [MDN - CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
   * [MDN - CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+  * [MDN - CSS Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * [MDN - HTML Block-level Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
   * [MDN - HTML Content Categories](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
   * [MDN - HTML Developer Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
@@ -53,10 +57,13 @@ Links will be added during the course...
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+  * [W3 Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -68,10 +75,6 @@ Links will be added during the course...
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
-  * [MDN - CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  * [MDN - CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-  * [MDN - CSS Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
@@ -83,27 +86,26 @@ Links will be added during the course...
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
   * [redis.io](http://redis.io/)
-  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
 -->
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
-  * [AngularJS](https://angularjs.org/)
+  * [Foundation](http://foundation.zurb.com/)
+  * [Pure CSS](http://purecss.io/)
+  * [Skeleton](http://getskeleton.com/)
+
+NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
+
+<!-- [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
-  * [Foundation](http://foundation.zurb.com/)
   * jQuery
     * [jQuery](https://jquery.com/)
     * [jQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
-  * [Pure CSS](http://purecss.io/)
-  * [React](http://facebook.github.io/react/)
-  * [Skeleton](http://getskeleton.com/)
+  * [React](http://facebook.github.io/react/) -->
 
-NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
--->
 
 #### Mockup & Prototype Tools - a few examples
 
@@ -124,12 +126,12 @@ NB: there are many other options available, simply search online for [css framew
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
 
   <!-- * [Chocolatey for Windows](https://chocolatey.org/)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-  * [Google Web Fonts](https://fonts.google.com/)
   * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSLint - JavaScript Validator](http://jslint.com/)

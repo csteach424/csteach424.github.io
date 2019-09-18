@@ -494,16 +494,29 @@ Enjoy your week.
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns
   * use of images and multimedia
+-->
 
-* Please prepare your first presentation and demo for the start of next week's class, Monday 11th February 2019 @ 4.15pm.
+##### Week 4 - 17th September 2019
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * extras - CSS
+    * [CSS - Common grid layouts](/assets/docs/extras/2019/css/css-grid-common-layouts.pdf)
+    * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
+    * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
+    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2019/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2019/design/design-interface-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the code examples posted to the **source** repository on the course's GitHub account,
+  * [Source - Week 4](https://github.com/csteach424/source/tree/master/week4)
+* Please prepare your first presentation and demo for the start of next week's class, Tuesday 24th September 2019 @ 7pm.
   * further details may be found on the following pages,
     * [Course Website - Coursework](http://csteach424.github.io/coursework/#assessment2)
-    * [Course Notes - Week 1 - Pages 10 & 11](http://csteach424.github.io/assets/docs/2019/spring/comp424-week1.pdf)
+    * [Course Notes - Week 1 - Pages 10 & 11](http://csteach424.github.io/assets/docs/2019/fall/comp424-week1.pdf)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 3 - 10th September 2019
 
