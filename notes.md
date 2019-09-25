@@ -114,6 +114,10 @@ This material will be updated on a weekly basis.
     * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
 -->
 
+##### Week 5 - 24th September 2019
+
+  * N/A - Presentations
+
 ##### Week 4 - 17th September 2019
   * [course](/assets/docs/2019/fall/comp424-week4.pdf)
   * extras - CSS

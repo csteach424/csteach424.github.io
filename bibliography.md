@@ -101,6 +101,10 @@ There is no specific textbook for this course.
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
 -->
 
+##### Week 5 - 24th September 2019
+
+  * N/A - Presentations
+
 ##### Week 4 - 17th September 2019
 
   * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)

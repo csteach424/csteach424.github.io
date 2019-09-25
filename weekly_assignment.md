@@ -460,41 +460,46 @@ Enjoy your Spring Break.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 5 - 11th February 2019
+#### Week 5 - 24th September 2019
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Conquer: Fitness Tracking](https://goo.gl/forms/RHItxVgtMqGhb8Ir2)
-  * [Group 2 - Night Out](https://goo.gl/forms/jgeFyC5LY3nv7DUC3)
-  * [Group 3 - In Medias Res](https://goo.gl/forms/bcseBVDLlA1xk81w2)
-  * [Group 4 - Girls Who Code](https://goo.gl/forms/bIjoRHNPBzsUxvlC2)
-  * [Group 5 - Harmony](https://goo.gl/forms/F9hmupoPeNiiCNXe2)
-  * [Group 6 - Reimagined Couscous](https://goo.gl/forms/tZqpLcCYnTiIOEcE3)
-  * [Group 7 - WaLit](https://goo.gl/forms/4TwMhMeVl0YTxlz62)
-  * [Group 8 - Da Hub](https://goo.gl/forms/XQQcEsu1ubRehdaC2)
-  * [Group 9 - My Closet](https://goo.gl/forms/Oeb05AtjFZaOIhrs1)
-  * [Group 10 - Vino/Viand](https://goo.gl/forms/o0tEZIuGzkgnAgfB3)
-  * [Group 11 - Beer Tracker](https://goo.gl/forms/NOm9nnds2YfE6Fhx2)
-  * [Group 12 - Recipes](https://goo.gl/forms/JhNEIkMDwuIyRn5m1)
-  * [Group 13 - Cooking Coach](https://goo.gl/forms/SFYOc5JvmaPjjkOC2)
-* Complete these peer review forms by **Monday 18th February 2019** at the latest
+  * [Group 1 - Math Trade HQ](https://forms.gle/QY9coDeZR2PpBvTM8)
+  * [Group 2 - Trauma Toolkit](https://forms.gle/TUmEC6QkvA2ks2jdA)
+  * [Group 3 - Sports News](https://forms.gle/b2asu4bCsv5FKQEu8)
+  * [Group 4 - Tea Time](https://forms.gle/QxEB17UQswSHDQbp9)
+  * [Group 5 - Machine Learning Trip Planner](https://forms.gle/xHhjiHAX9nWxo1RAA)
+  * [Group 6 - Beginner Fisherman](https://forms.gle/oKCTm28vWcn2rDH19)
+  * [Group 7 - Chicago Crime Analysis](https://forms.gle/vrYgKow1zbPxyPFW6)
+  * [Group 8 - Photo Market](https://forms.gle/fva2p151hWdUmLgC7)
+  * [Group 9 - Language Learning Resource](https://forms.gle/BZk92jYf8RgPqXs39)
+  * [Group 10 - Lowkey](https://forms.gle/zt5GB68cC5imj3dd7)
+  * [Group 11 - Project Submission Portal](https://forms.gle/6X4vetqWyRZmD71o6)
+  * [Group 12 - Assess Loan](https://forms.gle/xYk8sTTPKyEBE6gx9)
+  * [Group 13 - Day Pass Now](https://forms.gle/2YNDz8npy4xBvezm8)
+  * [Group 14 - Buds, Beer, and Beagles](https://forms.gle/pr9nsDrs9yJmRUjg8)
+* Complete these peer review forms by **Tuesday 1st October 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/wGdMLdTC/wek-5-presentation-files)
-  * Please add these files as soon as possible, and by **Monday 18th February 2019** at the latest
+  * [Week 5 - Presentation Files](https://trello.com/b/UiCR4ZfD/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Tuesday 1st October 2019** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/eDXaRBhx/week-5-project-contributions)
+  * [Week 5 - Project Contributions](https://trello.com/b/EygQE5kE/week-5-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Monday 18th February 2019** at the latest
+  * please complete this requirement by **Tuesday 1st October 2019** at the latest
 * Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week5**, for the website, [Lego](https://www.lego.com/en-us)
   * consider organisation of content
   * general consistency of design, colours, interaction options
   * navigation and data presentation patterns
   * use of images and multimedia
--->
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 4 - 17th September 2019
 
