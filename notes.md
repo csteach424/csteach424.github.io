@@ -103,16 +103,16 @@ This material will be updated on a weekly basis.
   * extras - Web development - general
     * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
     * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
+-->
 
-##### Week 7 - 25th February 2019
-  * [course](/assets/docs/2019/spring/comp424-week7.pdf)
+##### Week 6 - 1st October 2019
+  * [course](/assets/docs/2019/fall/comp424-week6.pdf)
   * extras - design
     * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
-  * * extras - JS
+  * extras - JS
     * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
     * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
     * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
--->
 
 ##### Week 5 - 24th September 2019
 

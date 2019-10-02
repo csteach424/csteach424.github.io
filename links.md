@@ -30,13 +30,11 @@ Links will be added during the course...
   * [MDN - Using Dynamic Styling Information](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model/Using_dynamic_styling_information)
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
 
-<!--
 #### Design &c.
 
   * [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
   * [HTML Colour Picker](https://www.w3schools.com/colors/colors_picker.asp)
   * [Pantone Colour](https://www.pantone.com/color-finder#/pick?pantoneBook=pantoneSolidCoatedV3M2)
--->
 
 #### Documentation & Guides
 
@@ -53,6 +51,7 @@ Links will be added during the course...
   * [MDN - HTML Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -63,7 +62,6 @@ Links will be added during the course...
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 <!--
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
@@ -129,13 +127,13 @@ NB: there are many other options available, simply search online for [css framew
   * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
   <!-- * [Chocolatey for Windows](https://chocolatey.org/)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/) -->
 
@@ -162,6 +160,7 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
@@ -176,7 +175,6 @@ NB: there are many other options available, simply search online for [css framew
   * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
   * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   -->
 

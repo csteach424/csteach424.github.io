@@ -1,5 +1,5 @@
 ---
-title: Week 5 course update
+title: Week 6 course update
 author: ancientlives
 layout: post-vertical
 
@@ -8,14 +8,14 @@ categories:
 
 tags: general news
 year: 2019
-month: 09
-day: 24
+month: 10
+day: 01
 published: true
-summary: site updated and week 5 assignment
-menu: week5-update
+summary: site updated and week 6 assignment
+menu: week6-update
 ---
 
-The course website has now been updated for this week's class, week 5.
+The course website has now been updated for this week's class, week 6.
 
 Updates include the following,
 

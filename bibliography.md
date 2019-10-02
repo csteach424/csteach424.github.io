@@ -90,16 +90,16 @@ There is no specific textbook for this course.
   * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+-->
 
-##### Week 8 - 4th March 2019
+##### Week 6 - 1st October 2019
 
-* [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
--->
 
 ##### Week 5 - 24th September 2019
 
