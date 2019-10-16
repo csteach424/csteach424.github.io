@@ -79,8 +79,9 @@ There is no specific textbook for this course.
 ##### Week 10 - 18th March 2019
 
   * N/A - Presentations
+-->
 
-##### Week 9 - 11th March 2019
+##### Week 8 - 15th October 2019
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [jQuery](https://jQuery.com/)
@@ -90,7 +91,6 @@ There is no specific textbook for this course.
   * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
--->
 
 ##### Week 6 - 1st October 2019
 

@@ -404,20 +404,26 @@ Please add updates on your group's project development to the course's Trello gr
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 7 - 25th February 2019
+#### Week 8 - 15th October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  
+  * extras - design
+	  * [design and UI](/assets/docs/extras/2019/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 7](https://github.com/csteach424/source/tree/master/week7)
+  * [Source - Week 8](https://github.com/csteach424/source/tree/master/week8)
 * Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
 
 Any questions, please let me know.
 
-Enjoy your Spring Break.
--->
+Enjoy your week.
 
 #### Week 6 - 1st October 2019
 
