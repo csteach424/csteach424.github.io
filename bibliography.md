@@ -71,6 +71,7 @@ There is no specific textbook for this course.
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+  * [MDN - JS - Async & Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
@@ -81,16 +82,22 @@ There is no specific textbook for this course.
   * N/A - Presentations
 -->
 
+##### Week 9 - 22nd October 2019
+
+  * [jQuery API](https://api.jquery.com/)
+  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
+  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
+  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+
 ##### Week 8 - 15th October 2019
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [jQuery](https://jQuery.com/)
   * [jQuery API](https://api.jquery.com/)
-  * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
-  * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
-  * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
   * [jQuery :parent selector](https://api.jquery.com/parent-selector/)
+  * [MDN - JS Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [MDN - JS `this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
 ##### Week 6 - 1st October 2019
 

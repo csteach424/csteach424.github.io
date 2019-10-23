@@ -376,18 +376,17 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 9 - 11th March 2019
+#### Week 9 - 22nd October 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - data stores
 	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
 	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
-  * extras - JS
-    * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
-  * extras - Web development - general
-    * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
-    * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 9](https://github.com/csteach424/source/tree/master/week9)
@@ -398,13 +397,12 @@ Enjoy your week.
 
 Please add updates on your group's project development to the course's Trello group,
 
-* [Week 9 - DEV Week prep](https://trello.com/b/pdFkXdPG/week-9-dev-week-prep)
+* [Week 9 - DEV Week prep](https://trello.com/b/7yut04UJ/week-9-dev-week-prep)
 * I've added instructions on this board.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 8 - 15th October 2019
 

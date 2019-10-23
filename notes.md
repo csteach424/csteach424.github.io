@@ -81,15 +81,16 @@ This material will be updated on a weekly basis.
 	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
   * extras - various
 	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
+-->
 
-##### Week 10 - 18th March 2019
+##### Week 9 - 22nd October 2019
+  * [course](/assets/docs/2019/fall/comp424-week9.pdf)
   * extras - data stores
 	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
 	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
   * extras - various
     * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
     * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
--->
 
 ##### Week 8 - 15th October 2019
   * [course](/assets/docs/2019/fall/comp424-week8.pdf)

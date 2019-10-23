@@ -38,6 +38,8 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [jQuery API](https://api.jquery.com/)
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
   * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
@@ -71,8 +73,6 @@ Links will be added during the course...
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
@@ -147,18 +147,16 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Videos
 
-  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
-  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
-  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
-
-<!--
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Google Prototyping Series
-    * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
--->
-
+	  * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+	  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+	  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
+  * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
+  * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 #### Websites
 
@@ -180,8 +178,6 @@ NB: there are many other options available, simply search online for [css framew
   * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   -->
 
-
-<!--
 #### Extras
 
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
@@ -189,7 +185,7 @@ NB: there are many other options available, simply search online for [css framew
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
+
 
 ***
 
