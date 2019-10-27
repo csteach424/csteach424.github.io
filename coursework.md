@@ -91,7 +91,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * **NO** CSS frameworks, such as Bootstrap, Foundation, Materialize...
   * **NO** CSS preprocessors such as Sass...
   * **NO** template tools such as Handlebars.js &c.
-  * must implement data from either
+  * data may be implemented from either
       * self hosted (MongoDB, Redis...)
       * APIs
       * cloud services (Firebase...)
@@ -123,7 +123,11 @@ If you have any questions on the following assessments, please [contact](/contac
   * **NO** CSS frameworks, such as Bootstrap, Foundation, Materialize...
   * **NO** CSS preprocessors such as Sass...
   * **NO** template tools such as Handlebars.js &c.
-  * **NO** SQL based databases, e.g. MySQL, PostgreSQL...
+  * must implement data from either
+      * self hosted (MongoDB, Redis...)
+      * APIs
+      * cloud services (Firebase...)
+      * **NO** SQL...e.g. (you may **NOT** use MySQL, PostgreSQL &c.)
 * explain design decisions
   * describe patterns used in design of UI and interaction
   * layout choices...
