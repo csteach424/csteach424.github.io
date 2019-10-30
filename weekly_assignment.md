@@ -331,52 +331,39 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 10 - 18th March 2019
+#### Week 10 - 29th October 2019
 
-* Review this week's [notes and material](/notes), which includes the following extra documents,
-  * extras - data stores
-	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
-	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
-  * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
-* Review this week's code examples,
-  * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Aewsome](https://goo.gl/forms/zKtkuF0G4JmIZuFO2)
-  * [Group 2 - Cooking Coach](https://goo.gl/forms/bHG3X2iclZTg4mHO2)
-  * [Group 3 - Beer Tracker](https://goo.gl/forms/BAmRKIDXY6O0u9Zj1)
-  * [Group 4 - Vino/Viand](https://goo.gl/forms/K9nerA47pu2PEw402)
-  * [Group 5 -  My Closet](https://goo.gl/forms/ibGgfeSa8zako0q83)
-  * [Group 6 - Da Hub](https://goo.gl/forms/IAw60AJ3cW2MsKS83)
-  * [Group 7 - Wa Lit](https://goo.gl/forms/G4Z5zT9SlOjXisMp1)
-  * [Group 8 - Reimagined Couscous](https://goo.gl/forms/BD9jNaEMKUbGrnpf1)
-  * [Group 9 - Pianoboard](https://goo.gl/forms/fE7mMbGknq7b95UC3)
-  * [Group 10 - Harmony](https://goo.gl/forms/Gj8SwUzcwtdztubt1)
-  * [Group 11 - Girls Who Code](https://goo.gl/forms/oWdSJ4Y1f89YJKvH2)
-  * [Group 12 -  Night out](https://goo.gl/forms/yekuEEN9RbNDOC3N2)
-  * [Group 13 - Conquer: Fitness Tracking](https://goo.gl/forms/fDeDSMhbKJIVRTWg2)
-  * [Group 14 - Advanced Trading Technologies](https://goo.gl/forms/nJZZIhXf0vUnWHb52)
-  * [Group 15 - Aerial Metrics](https://goo.gl/forms/nhl4tbg58oi2DT4P2)
-  * [Group 16 - Recipes](https://goo.gl/forms/j5wpHuJnYSXyaGWi1)
-* Complete these peer review forms by **Monday 25th March 2019** at the latest
+  * [Group 1 - Project Submission Portal](https://forms.gle/AAZKoCWqDMzXn4nM7)
+  * [Group 2 - Day Pass Now](https://forms.gle/oqLdXtuMxYoCk42w5)
+  * [Group 3 - Assess Loan](https://forms.gle/tVzW9R4dMjyufCNCA)
+  * [Group 4 - LowKey](https://forms.gle/tiErmzfFBEhsCRz46)
+  * [Group 5 - Chicago Crime Analysis](https://forms.gle/y5ij8poSVr3SuoUx7)
+  * [Group 6 - Beginner Fisherman](https://forms.gle/KtdJ3potNnuDs1VJ8)
+  * [Group 7 - Machine Learning Trip Planner](https://forms.gle/NXHemB9Fi5r1vdTm7)
+  * [Group 8 - Tea Time](https://forms.gle/RMTMVEgmhoTowTCk7)
+  * [Group 9 - Sports News](https://forms.gle/BgQd5iDztorpEUvL8)
+  * [Group 10 - Trauma Toolkit](https://forms.gle/PDQtXipHtwBY7kJY9)
+  * [Group 11 - Math Trade HQ](https://forms.gle/59tv3FJtNw4XP2tT7)
+  * [Group 12 - Photo Market](https://forms.gle/uchGACyhS93b73MB9)
+* Complete these peer review forms by **Tuesday 5th November 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/IbygMIAw/week-10-presentation-dev-files)
-  * Please add these files as soon as possible, and by **Monday 25th March 2019** at the latest
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/orjlRQTu/week-10-presentation-dev-files)
+  * Please add these files as soon as possible, and by **Tuesday 5th November 2019** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/jmCtsQLA/week-10-project-contributions)
+  * [Week 10 - Project Contributions](https://trello.com/b/MTV8v0TF/week-10-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Monday 25th March 2019** at the latest
+  * please complete this requirement by **Tuesday 5th November 2019** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 9 - 22nd October 2019
 

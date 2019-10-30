@@ -83,6 +83,10 @@ This material will be updated on a weekly basis.
 	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
 -->
 
+##### Week 10 - 29th October 2019
+
+  * N/A - Presentations
+
 ##### Week 9 - 22nd October 2019
   * [course](/assets/docs/2019/fall/comp424-week9.pdf)
   * extras - data stores

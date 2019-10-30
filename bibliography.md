@@ -76,11 +76,11 @@ There is no specific textbook for this course.
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
+-->
 
-##### Week 10 - 18th March 2019
+##### Week 10 - 29th October 2019
 
   * N/A - Presentations
--->
 
 ##### Week 9 - 22nd October 2019
 
