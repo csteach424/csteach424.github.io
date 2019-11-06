@@ -65,8 +65,9 @@ There is no specific textbook for this course.
     * [redis.io](http://redis.io/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+-->
 
-##### Week 11 - 25th March 2019
+##### Week 11 - 5th November 2019
 
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
@@ -76,7 +77,6 @@ There is no specific textbook for this course.
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
--->
 
 ##### Week 10 - 29th October 2019
 

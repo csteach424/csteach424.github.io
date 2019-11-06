@@ -307,15 +307,18 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 11 - 25th March 2019
+#### Week 11 - 5th November 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
   * extras - design
 	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
- * extras - JS
+  * extras - JS
 	  * [JS - Generators and Promises](/assets/docs/extras/2019/js/js-generators-promises.pdf)
 	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
+  * extras - various
+	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
@@ -331,7 +334,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 10 - 29th October 2019
 

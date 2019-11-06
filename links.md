@@ -38,6 +38,8 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -54,6 +56,9 @@ Links will be added during the course...
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -71,15 +76,10 @@ Links will be added during the course...
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
-  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
-  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
-  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -126,6 +126,7 @@ NB: there are many other options available, simply search online for [css framew
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
@@ -133,17 +134,15 @@ NB: there are many other options available, simply search online for [css framew
   * [JSONLint - JSON Validator](http://jsonlint.com/)
 
   <!-- * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/) -->
 
-<!--
 #### Various
 
   * Chromium Blog - [A faster, more stable Chrome on iOS](http://blog.chromium.org/2016/01/a-faster-more-stable-chrome-on-ios.html)
--->
+
 
 #### Videos
 
