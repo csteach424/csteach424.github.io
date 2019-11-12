@@ -52,8 +52,9 @@ There is no specific textbook for this course.
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
+-->
 
-### Week 12 - 1st April 2019
+<!-- ### Week 12 - 12th November 2019
 
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
@@ -64,8 +65,7 @@ There is no specific textbook for this course.
   * Redis
     * [redis.io](http://redis.io/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
-  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
--->
+  * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp) -->
 
 ##### Week 11 - 5th November 2019
 
