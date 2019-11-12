@@ -127,16 +127,14 @@ NB: there are many other options available, simply search online for [css framew
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Google Web Fonts](https://fonts.google.com/)
+  * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
-
-  <!--
-  * [Grunt](https://gruntjs.com/)
   * [Travis CI](https://travis-ci.org/)
-  * [Webpack](https://webpack.js.org/) -->
+  * [Webpack](https://webpack.js.org/)
 
 #### Various
 
