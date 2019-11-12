@@ -59,7 +59,7 @@ This material will be updated on a weekly basis.
     * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
 -->
 
-##### Week 12 - 12th November 2019
+<!-- ##### Week 12 - 12th November 2019
   * [course](/assets/docs/2019/fall/comp424-week12.pdf)
   * extras - Heroku & Git setup
     * [Heroku & Git](/assets/docs/extras/2019/various/git-heroku-setup.pdf)
@@ -71,7 +71,7 @@ This material will be updated on a weekly basis.
     * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
     * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
     * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
-    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
+    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf) -->
 
 ##### Week 11 - 5th November 2019
   * [course](/assets/docs/2019/fall/comp424-week11.pdf)

@@ -276,7 +276,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
-#### Week 12 - 12th November 2019
+<!-- #### Week 12 - 12th November 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
   * extras - Heroku & Git setup
@@ -307,7 +307,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->
 
 #### Week 11 - 5th November 2019
 
