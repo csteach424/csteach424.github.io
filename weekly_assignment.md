@@ -276,7 +276,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
-<!-- #### Week 12 - 12th November 2019
+#### Week 12 - 12th November 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
   * extras - Heroku & Git setup
@@ -294,7 +294,7 @@ Enjoy your week.
 * Review this week's code examples,
   * [Source - Week 12](https://github.com/csteach424/source/tree/master/week12)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please create a list on the [Week 12 - Patterns](https://trello.com/b/tVutpDLr/week-12-patterns) Trello board for your group, and add the following details,
+* Please create a list on the [Week 12 - Patterns](https://trello.com/b/q3jDoxWE/week-12-patterns) Trello board for your group, and add the following details,
   * examples of interaction within your site that would benefit from using a *deferred* object
     * **n.b.** it is not necessary to detail every instance of the above usage within your site. For example, if you have event handlers for buttons, it is not necessary to detail every single button that would benefit from the Deferred object. Where there is replication of usage, one example will suffice.
 * Please contribute to this week's class discussion on Slack, **#discussion-week12**, for the website, [The Louvre](http://www.louvre.fr/en/)
@@ -307,7 +307,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week. -->
+Enjoy your week.
 
 #### Week 11 - 5th November 2019
 
