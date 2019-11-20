@@ -59,6 +59,10 @@ This material will be updated on a weekly basis.
     * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
   * extras - Node.js & Web Sockets
     * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - Systems Management
+	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
+	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
+	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
 
 ##### Week 12 - 12th November 2019
   * [course](/assets/docs/2019/fall/comp424-week12.pdf)

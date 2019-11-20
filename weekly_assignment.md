@@ -258,6 +258,10 @@ Enjoy your week.
     * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
   * extras - Node.js & Web Sockets
     * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - Systems Management
+	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
+	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
+	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)
