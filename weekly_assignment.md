@@ -234,10 +234,13 @@ If there are any special hardware or software requirements for next week's prese
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 13 - 8th April 2019
+#### Week 13 - 19th November 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
+	* extras - JS
+		* [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
 	* extras - Heroku & MongoDB setup
   	* [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
   * extras - Node.js
@@ -259,7 +262,7 @@ Enjoy your week.
 * Review this week's code examples,
   * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/xmgoJnZ7/week-13-final-plan) Trello board for your group, and add the following details,
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/hGpnHUp2/week-13-final-plan) Trello board for your group, and add the following details,
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
@@ -274,7 +277,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 12 - 12th November 2019
 

@@ -27,8 +27,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2019/spring/comp424-week14.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-  * extras - JS
-    * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
+  * 
   * extras - JavaScript modules
     * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
     * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
@@ -37,9 +36,12 @@ This material will be updated on a weekly basis.
   * extras - Web development - patterns
     * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
     * [Pubsub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
+-->
 
-##### Week 13 - 8th April 2019
-  * [course](/assets/docs/2019/spring/comp424-week13.pdf)
+##### Week 13 - 19th November 2019
+  * [course](/assets/docs/2019/fall/comp424-week13.pdf)
+  * extras - JS
+    * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
   * extras - Heroku & MongoDB setup
     * [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
   * extras - Node.js
@@ -57,7 +59,6 @@ This material will be updated on a weekly basis.
     * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
   * extras - Node.js & Web Sockets
     * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
--->
 
 ##### Week 12 - 12th November 2019
   * [course](/assets/docs/2019/fall/comp424-week12.pdf)

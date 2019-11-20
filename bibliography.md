@@ -33,16 +33,13 @@ There is no specific textbook for this course.
 
 ###### Week 14 - 15th April 2019
 
-  * JavaScript
-    * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-    * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-    * [MDN - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-    * [MDN - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
+-->
 
-##### Week 13 - 8th April 2019
+##### Week 13 - 19th November 2019
 
+* Databases
   * [Firebase](https://firebase.google.com/)
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
   * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
@@ -52,10 +49,15 @@ There is no specific textbook for this course.
     * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
--->
+* JavaScript
+    * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+    * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
 
 ### Week 12 - 12th November 2019
 
+  * JavaScript
+	  * [MDN - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+    * [MDN - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
