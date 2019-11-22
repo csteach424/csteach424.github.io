@@ -262,6 +262,8 @@ Enjoy your week.
 	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
 	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
 	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
+	  * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
+    * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)

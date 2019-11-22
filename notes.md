@@ -63,6 +63,8 @@ This material will be updated on a weekly basis.
 	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
 	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
 	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
+	  * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
+    * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
 
 ##### Week 12 - 12th November 2019
   * [course](/assets/docs/2019/fall/comp424-week12.pdf)
