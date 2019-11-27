@@ -38,6 +38,8 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
+  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
@@ -61,15 +63,24 @@ Links will be added during the course...
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+  * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+	* [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* Various - Tools
+  * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
+  * [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+  * [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
   * [redis.io](http://redis.io/)
+  * [Webpack - JS bundler](https://webpack.js.org/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -79,17 +90,11 @@ Links will be added during the course...
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
-<!--
-  * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
-  * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * 
-  * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
--->
-
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
+  * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
+  * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * jQuery
@@ -97,13 +102,10 @@ Links will be added during the course...
     * [jQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
+  * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
-
-<!-- [AngularJS](https://angularjs.org/)
-  * [D3](http://d3js.org/)
-  * [React](http://facebook.github.io/react/) -->
 
 
 #### Mockup & Prototype Tools - a few examples

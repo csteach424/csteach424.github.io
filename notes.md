@@ -22,21 +22,24 @@ This material will be updated on a weekly basis.
 ##### Week 15 - 22nd April 2019
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+-->
 
-##### Week 14 - 15th April 2019
-  * [course](/assets/docs/2019/spring/comp424-week14.pdf)
+##### Week 14 - 26th November 2019
+  * [course](/assets/docs/2019/fall/comp424-week14.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-  * 
+  * extras - JavaScript
+	  * [Proxy](/assets/docs/extras/2019/js/notes-js-proxy.pdf)
   * extras - JavaScript modules
     * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
     * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
     * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
     * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
-  * extras - Web development - patterns
+  * extras - Patterns
     * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
-    * [Pubsub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
--->
+    * [Pub/Sub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
+  * extras - Systems Management
+	  * [Grunt - Project Outline](/assets/docs/extras/2019/systems-mgmt/grunt-project-outline.pdf)
 
 ##### Week 13 - 19th November 2019
   * [course](/assets/docs/2019/fall/comp424-week13.pdf)

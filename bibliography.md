@@ -30,12 +30,20 @@ There is no specific textbook for this course.
   * [MDN - Web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/)
+-->
 
-###### Week 14 - 15th April 2019
+###### Week 14 - 26th November 2019
 
+* JavaScript
   * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
   * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
--->
+  * [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* Design Patterns
+	* [Observer](https://en.wikipedia.org/wiki/Observer_pattern)
+	* [Pub/Sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+* Various - Tools
+	* [Grunt - JavaScript Task Runner](https://gruntjs.com/)
+	* [Webpack - JS bundler](https://webpack.js.org/)
 
 ##### Week 13 - 19th November 2019
 
@@ -50,8 +58,8 @@ There is no specific textbook for this course.
   * Mongoose
     * [MongooseJS Docs](http://mongoosejs.com/index.html)
 * JavaScript
-    * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-    * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+  * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
 
 ### Week 12 - 12th November 2019
 

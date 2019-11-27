@@ -202,39 +202,39 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 14 - 15th April 2019
+#### Week 14 - 26th November 2019
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
 	* extras - Final Report Outline
-  	* [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-  * extras - JS
-    * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
+    * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+  * extras - JavaScript
+	  * [Proxy](/assets/docs/extras/2019/js/notes-js-proxy.pdf)
   * extras - JavaScript modules
     * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
     * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
     * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
     * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
-  * extras - Web development - patterns
+  * extras - Patterns
     * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
-    * [Pubsub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
+    * [Pub/Sub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
+  * extras - Systems Management
+	  * [Grunt - Project Outline](/assets/docs/extras/2019/systems-mgmt/grunt-project-outline.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Review the final report outline
   * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-* Please prepare your group's **project presentation** for Monday 22nd April 2019 @ 4.15pm
+* Please prepare your group's **project presentation** for Tuesday 3rd November 2019 @ 7pm
   * as detailed in previous classes, this presentation should be an outline and demo of your final group project
   * please consult the [coursework](/coursework) page for further details
   * each presentation should be approximately 10 minutes in length
 
-If there are any special hardware or software requirements for next week's presentation, please let me know before Monday 22nd April 2019.
-
 Any questions, please let me know.
 
-Enjoy your week.
--->
+Enjoy your week, and Happy Thanksgiving.
 
 #### Week 13 - 19th November 2019
 
