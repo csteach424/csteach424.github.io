@@ -208,7 +208,7 @@ Enjoy your week.
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
 	* extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+		* [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
   * extras - JavaScript
 	  * [Proxy](/assets/docs/extras/2019/js/notes-js-proxy.pdf)
   * extras - JavaScript modules
