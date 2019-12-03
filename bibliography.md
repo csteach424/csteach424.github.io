@@ -20,8 +20,7 @@ There is no specific textbook for this course.
 
 ***
 
-<!--
-###### Week 15 - 22nd April 2019
+###### Week 15 - 3rd December 2019
 
   * [MDN - Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)
   * [MDN - Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
@@ -30,7 +29,6 @@ There is no specific textbook for this course.
   * [MDN - Web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/)
--->
 
 ###### Week 14 - 26th November 2019
 
