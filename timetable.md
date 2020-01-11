@@ -16,31 +16,32 @@ summary: course timetable for COMP 324/424
 
 This class will meet at the following time and place,
 
-* Time: Tuesday 7pm to 9.30pm
-* Place: [Corboy - Room 105](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Time: Monday 4.15pm to 6.45pm
+* Place: [Cuneo - Room 311](http://www.luc.edu/media/lucedu/lsc.pdf)
 
 #### Important Dates
 
+* No Class - Monday 20th January 2020
 * Project outline and mockup - presentation & demo
-  * 24th September 2019 @ 7pm
-* Mid-semester break
-	* **n.b.** no formal class: 8th October 2019
-* DEV week: 22nd to 29th October 2019
+  * 10th February 2020 @ 4.15pm
+* Spring break
+	* **n.b.** no formal class: Monday 2nd March 2020
+* DEV week: 9th to 16th March 2020
 * DEV week - presentation & demo
-	* 29th October 2019 @ 7pm
-* Final class: 3rd December 2019
+	* 16th March 2020 @ 4.15pm
+* Final class: 20th April 2020
 * Final presentation & demo
-	* 3rd December 2019 @ 7pm
-* Exam week: 9th December to 14th December 2019
-	* Final assessment due on 10th December 2019
+	* 20th April 2020 @ 4.15pm
+* Exam week: 27th April to 2nd May 2020
+	* Final assessment due on 27th April 2020
 
 #### Coursework Schedule
 
-* project outline & mockup
-	* due Tuesday 24th September 2019 @ 7pm
+* project outline and mockup
+  * due Monday 10th February 2020 @ 4.15pm
 * DEV week demo
-  * due Tuesday 29th October 2019 @ 7pm
+  * due Monday 16th March 2020 @ 4.15pm
 * final team demo
-  * due Tuesday 3rd December 2019 @ 7pm
+  * due Monday 20th April 2020 @ 4.15pm
 * final team report
-  * due Tuesday 10th December 2019 @ 7pm
+  * due Monday 27th April 2020

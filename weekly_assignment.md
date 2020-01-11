@@ -183,7 +183,7 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
-
+<!-- 
 #### Week 15 - 3rd December 2019
 
 * Please complete your group's final project report
@@ -595,4 +595,6 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->
+
+##### Week 1 - 13th January 2020

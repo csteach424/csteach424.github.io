@@ -12,7 +12,7 @@ published: true
 summary: assignments and coursework for COMP 324/424
 ---
 
-This page will be updated each week during the Fall semester with assignments, coursework, reading suggestions &c.
+This page will be updated each week during the semester with assignments, coursework, reading suggestions &c.
 
 #### Coursework Overview
 

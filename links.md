@@ -24,6 +24,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Links will be added during the course...
 
+<!-- 
 #### Articles & Papers
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014.[http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
@@ -181,7 +182,7 @@ NB: there are many other options available, simply search online for [css framew
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html) -->
 
 
 ***
