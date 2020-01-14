@@ -546,18 +546,19 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 1 - 27th August 2019
+##### Week 1 - 13th January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra documents
-  * [Git basics](/assets/docs/extras/git-basics.pdf)
-  * [HTML - Intro](/assets/docs/extras/2019/html/html-intro.pdf)
-  * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
+  * [Git basics](/assets/docs/extras/2020/various/git-basics.pdf)
+  * [HTML - Intro](/assets/docs/extras/2020/html/html-intro.pdf)
+  * [HTML - DOM Intro](/assets/docs/extras/2020/html/html-dom-intro.pdf)
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 1](https://github.com/csteach424/source/tree/master/week1)
 * Please review the following tutorial video on Git usage,
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
-* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/2gepsyfx/week-1-project-details)
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/vKqmRDdp/week-1-project-details)
   * project name
   * the full name of each team member (or preferred name)
   * any ideas you are currently considering for this project work
@@ -568,7 +569,7 @@ Please read the instructions available on the board, and then create a new list 
 ##### Trello group
 I've now created a Trello group for this course, which is available at the following URL,
 
-  * [COMP 324/424 - Fall 2019 @ LUC](https://trello.com/csteach424)
+  * [COMP 324/424 - Spring 2020 @ LUC](https://trello.com/csteach424)
 
 I'll send an invite to this group to each student's LUC email address.
 
@@ -577,7 +578,7 @@ If you do not currently have a Trello username, you'll need to register at the f
   * Trello - [Signup](https://trello.com/signup)
 
 ##### Slack group
-I've also created a Slack group for this course, which is called **COMP 324/424 - Fall 2019 @ LUC**.
+I've also created a Slack group for this course, which is called **COMP 324/424 - Spring 2020 @ LUC**.
 
 I'll send an invite to this group to each student's LUC email address.
 
@@ -595,6 +596,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 
 Any questions, please let me know.
 
-Enjoy your week. -->
-
-##### Week 1 - 13th January 2020
+Enjoy your week.

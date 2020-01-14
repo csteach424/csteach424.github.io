@@ -152,18 +152,16 @@ This material will be updated on a weekly basis.
 
 ##### Week 2 - 3rd September 2019
   * [course](/assets/docs/2019/fall/comp424-week2.pdf)
-  * extras - HTML
-    * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
   * extras - HTML5
     * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
     * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
+-->
 
-##### Week 1 - 27th August 2019
-  * [course](/assets/docs/2019/fall/comp424-week1.pdf)
+##### Week 1 - 13th January 2020
+  * [course](/assets/docs/2020/spring/comp424-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
   * extras - HTML
     * [HTML - Intro](/assets/docs/extras/2019/html/html-intro.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf) -->
-
-##### Week 1 - 13th January 2020
+    * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
+    * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
