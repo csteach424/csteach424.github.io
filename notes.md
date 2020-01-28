@@ -139,29 +139,36 @@ This material will be updated on a weekly basis.
 
 ##### Week 3 - 10th September 2019
   * [course](/assets/docs/2019/fall/comp424-week3.pdf)
-  * extras - HTML5 Canvas
-	  * [HTML5 Canvas - drawing](/assets/docs/extras/2019/canvas/canvas-drawing.pdf)
-	  * [HTML5 Canvas - interaction](/assets/docs/extras/2019/canvas/canvas-interaction.pdf)
   * extras - CSS
-    * [CSS - Intro](/assets/docs/extras/2019/css/css-intro.pdf)
     * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
-    * [CSS - Box Model](/assets/docs/extras/2019/css/css-box-model.pdf)
     * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
   * extras - Design
     * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
-
-##### Week 2 - 3rd September 2019
-  * [course](/assets/docs/2019/fall/comp424-week2.pdf)
-  * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
 -->
+
+##### Week 3 - 27th January 2020
+  * [course](/assets/docs/2020/spring/comp424-week3.pdf)
+  * extras - CSS
+    * [CSS - Intro](/assets/docs/extras/2020/css/css-intro.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2020/css/css-box-model.pdf)
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2020/design/design-mockups.pdf)
+  * extras - HTML5
+    * [HTML5 - Intro](/assets/docs/extras/2020/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2020/html5/html5-extra.pdf)
+  * extras - HTML5 Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2020/canvas/canvas-drawing.pdf)
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2020/canvas/canvas-interaction.pdf)
+
+##### Week 2 - 20th January 2020
+
+* N/A
 
 ##### Week 1 - 13th January 2020
   * [course](/assets/docs/2020/spring/comp424-week1.pdf)
   * extras
     * [Git basics](/assets/docs/extras/git-basics.pdf)
   * extras - HTML
-    * [HTML - Intro](/assets/docs/extras/2019/html/html-intro.pdf)
-    * [HTML - DOM Intro](/assets/docs/extras/2019/html/html-dom-intro.pdf)
-    * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
+    * [HTML - Intro](/assets/docs/extras/2020/html/html-intro.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2020/html/html-dom-intro.pdf)
+    * [HTML - Basics](/assets/docs/extras/2020/html/html-basics.pdf)

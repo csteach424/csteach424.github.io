@@ -514,8 +514,6 @@ Enjoy your week.
     * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
     * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
     * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
-  * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
@@ -523,30 +521,40 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 2 - 3rd September 2019
+##### Week 3 - 27th January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the extra documents
-  * extras - HTML
-    * [HTML - Basics](/assets/docs/extras/2019/html/html-basics.pdf)
+  * extras - CSS
+    * [CSS - Intro](/assets/docs/extras/2020/css/css-intro.pdf)
+    * [CSS - Box Model](/assets/docs/extras/2020/css/css-box-model.pdf)
+  * extras - Design
+    * [Design - Mockups](/assets/docs/extras/2020/design/design-mockups.pdf)
   * extras - HTML5
-    * [HTML5 - Intro](/assets/docs/extras/2019/html5/html5-intro.pdf)
-    * [HTML5 - Extra](/assets/docs/extras/2019/html5/html5-extra.pdf)
+    * [HTML5 - Intro](/assets/docs/extras/2020/html5/html5-intro.pdf)
+    * [HTML5 - Extra](/assets/docs/extras/2020/html5/html5-extra.pdf)
+  * extras - HTML5 Canvas
+	  * [HTML5 Canvas - drawing](/assets/docs/extras/2020/canvas/canvas-drawing.pdf)
+	  * [HTML5 Canvas - interaction](/assets/docs/extras/2020/canvas/canvas-interaction.pdf)
 * Review the various code examples posted to the **source** repository on the course's GitHub account,
-  * [Source - Week 2](https://github.com/csteach424/source/tree/master/week2)
+  * [Source - Week 3](https://github.com/csteach424/source/tree/master/week3)
 * Please ensure you've added your project details and information to the board **Week 1 - Project Details** on the course's Trello group,
-  * [Week 1 - Project Details](https://trello.com/b/2gepsyfx/week-1-project-details)
+  * [Week 1 - Project Details](https://trello.com/b/vKqmRDdp/week-1-project-details))
 * Please create a GitHub account for your project group
   * create a new repository for `source` code & any other project material or notes
   * add the GitHub details for your project to the appropriate group list on Trello,
-    * [Week 1 - Project Details](https://trello.com/b/2gepsyfx/week-1-project-details)
+    * [Week 1 - Project Details](https://trello.com/b/vKqmRDdp/week-1-project-details))
   * review the [GitHub Guides](https://guides.github.com/), including
     * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
+
+##### Week 2 - 20th January 2020
+
+* N/A
 
 ##### Week 1 - 13th January 2020
 

@@ -133,8 +133,9 @@ There is no specific textbook for this course.
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+-->
 
-##### Week 2 - 3rd September 2019
+##### Week 3 - 27th January 2020
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [MDN - Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
   * [MDN - Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
@@ -143,7 +144,10 @@ There is no specific textbook for this course.
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3 Schools - HTML5](https://www.w3schools.com/html/default.asp)
--->
+
+##### Week 2 - 20th January 2020
+
+* N/A
 
 ##### Week 1 - 13th January 2020
 
