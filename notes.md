@@ -116,6 +116,8 @@ This material will be updated on a weekly basis.
 
 ##### Week 6 - 1st October 2019
   * [course](/assets/docs/2019/fall/comp424-week6.pdf)
+  * extras - css
+    * [CSS - Flexbox](/assets/docs/extras/2020/css/css-flexbox-guide.pdf)
   * extras - design
     * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
   * extras - JS
@@ -126,25 +128,18 @@ This material will be updated on a weekly basis.
 ##### Week 5 - 24th September 2019
 
   * N/A - Presentations
-
-##### Week 4 - 17th September 2019
-  * [course](/assets/docs/2019/fall/comp424-week4.pdf)
-  * extras - CSS
-    * [CSS - Common grid layouts](/assets/docs/extras/2019/css/css-grid-common-layouts.pdf)
-    * [CSS - Flexbox](/assets/docs/extras/2019/css/css-flexbox-guide.pdf)
-    * [CSS - Grid Basics](/assets/docs/extras/2019/css/css-grid.pdf)
-    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2019/css/mdn-css-grid-basics.pdf)
-  * extras - Design
-    * [design and interface](/assets/docs/extras/2019/design/design-interface-intro.pdf)
-
-##### Week 3 - 10th September 2019
-  * [course](/assets/docs/2019/fall/comp424-week3.pdf)
-  * extras - CSS
-    * [CSS - Basics](/assets/docs/extras/2019/css/css-basics.pdf)
-    * [CSS - HTML5](/assets/docs/extras/2019/css/css-html5.pdf)
-  * extras - Design
-    * [Design - Mockups](/assets/docs/extras/2019/design/design-mockups.pdf)
 -->
+
+##### Week 4 - 3rd February 2020
+  * [course](/assets/docs/2020/spring/comp424-week4.pdf)
+  * extras - CSS
+    * [CSS - Basics](/assets/docs/extras/2020/css/css-basics.pdf)
+    * [CSS - Common grid layouts](/assets/docs/extras/2020/css/css-grid-common-layouts.pdf)
+    * [CSS - Grid Basics](/assets/docs/extras/2020/css/css-grid.pdf)
+    * [CSS - HTML5](/assets/docs/extras/2020/css/css-html5.pdf)
+    * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2020/css/mdn-css-grid-basics.pdf)
+  * extras - Design
+    * [design and interface](/assets/docs/extras/2020/design/design-interface-intro.pdf)
 
 ##### Week 3 - 27th January 2020
   * [course](/assets/docs/2020/spring/comp424-week3.pdf)

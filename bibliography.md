@@ -109,31 +109,28 @@ There is no specific textbook for this course.
 
 ##### Week 6 - 1st October 2019
 
+  * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [MDN - JS Data Types and Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - JS Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
+  * [W3 Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ##### Week 5 - 24th September 2019
 
   * N/A - Presentations
+-->
 
-##### Week 4 - 17th September 2019
-
-  * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-  * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
-  * [W3 Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
-
-##### Week 3 - 10th September 2019
+##### Week 4 - 3rd February 2020
 
   * [Google Web Fonts](https://fonts.google.com/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * [MDN - CSS3 Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
--->
+  * [W3 Schools - CSS Grid View](https://www.w3schools.com/css/css_rwd_grid.asp)
 
 ##### Week 3 - 27th January 2020
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
