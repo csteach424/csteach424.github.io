@@ -117,11 +117,11 @@ There is no specific textbook for this course.
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
   * [W3 Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+-->
 
-##### Week 5 - 24th September 2019
+##### Week 5 - 10th February 2020
 
   * N/A - Presentations
--->
 
 ##### Week 4 - 3rd February 2020
 

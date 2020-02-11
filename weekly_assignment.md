@@ -440,36 +440,36 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 5 - 24th September 2019
+#### Week 5 - 10th February 2020
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Math Trade HQ](https://forms.gle/QY9coDeZR2PpBvTM8)
-  * [Group 2 - Trauma Toolkit](https://forms.gle/TUmEC6QkvA2ks2jdA)
-  * [Group 3 - Sports News](https://forms.gle/b2asu4bCsv5FKQEu8)
-  * [Group 4 - Tea Time](https://forms.gle/QxEB17UQswSHDQbp9)
-  * [Group 5 - Machine Learning Trip Planner](https://forms.gle/xHhjiHAX9nWxo1RAA)
-  * [Group 6 - Beginner Fisherman](https://forms.gle/oKCTm28vWcn2rDH19)
-  * [Group 7 - Chicago Crime Analysis](https://forms.gle/vrYgKow1zbPxyPFW6)
-  * [Group 8 - Photo Market](https://forms.gle/fva2p151hWdUmLgC7)
-  * [Group 9 - Language Learning Resource](https://forms.gle/BZk92jYf8RgPqXs39)
-  * [Group 10 - Lowkey](https://forms.gle/zt5GB68cC5imj3dd7)
-  * [Group 11 - Project Submission Portal](https://forms.gle/6X4vetqWyRZmD71o6)
-  * [Group 12 - Assess Loan](https://forms.gle/xYk8sTTPKyEBE6gx9)
-  * [Group 13 - Day Pass Now](https://forms.gle/2YNDz8npy4xBvezm8)
-  * [Group 14 - Buds, Beer, and Beagles](https://forms.gle/pr9nsDrs9yJmRUjg8)
-* Complete these peer review forms by **Tuesday 1st October 2019** at the latest
+  * [Group 1 - Social Stuff](https://forms.gle/G3to2YZLMQkJWtGNA)
+  * [Group 2 - Diving Deep](https://forms.gle/3nGttdLa3BitT3he9)
+  * [Group 3 - Sushi Cat](https://forms.gle/rBdJTJ1Eg2wHSuvg6)
+  * [Group 4 - Free Blackjack](https://forms.gle/wmycDukje7PwXX9h6)
+  * [Group 5 - Character Cache](https://forms.gle/WNRCoPgViwv4eNGi8)
+  * [Group 6 - Wreck the Website](https://forms.gle/bhF8SsTx71J1tinP7)
+  * [Group 7 - Home Plate](https://forms.gle/d7BUDWbPCj1PQ3D98)
+  * [Group 8 - Lucky Duck](https://forms.gle/QVQiDSsjf4PMfgrv9)
+  * [Group 9 - Class Resources](https://forms.gle/xSpGAbnVAsYPRcN26)
+  * [Group 10 - Bel Cantos](https://forms.gle/HZfLPKHPj2iwLy9s8)
+  * [Group 11 - Nutritional Calculator](https://forms.gle/BEQoHGvEbX8GsegG8)
+  * [Group 12 - Portfolio](https://forms.gle/YSv3sA2U5RFxwRbi6)
+  <!-- * [Group 13 - ](https://forms.gle/uyaCvj33tkszGZ6E7) -->
+* Complete these peer review forms by **Monday 17th February 2020** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
 * You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
 * Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/UiCR4ZfD/week-5-presentation-files)
-  * Please add these files as soon as possible, and by **Tuesday 1st October 2019** at the latest
+  * [Week 5 - Presentation Files](https://trello.com/b/rXJgCEPm/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Monday 17th February 2020** at the latest
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/EygQE5kE/week-5-project-contributions)
+  * [Week 5 - Project Contributions](https://trello.com/b/LpAX8Jj8/week-5-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Tuesday 1st October 2019** at the latest
+  * please complete this requirement by **Monday 17th February 2020** at the latest
 * Please contribute to this week's class discussion on the course's Slack group, channel **#discussion-week5**, for the website, [Lego](https://www.lego.com/en-us)
   * consider organisation of content
   * general consistency of design, colours, interaction options
@@ -479,7 +479,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 4 - 3rd February 2020
 

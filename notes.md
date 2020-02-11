@@ -124,11 +124,11 @@ This material will be updated on a weekly basis.
     * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
     * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
     * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
+-->
 
-##### Week 5 - 24th September 2019
+##### Week 5 - 10th February 2020
 
   * N/A - Presentations
--->
 
 ##### Week 4 - 3rd February 2020
   * [course](/assets/docs/2020/spring/comp424-week4.pdf)
