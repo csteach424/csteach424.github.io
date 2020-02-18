@@ -106,8 +106,9 @@ There is no specific textbook for this course.
   * [MDN - JS Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [MDN - JS `this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+-->
 
-##### Week 6 - 1st October 2019
+##### Week 6 - 17th February 2020
 
   * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
@@ -117,7 +118,6 @@ There is no specific textbook for this course.
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
   * [W3 Schools - CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
--->
 
 ##### Week 5 - 10th February 2020
 

@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/indices/categories/index</loc>
-<lastmod>2020-02-10T21:11:39-06:00</lastmod>
+<lastmod>2020-02-17T20:47:54-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/index</loc>
-<lastmod>2020-02-10T21:11:39-06:00</lastmod>
+<lastmod>2020-02-17T20:47:54-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/posts/index</loc>
-<lastmod>2020-02-10T21:11:39-06:00</lastmod>
+<lastmod>2020-02-17T20:47:54-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/tags/index</loc>
-<lastmod>2020-02-10T21:11:39-06:00</lastmod>
+<lastmod>2020-02-17T20:47:54-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/new-semester</loc>
@@ -35,6 +35,10 @@
 <url>
 <loc>http://localhost:4000/blog/week-5-update</loc>
 <lastmod>2020-02-10T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-6-update</loc>
+<lastmod>2020-02-17T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -452,6 +456,10 @@
 <url>
 <loc>http://localhost:4000/assets/docs/2020/spring/comp424-week4.pdf</loc>
 <lastmod>2020-02-03T20:38:52-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2020/spring/comp424-week6.pdf</loc>
+<lastmod>2020-02-17T20:39:38-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/extras/2016/Comp424-mockups.pdf</loc>

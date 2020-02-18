@@ -417,17 +417,19 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 6 - 1st October 2019
+#### Week 6 - 17th February 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,
-  * [CSS - Flexbox](/assets/docs/extras/2020/css/css-flexbox-guide.pdf)
+  * extras - CSS
+    * [CSS - Flexbox](/assets/docs/extras/2020/css/css-flexbox-guide.pdf)
   * extras - design
-    * [designing our app](/assets/docs/extras/2019/design/design-our-app.pdf)
+    * [designing our app](/assets/docs/extras/2020/design/design-our-app.pdf)
   * extras - JS
-    * [JS - intro](/assets/docs/extras/2019/js/js-intro.pdf)
-    * [JS - core](/assets/docs/extras/2019/js/js-core.pdf)
-    * [JS - logic](/assets/docs/extras/2019/js/js-logic.pdf)
+    * [JS - intro](/assets/docs/extras/2020/js/js-intro.pdf)
+    * [JS - core](/assets/docs/extras/2020/js/js-core.pdf)
+    * [JS - logic](/assets/docs/extras/2020/js/js-logic.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 6](https://github.com/csteach424/source/tree/master/week6)
@@ -440,7 +442,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 5 - 10th February 2020
 

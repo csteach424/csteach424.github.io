@@ -38,6 +38,7 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
   * [MDN - CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
@@ -51,6 +52,7 @@ Links will be added during the course...
   * [MDN - HTML Document & Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
@@ -71,9 +73,8 @@ Links will be added during the course...
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
   * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
   * 
-  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
   * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
@@ -131,19 +132,21 @@ NB: there are many other options available, simply search online for [css framew
 
   * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
+  * [Git](http://git-scm.com/)
+    * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google Web Fonts](https://fonts.google.com/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
+  * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 <!--
   * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Git](http://git-scm.com/)
-    * [Pro Git](http://git-scm.com/book/en/v2)
+  * 
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Grunt](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
+  * 
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/) -->
 
@@ -158,11 +161,15 @@ NB: there are many other options available, simply search online for [css framew
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Layout and composition - [YouTube](https://youtu.be/a5KYlHNKQB8)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+  * [Example Responsive UI Designs - YouTube](https://www.youtube.com/watch?v=2mKvjEdvtNE)
   * Google Prototyping Series
 	  * Paper Prototyping - [YouTube](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+  * [JavaScript - Overview of Strict Mode - YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
+  * [JavaScript - Scope and variables - YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Layout and Composition - [YouTube](https://www.youtube.com/watch?v=7YcVzUY-A78)
+  * Modular UI Design - YouTube](https://www.youtube.com/watch?v=agPAklO7slY)
   * Typography 10 Rules... - [YouTube](https://youtu.be/QrNi9FmdlxY)
   * Using Flexbox and CSS Grid Together - [YouTube](https://youtu.be/dQHtT47eH0M)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
@@ -175,6 +182,7 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -189,7 +197,7 @@ NB: there are many other options available, simply search online for [css framew
   * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
   * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * 
   * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 -->
