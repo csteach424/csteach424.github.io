@@ -38,6 +38,7 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - CSS Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
@@ -72,7 +73,7 @@ Links will be added during the course...
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
-  * [jQuery API](https://api.jquery.com/)
+  * 
   * 
 
   * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
@@ -97,22 +98,32 @@ Links will be added during the course...
   * [Webpack - JS bundler](https://webpack.js.org/)
  -->
 
-<!-- #### Frameworks & Libraries - CSS, JS... (a few examples)
+#### Frameworks & Libraries - CSS, JS... (a few examples)
 
-  * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
-  * [D3](http://d3js.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
   * jQuery
     * [jQuery](https://jquery.com/)
     * [jQuery UI](http://jqueryui.com/)
-  * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
-  * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
 
-NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite. -->
+NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
+
+<!-->
+  * [AngularJS](https://angularjs.org/)
+  
+  * [D3](http://d3js.org/)
+  * 
+  * 
+  * 
+  * [Node.js](https://nodejs.org/en/)
+  * 
+  * [React](http://facebook.github.io/react/)
+  * 
+
+ -->
 
 
 #### Mockup & Prototype Tools - a few examples
@@ -182,7 +193,12 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Websites
 
+  * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
+  * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * [JS Info - DOM Nodes](https://javascript.info/dom-nodes)
+  * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -194,12 +210,6 @@ NB: there are many other options available, simply search online for [css framew
 
 <!--
    * [A List Apart - For People Who Make Websites](http://alistapart.com/)
-  * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
-  * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * 
-  * [Microsoft - Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
-  * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
 -->
 
 <!-- #### Extras

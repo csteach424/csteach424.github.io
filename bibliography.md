@@ -96,8 +96,9 @@ There is no specific textbook for this course.
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
+-->
 
-##### Week 8 - 15th October 2019
+##### Week 7 - 24th February 2020
 
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
   * [jQuery](https://jQuery.com/)
@@ -106,7 +107,6 @@ There is no specific textbook for this course.
   * [MDN - JS Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [MDN - JS `this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
--->
 
 ##### Week 6 - 17th February 2020
 

@@ -88,7 +88,7 @@ This material will be updated on a weekly basis.
   * extras - JS
 	  * [JS - Generators and Promises](/assets/docs/extras/2019/js/js-generators-promises.pdf)
 	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
-  * extras - various
+  * extras - Web development - general
 	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
 
 ##### Week 10 - 29th October 2019
@@ -103,17 +103,17 @@ This material will be updated on a weekly basis.
   * extras - various
     * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
     * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
-
-##### Week 8 - 15th October 2019
-  * [course](/assets/docs/2019/fall/comp424-week8.pdf)
-  * extras - design
-	  * [design and UI](/assets/docs/extras/2019/design/design-interface-intro.pdf)
-  * extras - JS
-    * [JS - json](/assets/docs/extras/2019/js/js-json.pdf)
-  * extras - Web development - general
-    * [Basic geolocation](/assets/docs/extras/2019/web-general/basic/notes-basic-geolocation.pdf)
-    * [Basic timestamps](/assets/docs/extras/2019/web-general/basic/notes-basic-timestamps.pdf)
 -->
+
+##### Week 7 - 24th February 2020
+  * [course](/assets/docs/2020/spring/comp424-week7.pdf)
+  * extras - design
+	  * [design and UI](/assets/docs/extras/2020/design/design-interface-intro.pdf)
+  * extras - JS
+    * [JS - json](/assets/docs/extras/2020/js/js-json.pdf)
+  * extras - Web development - general
+    * [Basic geolocation](/assets/docs/extras/2020/web-general/basic/notes-basic-geolocation.pdf)
+    * [Basic timestamps](/assets/docs/extras/2020/web-general/basic/notes-basic-timestamps.pdf)
 
 ##### Week 6 - 17th February 2020
   * [course](/assets/docs/2020/spring/comp424-week6.pdf)
