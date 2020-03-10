@@ -177,7 +177,7 @@ NB: there are many other options available, simply search online for [css framew
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Layout and Composition - [YouTube](https://www.youtube.com/watch?v=7YcVzUY-A78)
-  * Modular UI Design - YouTube](https://www.youtube.com/watch?v=agPAklO7slY)
+  * Modular UI Design - [YouTube](https://www.youtube.com/watch?v=agPAklO7slY)
   * Typography 10 Rules... - [YouTube](https://youtu.be/QrNi9FmdlxY)
   * UI Design - White space or Negative Space - [YouTube](https://www.youtube.com/watch?v=A0Ev_4zto4Y)
   * Using Flexbox and CSS Grid Together - [YouTube](https://youtu.be/dQHtT47eH0M)
