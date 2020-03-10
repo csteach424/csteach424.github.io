@@ -54,6 +54,7 @@ Links will be added during the course...
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
@@ -83,12 +84,8 @@ Links will be added during the course...
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
--->
 
-<!-- * Various - Tools
-  * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
-  * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -155,7 +152,7 @@ NB: there are many other options available, simply search online for [css framew
   * [Chocolatey for Windows](https://chocolatey.org/)
   * 
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-  * [Grunt](https://gruntjs.com/)
+  * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * 
   * [Travis CI](https://travis-ci.org/)
@@ -172,18 +169,21 @@ NB: there are many other options available, simply search online for [css framew
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Layout and composition - [YouTube](https://youtu.be/a5KYlHNKQB8)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
-  * [Example Responsive UI Designs - YouTube](https://www.youtube.com/watch?v=2mKvjEdvtNE)
+  * CSS Display and Visibility - [YouTube](https://www.youtube.com/watch?v=gVt4qcfNLto)
+  * Example Responsive UI Designs - [YouTube](https://www.youtube.com/watch?v=2mKvjEdvtNE)
   * Google Prototyping Series
 	  * Paper Prototyping - [YouTube](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
-  * [JavaScript - Overview of Strict Mode - YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
-  * [JavaScript - Scope and variables - YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
+  * JavaScript - Overview of Strict Mode - [YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
+  * JavaScript - Scope and variables - [YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Layout and Composition - [YouTube](https://www.youtube.com/watch?v=7YcVzUY-A78)
   * Modular UI Design - YouTube](https://www.youtube.com/watch?v=agPAklO7slY)
   * Typography 10 Rules... - [YouTube](https://youtu.be/QrNi9FmdlxY)
+  * UI Design - White space or Negative Space - [YouTube](https://www.youtube.com/watch?v=A0Ev_4zto4Y)
   * Using Flexbox and CSS Grid Together - [YouTube](https://youtu.be/dQHtT47eH0M)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+  * What is AJAX? - [YouTube](https://www.youtube.com/watch?v=3l13qGLTgNw)
 
 <!--
   * Google Prototyping Series

@@ -89,14 +89,18 @@ There is no specific textbook for this course.
 ##### Week 10 - 29th October 2019
 
   * N/A - Presentations
+-->
 
-##### Week 9 - 22nd October 2019
+##### Week 9 - 9th March 2020
 
   * [jQuery API](https://api.jquery.com/)
   * [jQuery - deferred ](https://api.jquery.com/jquery.deferred/)
   * [jQuery - .getJSON()](http://api.jQuery.com/jQuery.getjson/)
   * [jQuery - JSONP](https://learn.jquery.com/ajax/working-with-jsonp/)
--->
+
+##### Week 8 - 2nd March 2020
+
+  * N/A - Spring Break
 
 ##### Week 7 - 24th February 2020
 

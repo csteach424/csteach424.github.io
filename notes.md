@@ -94,16 +94,20 @@ This material will be updated on a weekly basis.
 ##### Week 10 - 29th October 2019
 
   * N/A - Presentations
-
-##### Week 9 - 22nd October 2019
-  * [course](/assets/docs/2019/fall/comp424-week9.pdf)
-  * extras - data stores
-	  * [Firebase - authentication](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-auth-guide.pdf)
-	  * [Firebase - setup & usage](/assets/docs/extras/2019/data-stores/firebase/ds-firebase-guide.pdf)
-  * extras - various
-    * [JS - Google APIs Overview](/assets/docs/extras/2019/various/google-apis-overview.pdf)
-    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2019/various/oauth-google-api.pdf)
 -->
+
+##### Week 9 - 9th March 2020
+  * [course](/assets/docs/2020/spring/comp424-week9.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
+  * extras - various
+    * [JS - Google APIs Overview](/assets/docs/extras/2020/various/google-apis-overview.pdf)
+    * [JS - OAuth 2.0 with Google APIs](/assets/docs/extras/2020/various/oauth-google-api.pdf)
+
+##### Week 8 - 2nd March 2020
+
+  * N/A - Spring Break
 
 ##### Week 7 - 24th February 2020
   * [course](/assets/docs/2020/spring/comp424-week7.pdf)
