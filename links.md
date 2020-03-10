@@ -108,7 +108,7 @@ Links will be added during the course...
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
 
-<!-->
+<!--
   * [AngularJS](https://angularjs.org/)
   
   * [D3](http://d3js.org/)
@@ -119,7 +119,6 @@ NB: there are many other options available, simply search online for [css framew
   * 
   * [React](http://facebook.github.io/react/)
   * 
-
  -->
 
 
