@@ -54,6 +54,8 @@ Links will be added during the course...
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
@@ -81,11 +83,8 @@ Links will be added during the course...
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-
-  * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
@@ -172,6 +171,7 @@ NB: there are many other options available, simply search online for [css framew
   * Example Responsive UI Designs - [YouTube](https://www.youtube.com/watch?v=2mKvjEdvtNE)
   * Google Prototyping Series
 	  * Paper Prototyping - [YouTube](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+	  * Digital Prototyping - [YouTube]](https://www.youtube.com/watch?v=KWGBGTGryFk)
   * JavaScript - Overview of Strict Mode - [YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
   * JavaScript - Scope and variables - [YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
@@ -186,7 +186,6 @@ NB: there are many other options available, simply search online for [css framew
 
 <!--
   * Google Prototyping Series
-	  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
 	  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) 
 -->
 

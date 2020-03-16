@@ -80,16 +80,15 @@ There is no specific textbook for this course.
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
+-->
+
+##### Week 10 - 16th March 2020
+
   * [MDN - JS - Async & Await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [W3 - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3 Selector API](http://www.w3.org/TR/selectors-api/)
-
-##### Week 10 - 29th October 2019
-
-  * N/A - Presentations
--->
 
 ##### Week 9 - 9th March 2020
 

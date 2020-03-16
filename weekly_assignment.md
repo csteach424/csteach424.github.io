@@ -374,6 +374,29 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+#### Week 10 - 16th March 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
+  * extras - design
+	  * [design and information architecture](/assets/docs/extras/2020/design/design-information-architecture.pdf)
+  * extras - JS
+	  * [JS - Generators and Promises](/assets/docs/extras/2020/js/js-generators-promises.pdf)
+* Please continue to prepare your DEV Week group project and demonstration for **Monday 23rd March 2020**
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/gSsB8d6W/week-10-presentation-dev-files)
+  * Please add these files by **Monday 23rd March 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/tOmuUFfj/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Monday 23rd March 2020** at the latest
+
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 9th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
@@ -392,8 +415,6 @@ Enjoy your week.
   * details are also available in the [Coursework](/coursework/#assessment3) section of this site
 * Please add updates on your group's project development to the course's Trello group,
   * [Week 9 - DEV Week prep](https://trello.com/b/sLxEUvOD/week-9-dev-week-prep)
-
-**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
 
 Any questions, please let me know.
 
