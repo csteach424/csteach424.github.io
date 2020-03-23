@@ -74,13 +74,13 @@ There is no specific textbook for this course.
     * [redis.io](http://redis.io/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
+-->
 
-##### Week 11 - 5th November 2019
+##### Week 11 - 23rd March 2020
 
   * [Create your own AJAX loader](http://www.ajaxload.info/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
--->
 
 ##### Week 10 - 16th March 2020
 

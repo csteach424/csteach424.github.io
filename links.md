@@ -38,6 +38,8 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
+  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
   * [JSON](http://www.json.org/)
   * [MDN - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -70,8 +72,6 @@ Links will be added during the course...
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
   * [ExpressJS](http://expressjs.com/)
-  * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
-  * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [Firebase](https://firebase.google.com/)
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)

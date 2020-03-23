@@ -315,22 +315,46 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 11 - 5th November 2019
+-->
 
-* Review this week's [notes and material](/notes), which includes the following extra documents,
-  * extras - design
-	  * [design and information architecture](/assets/docs/extras/2019/design/design-information-architecture.pdf)
+#### Week 11 - 23rd March 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - JS
-	  * [JS - Generators and Promises](/assets/docs/extras/2019/js/js-generators-promises.pdf)
-	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
-  * extras - various
-	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
+	  * [JS - Working with the DOM](/assets/docs/extras/2020/web-general/dom/notes-js-dom.pdf)
+  * extras - Web development - general
+	  * [UI concept - autoscroll](/assets/docs/extras/2020/web-general/basic/notes-basic-autoscroll.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 11](https://github.com/csteach424/source/tree/master/week11)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Character Cache](https://forms.gle/t6R8kkFTrgAUjDR79)
+  * [Group 2 - Class Connect](https://forms.gle/g1JYobzXyyMgHZyH6)
+  * [Group 3 - Course Reviewer](https://forms.gle/y8bHDgwxK51abqZy7)
+  * [Group 4 - Diving Deep](https://forms.gle/K1kVLHD6riDkTsrV8)
+  * [Group 5 - FreeJack - Blackjack](https://forms.gle/b9su7NbG5CZEVuca7)
+  * [Group 6 - Home Plate](https://forms.gle/jgcpecbuDNvbVHtX8)
+  * [Group 7 - Lucky Duck](https://forms.gle/HJdpHfgG1RFFH9QN7)
+  * [Group 8 - My Port](https://forms.gle/z2F3fQ1Low5uaLeUA)
+  * [Group 9 - Nutritional Calculator](https://forms.gle/1HMw5qFTz4sMxZJ88)
+  * [Group 10 - Portfolio](https://forms.gle/rsNea1LKnnJzvmpx5)
+  * [Group 11 - See the Impact](https://forms.gle/fZmUjNVhyaqoYs239)
+  * [Group 12 - Sushi Cat](https://forms.gle/cz7C7viW2Gu6PyvDA)
+  * [Group 13 - Wreck the Website](https://forms.gle/EXoixwUorkTjRLDbA)
+* Complete these peer review forms by **Monday 30th March 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week11-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/gSsB8d6W/week-10-presentation-dev-files)
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/tOmuUFfj/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please ensure you've now added your contribution details to this board
 * Please contribute to this week's class discussion on the Slack channel, **#discussion-week11**, for the website, [Werner Design Werks](http://wdw.com/)
-  * consider overall aesthetics for the website, including use of typography, images...
+  * consider overall aesthetics for the website, including use of typography, images &c...
   * consider organisation and presentation of data
   * consider website's design as a reflection of its goals
     * e.g. how is the content influencing the site's design, organisation, and general layout
@@ -340,39 +364,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 10 - 29th October 2019
-
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Project Submission Portal](https://forms.gle/AAZKoCWqDMzXn4nM7)
-  * [Group 2 - Day Pass Now](https://forms.gle/oqLdXtuMxYoCk42w5)
-  * [Group 3 - Assess Loan](https://forms.gle/tVzW9R4dMjyufCNCA)
-  * [Group 4 - LowKey](https://forms.gle/tiErmzfFBEhsCRz46)
-  * [Group 5 - Chicago Crime Analysis](https://forms.gle/y5ij8poSVr3SuoUx7)
-  * [Group 6 - Beginner Fisherman](https://forms.gle/KtdJ3potNnuDs1VJ8)
-  * [Group 7 - Machine Learning Trip Planner](https://forms.gle/NXHemB9Fi5r1vdTm7)
-  * [Group 8 - Tea Time](https://forms.gle/RMTMVEgmhoTowTCk7)
-  * [Group 9 - Sports News](https://forms.gle/BgQd5iDztorpEUvL8)
-  * [Group 10 - Trauma Toolkit](https://forms.gle/PDQtXipHtwBY7kJY9)
-  * [Group 11 - Math Trade HQ](https://forms.gle/59tv3FJtNw4XP2tT7)
-  * [Group 12 - Photo Market](https://forms.gle/uchGACyhS93b73MB9)
-* Complete these peer review forms by **Tuesday 5th November 2019** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-  * do **NOT** complete a review for your own group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation & Dev Files](https://trello.com/b/orjlRQTu/week-10-presentation-dev-files)
-  * Please add these files as soon as possible, and by **Tuesday 5th November 2019** at the latest
-  * instructions are included as a list on the above board
-* Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/MTV8v0TF/week-10-project-contributions)
-  * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Tuesday 5th November 2019** at the latest
-
-Any questions, please let me know.
-
-Enjoy your week.
--->
 
 #### Week 10 - 16th March 2020
 

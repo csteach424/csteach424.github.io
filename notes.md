@@ -80,14 +80,15 @@ This material will be updated on a weekly basis.
     * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
     * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
     * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
-
-##### Week 11 - 5th November 2019
-  * [course](/assets/docs/2019/fall/comp424-week11.pdf)
-  * extras - JS
-	  * [JS - Working with the DOM](/assets/docs/extras/2019/web-general/dom/notes-js-dom.pdf)
-  * extras - Web development - general
-	  * [UI concept - autoscroll](/assets/docs/extras/2019/web-general/basic/notes-basic-autoscroll.pdf)
 -->
+
+##### Week 11 - 23rd March 2020
+
+  * [course](/assets/docs/2020/spring/comp424-week11.pdf)
+  * extras - JS
+	  * [JS - Working with the DOM](/assets/docs/extras/2020/web-general/dom/notes-js-dom.pdf)
+  * extras - Web development - general
+	  * [UI concept - autoscroll](/assets/docs/extras/2020/web-general/basic/notes-basic-autoscroll.pdf)
 
 ##### Week 10 - 16th March 2020
 
