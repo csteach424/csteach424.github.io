@@ -17,6 +17,7 @@ Course notes and material will be added to this page during the semester.
 This material will be updated on a weekly basis.
 
 ***
+
 <!-- 
 ##### Week 15 - 3rd December 2019
   * extras - Final Report Outline
@@ -38,49 +39,56 @@ This material will be updated on a weekly basis.
     * [Pub/Sub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
   * extras - Systems Management
 	  * [Grunt - Project Outline](/assets/docs/extras/2019/systems-mgmt/grunt-project-outline.pdf)
+ * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
 
 ##### Week 13 - 19th November 2019
   * [course](/assets/docs/2019/fall/comp424-week13.pdf)
   * extras - JS
     * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
-  * extras - Heroku & MongoDB setup
-    * [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
-  * extras - Node.js
-    * [Node.js updating](/assets/docs/extras/2019/node/update-nodejs.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2019/node/nodejs-mongo-outline.pdf)
-  * extras - Node.js API
-    * [Heroku & Postman](/assets/docs/extras/2019/node-api-todos/heroku-mongo-postman.pdf)
-    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2019/node-api-todos/mongodb-native-driver-api.pdf)
-    * [Node Todos API](/assets/docs/extras/2019/node-api-todos/node-todos-api.pdf)
-    * [Testing - Node Todos API](/assets/docs/extras/2019/node-api-todos/testing-todos-api.pdf)
-  * extras - Node.js testing
-    * [assertions](/assets/docs/extras/2019/node/testing/node-testing-assertions.pdf)
-    * [mocha](/assets/docs/extras/2019/node/testing/node-testing-mocha.pdf)
-    * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
-  * extras - Node.js & Web Sockets
-    * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
   * extras - Systems Management
 	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
 	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
 	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
 	  * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
     * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
-
-##### Week 12 - 12th November 2019
-  * [course](/assets/docs/2019/fall/comp424-week12.pdf)
-  * extras - Heroku & Git setup
-    * [Heroku & Git](/assets/docs/extras/2019/various/git-heroku-setup.pdf)
-  * extras - Node.js and Express
-    * [Node.js outline](/assets/docs/extras/2019/node/nodejs-outline.pdf)
-    * [Node.js and Express](/assets/docs/extras/2019/node/nodejs-express-outline.pdf)
-    * [Node.js & Express starter](/assets/docs/extras/2019/node/node-express-starter.pdf)
-  * extras - JavaScript modules
-    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
-    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
-    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
-    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
 -->
+
+##### Week 12 - 30th March 2020
+
+  * [course](/assets/docs/2020/spring/comp424-week12.pdf)
+  * extras - Heroku & Git setup
+    * [Heroku & Git](/assets/docs/extras/2020/various/git-heroku-setup.pdf)
+  * extras - Heroku & MongoDB setup
+    * [Heroku & MongoDB](/assets/docs/extras/2020/various/heroku-mongodb-setup.pdf)
+  * extras - Node.js - API
+    * [Heroku & Postman](/assets/docs/extras/2020/node-api-todos/heroku-mongo-postman.pdf)
+    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2020/node-api-todos/mongodb-native-driver-api.pdf)
+    * [Node Todos API](/assets/docs/extras/2020/node-api-todos/node-todos-api.pdf)
+    * [Testing - Node Todos API](/assets/docs/extras/2020/node-api-todos/testing-todos-api.pdf)
+  * extras - Node.js - Express
+    * [Node.js outline](/assets/docs/extras/2020/node/nodejs-outline.pdf)
+    * [Node.js and Express](/assets/docs/extras/2020/node/nodejs-express-outline.pdf)
+    * [Node.js & Express starter](/assets/docs/extras/2020/node/node-express-starter.pdf)
+  * extras - Node.js - Express and MongoDB
+    * [Node.js and MongoDB](/assets/docs/extras/2020/node/nodejs-mongo-outline.pdf)
+  * extras - Node.js - testing
+    * [assertions](/assets/docs/extras/2020/node/testing/node-testing-assertions.pdf)
+    * [mocha](/assets/docs/extras/2020/node/testing/node-testing-mocha.pdf)
+    * [postman](/assets/docs/extras/2020/node/testing/node-testing-postman.pdf)
+  * extras - Node.js - various
+    * [Node.js updating](/assets/docs/extras/2020/node/update-nodejs.pdf)
+  * extras - Node.js - Web Sockets
+    * [Node.js & Socket.io](/assets/docs/extras/2020/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - JavaScript modules
+    * [CommonJS modules](/assets/docs/extras/2020/modules/commonjs-modules.pdf)
+    * [ES modules - technical](/assets/docs/extras/2020/modules/es-modules-technical.pdf)
+    * [ES modules - usage](/assets/docs/extras/2020/modules/es-modules-usage.pdf)
+    * [ES modules - library](/assets/docs/extras/2020/modules/es-modules-lib.pdf)
 
 ##### Week 11 - 23rd March 2020
 

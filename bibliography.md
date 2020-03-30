@@ -51,15 +51,12 @@ There is no specific textbook for this course.
   * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
   * [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-  * MongoDB
-    * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
-  * Mongoose
-    * [MongooseJS Docs](http://mongoosejs.com/index.html)
 * JavaScript
   * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+-->
 
-### Week 12 - 12th November 2019
+##### Week 12 - 30th March 2020
 
   * JavaScript
 	  * [MDN - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
@@ -67,6 +64,10 @@ There is no specific textbook for this course.
   * Homebrew for OS X
     * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [MDN - JS Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * MongoDB
+    * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
+  * Mongoose
+    * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * Node.js
     * [Node.js](https://nodejs.org/en/)
     * [ExpressJS](http://expressjs.com/)
@@ -74,7 +75,6 @@ There is no specific textbook for this course.
     * [redis.io](http://redis.io/)
   * [W3 - JS Object](http://www.w3schools.com/js/js_objects.asp)
   * [W3 - JS Performance](http://www.w3schools.com/js/js_performance.asp)
--->
 
 ##### Week 11 - 23rd March 2020
 

@@ -38,6 +38,7 @@ Links will be added during the course...
 
 #### Documentation & Guides
 
+  * [ExpressJS](http://expressjs.com/)
   * [Flickr API - Public feeds](https://www.flickr.com/services/feeds/)
   * [Flickr API - Public feed - public photos & video ](https://www.flickr.com/services/feeds/docs/photos_public/)
   * [jQuery API](https://api.jquery.com/)
@@ -56,9 +57,16 @@ Links will be added during the course...
   * [MDN - HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
   * [MDN - HTML Unordered List Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
   * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+  * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+  * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
+  * [MongooseJS Docs](http://mongoosejs.com/index.html)
+  * [Node.js home](https://nodejs.org/en/)
+  * [redis.io](http://redis.io/)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
@@ -71,7 +79,7 @@ Links will be added during the course...
 <!-- 
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * [ExpressJS](http://expressjs.com/)
+  * 
   * [Firebase](https://firebase.google.com/)
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
@@ -79,18 +87,14 @@ Links will be added during the course...
   * 
   * 
 
-  * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-  * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-  * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+  * 
   * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-  * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
-  * [MongooseJS Docs](http://mongoosejs.com/index.html)
-  * [Node.js home](https://nodejs.org/en/)
+  * 
   * [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
   * [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-  * [redis.io](http://redis.io/)
+  * 
   * [Webpack - JS bundler](https://webpack.js.org/)
  -->
 
@@ -102,6 +106,7 @@ Links will be added during the course...
   * jQuery
     * [jQuery](https://jquery.com/)
     * [jQuery UI](http://jqueryui.com/)
+  * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
   * [Skeleton](http://getskeleton.com/)
 
@@ -114,7 +119,7 @@ NB: there are many other options available, simply search online for [css framew
   * 
   * 
   * 
-  * [Node.js](https://nodejs.org/en/)
+  * 
   * 
   * [React](http://facebook.github.io/react/)
   * 
@@ -136,22 +141,24 @@ NB: there are many other options available, simply search online for [css framew
 
 #### Useful Tools & Reference
 
+  * [Chocolatey for Windows](https://chocolatey.org/)
   * [CSS Lint](http://csslint.net/)
   * [Firebug](http://getfirebug.com/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google Web Fonts](https://fonts.google.com/)
+  * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 <!--
-  * [Chocolatey for Windows](https://chocolatey.org/)
+  * 
   * 
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
   * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
-  * [Homebrew - the missing package manager for OS X](http://brew.sh/)
+  * 
   * 
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/) -->
@@ -172,6 +179,7 @@ NB: there are many other options available, simply search online for [css framew
   * Google Prototyping Series
 	  * Paper Prototyping - [YouTube](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
 	  * Digital Prototyping - [YouTube]](https://www.youtube.com/watch?v=KWGBGTGryFk)
+	  * Native Prototyping - [YouTube](https://www.youtube.com/watch?v=lusOgox4xMI) 
   * JavaScript - Overview of Strict Mode - [YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
   * JavaScript - Scope and variables - [YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
@@ -184,13 +192,9 @@ NB: there are many other options available, simply search online for [css framew
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
   * What is AJAX? - [YouTube](https://www.youtube.com/watch?v=3l13qGLTgNw)
 
-<!--
-  * Google Prototyping Series
-	  * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI) 
--->
-
 #### Websites
 
+  * [A List Apart - For People Who Make Websites](http://alistapart.com/)
   * [Apple - UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * [Gnome - Human Interface Guidelines](https://developer.gnome.org/)
   * [Google - Material Design](http://www.google.com/design/spec/material-design/introduction.html)
@@ -205,10 +209,6 @@ NB: there are many other options available, simply search online for [css framew
     * [Standards](http://www.w3.org/standards/)
   * [W3 Schools](http://www.w3schools.com/)
     * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp) 
-
-<!--
-   * [A List Apart - For People Who Make Websites](http://alistapart.com/)
--->
 
 <!-- #### Extras
 
