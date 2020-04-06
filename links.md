@@ -60,12 +60,17 @@ Links will be added during the course...
   * [MDN - JS - ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
   * [MDN - JS - ES modules - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   * [MDN - JS - ES modules - export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+  * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
   * [MDN - JS - Iterators and Generators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+  * [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
   * [MDN - JS - Using Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
   * [MDN - requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
   * [MongoDB - For Giant Ideas](https://www.mongodb.org/)
   * [MongooseJS Docs](http://mongoosejs.com/index.html)
   * [Node.js home](https://nodejs.org/en/)
+  * [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
+  * [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
   * [redis.io](http://redis.io/)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
@@ -79,27 +84,15 @@ Links will be added during the course...
 <!-- 
   * [D3 API reference](https://github.com/mbostock/d3/wiki/API-Reference)
   * [D3 Wiki](https://github.com/mbostock/d3/wiki)
-  * 
   * [Firebase](https://firebase.google.com/)
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
 	* [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
 	* [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
-  * 
-  * 
-
-  * 
-  * [MDN - JS - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  * [MDN - JS - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [MDN - JS - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-  * 
-  * [Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-  * [Pub/Sub Pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-  * 
-  * [Webpack - JS bundler](https://webpack.js.org/)
  -->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
+  * [AngularJS](https://angularjs.org/)
   * [Apache Cordova](https://cordova.apache.org/)
   * [Electron](http://electron.atom.io/)
   * [Foundation](http://foundation.zurb.com/)
@@ -108,21 +101,13 @@ Links will be added during the course...
     * [jQuery UI](http://jqueryui.com/)
   * [Node.js](https://nodejs.org/en/)
   * [Pure CSS](http://purecss.io/)
+  * [React](http://facebook.github.io/react/)
   * [Skeleton](http://getskeleton.com/)
 
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c. and choose your favourite.
 
 <!--
-  * [AngularJS](https://angularjs.org/)
-  
   * [D3](http://d3js.org/)
-  * 
-  * 
-  * 
-  * 
-  * 
-  * [React](http://facebook.github.io/react/)
-  * 
  -->
 
 
@@ -147,21 +132,18 @@ NB: there are many other options available, simply search online for [css framew
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [Google Web Fonts](https://fonts.google.com/)
+  * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
+  * [Webpack](https://webpack.js.org/)
 
 <!--
-  * 
-  * 
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-  * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
-  * 
-  * 
   * [Travis CI](https://travis-ci.org/)
-  * [Webpack](https://webpack.js.org/) -->
+  *  -->
 
 #### Various
 
@@ -178,7 +160,7 @@ NB: there are many other options available, simply search online for [css framew
   * Example Responsive UI Designs - [YouTube](https://www.youtube.com/watch?v=2mKvjEdvtNE)
   * Google Prototyping Series
 	  * Paper Prototyping - [YouTube](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
-	  * Digital Prototyping - [YouTube]](https://www.youtube.com/watch?v=KWGBGTGryFk)
+	  * Digital Prototyping - [YouTube](https://www.youtube.com/watch?v=KWGBGTGryFk)
 	  * Native Prototyping - [YouTube](https://www.youtube.com/watch?v=lusOgox4xMI) 
   * JavaScript - Overview of Strict Mode - [YouTube](https://www.youtube.com/watch?v=w3xaL6jSOiI)
   * JavaScript - Scope and variables - [YouTube](https://www.youtube.com/watch?v=iJKkZA215tQ)
@@ -210,13 +192,13 @@ NB: there are many other options available, simply search online for [css framew
   * [W3 Schools](http://www.w3schools.com/)
     * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp) 
 
-<!-- #### Extras
+#### Extras
 
 * Smashing Magazine - [For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html) -->
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 
 
 ***

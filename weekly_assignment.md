@@ -233,40 +233,29 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week, and Happy Thanksgiving.
+-->
 
-#### Week 13 - 19th November 2019
+#### Week 13 - 6th April 2020
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
-	* extras - JS
-		* [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
-	* extras - Heroku & MongoDB setup
-  	* [Heroku & MongoDB](/assets/docs/extras/2019/various/heroku-mongodb-setup.pdf)
-  * extras - Node.js
-    * [Node.js updating](/assets/docs/extras/2019/node/update-nodejs.pdf)
-  * extras - Node.js, Express, and MongoDB
-    * [Node.js and MongoDB](/assets/docs/extras/2019/node/nodejs-mongo-outline.pdf)
-  * extras - Node.js API
-    * [Heroku & Postman](/assets/docs/extras/2019/node-api-todos/heroku-mongo-postman.pdf)
-    * [Data stores & APIs - MongoDB and native driver](/assets/docs/extras/2019/node-api-todos/mongodb-native-driver-api.pdf)
-    * [Node Todos API](/assets/docs/extras/2019/node-api-todos/node-todos-api.pdf)
-    * [Testing - Node Todos API](/assets/docs/extras/2019/node-api-todos/testing-todos-api.pdf)
-  * extras - Node.js testing
-    * [assertions](/assets/docs/extras/2019/node/testing/node-testing-assertions.pdf)
-    * [mocha](/assets/docs/extras/2019/node/testing/node-testing-mocha.pdf)
-    * [postman](/assets/docs/extras/2019/node/testing/node-testing-postman.pdf)
-  * extras - Node.js & Web Sockets
-    * [Node.js & Socket.io](/assets/docs/extras/2019/node/web-sockets/notes-nodejs-socketio.pdf)
+  * extras - JS
+  	* [Prototype](/assets/docs/extras/2020/js/js-prototype.pdf)
+  	* [Proxy](/assets/docs/extras/2020/js/notes-js-proxy.pdf)
+  * extras - Patterns
+    * [Observer pattern](/assets/docs/extras/2020/web-general/patterns/observer.pdf)
+    * [Pub/Sub pattern](/assets/docs/extras/2020/web-general/patterns/pubsub.pdf)
   * extras - Systems Management
-	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
-	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
-	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
-	  * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
-    * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
+	  * [Build First](/assets/docs/extras/2020/systems-mgmt/notes-build-first.pdf)
+	  * [Grunt - Basics](/assets/docs/extras/2020/systems-mgmt/notes-grunt-basics.pdf)
+	  * [Grunt - Project Outline](/assets/docs/extras/2020/systems-mgmt/grunt-project-outline.pdf)
+	  * [Systems - Environments and Distributions](/assets/docs/extras/2020/systems-mgmt/notes-system-env-dist.pdf)
+	  * [Webpack - Basics](/assets/docs/extras/2020/systems-mgmt/notes-webpack-basics.pdf)
+    * [Webpack - Assets](/assets/docs/extras/2020/systems-mgmt/notes-webpack-assets.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 13](https://github.com/csteach424/source/tree/master/week13)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
-* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/hGpnHUp2/week-13-final-plan) Trello board for your group, and add the following details,
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/03HuSFC8/week-13-final-plan) Trello board for your group, and add the following details,
   * please add a brief plan and outline for your group's remaining work
   * this should include any work that is planned towards your group's final project presentation
     * this may include development, research, design, testing, and so on
@@ -281,7 +270,6 @@ Enjoy your week, and Happy Thanksgiving.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 12 - 30th March 2020
 

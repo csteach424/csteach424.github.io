@@ -32,29 +32,29 @@ There is no specific textbook for this course.
 
 ###### Week 14 - 26th November 2019
 
-* JavaScript
-  * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
-  * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
-  * [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-* Design Patterns
-	* [Observer](https://en.wikipedia.org/wiki/Observer_pattern)
-	* [Pub/Sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
-* Various - Tools
-	* [Grunt - JavaScript Task Runner](https://gruntjs.com/)
-	* [Webpack - JS bundler](https://webpack.js.org/)
-
-##### Week 13 - 19th November 2019
-
-* Databases
+Databases
   * [Firebase](https://firebase.google.com/)
   * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
   * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
   * [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
   * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-* JavaScript
-  * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+  [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
+  * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
+* 
 -->
+
+##### Week 13 - 6th April 2020
+
+  * Design Patterns
+    * [Observer](https://en.wikipedia.org/wiki/Observer_pattern)
+    * [Pub/Sub](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)
+  * JavaScript
+    * [MDN - Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+    * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+    * [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+  * Various - Tools
+    * [Grunt - JavaScript Task Runner](https://gruntjs.com/)
+    * [Webpack - JS bundler](https://webpack.js.org/)
 
 ##### Week 12 - 30th March 2020
 

@@ -27,36 +27,26 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2019/fall/comp424-week14.pdf)
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-  * extras - JavaScript
-	  * [Proxy](/assets/docs/extras/2019/js/notes-js-proxy.pdf)
-  * extras - JavaScript modules
-    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
-    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
-    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
-    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
-  * extras - Patterns
-    * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
-    * [Pub/Sub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
-  * extras - Systems Management
-	  * [Grunt - Project Outline](/assets/docs/extras/2019/systems-mgmt/grunt-project-outline.pdf)
  * extras - data stores
 	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
 	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
-
-##### Week 13 - 19th November 2019
-  * [course](/assets/docs/2019/fall/comp424-week13.pdf)
-  * extras - JS
-    * [Prototype](/assets/docs/extras/2019/js/js-prototype.pdf)
-  * extras - Systems Management
-	  * [Build First](/assets/docs/extras/2019/systems-mgmt/notes-build-first.pdf)
-	  * [Grunt - Basics](/assets/docs/extras/2019/systems-mgmt/notes-grunt-basics.pdf)
-	  * [Systems - Environments and Distributions](/assets/docs/extras/2019/systems-mgmt/notes-system-env-dist.pdf)
-	  * [Webpack - Basics](/assets/docs/extras/notes-webpack-basics.pdf)
-    * [Webpack - Assets](/assets/docs/extras/notes-webpack-assets.pdf)
-  * extras - data stores
-	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
-	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
 -->
+
+##### Week 13 - 6th April 2020
+  * [course](/assets/docs/2020/spring/comp424-week13.pdf)
+  * extras - JS
+    * [Prototype](/assets/docs/extras/2020/js/js-prototype.pdf)
+    * [Proxy](/assets/docs/extras/2020/js/notes-js-proxy.pdf)
+  * extras - Patterns
+    * [Observer pattern](/assets/docs/extras/2020/web-general/patterns/observer.pdf)
+    * [Pub/Sub pattern](/assets/docs/extras/2020/web-general/patterns/pubsub.pdf)
+  * extras - Systems Management
+	  * [Build First](/assets/docs/extras/2020/systems-mgmt/notes-build-first.pdf)
+	  * [Grunt - Basics](/assets/docs/extras/2020/systems-mgmt/notes-grunt-basics.pdf)
+	  * [Grunt - Project Outline](/assets/docs/extras/2020/systems-mgmt/grunt-project-outline.pdf)
+	  * [Systems - Environments and Distributions](/assets/docs/extras/2020/systems-mgmt/notes-system-env-dist.pdf)
+	  * [Webpack - Basics](/assets/docs/extras/2020/systems-mgmt/notes-webpack-basics.pdf)
+    * [Webpack - Assets](/assets/docs/extras/2020/systems-mgmt/notes-webpack-assets.pdf)
 
 ##### Week 12 - 30th March 2020
 
