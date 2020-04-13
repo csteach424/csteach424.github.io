@@ -33,7 +33,7 @@ This class will meet at the following time and place,
 * Final presentation & demo
 	* 20th April 2020 @ 4.15pm
 * Exam week: 27th April to 2nd May 2020
-	* Final assessment due on 27th April 2020
+	* Final assessment due on 27th April 2020 @ 6.45pm
 
 #### Coursework Schedule
 
@@ -44,4 +44,4 @@ This class will meet at the following time and place,
 * final team demo
   * due Monday 20th April 2020 @ 4.15pm
 * final team report
-  * due Monday 27th April 2020
+  * due Monday 27th April 2020 @ 6.45pm

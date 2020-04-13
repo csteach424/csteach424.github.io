@@ -189,7 +189,7 @@ Enjoy your week.
 * Please complete your group's final project report
   * suggested report length approximately 10 pages
 * Further details can be found in the following outline
-  * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+  * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2019.pdf)
 * Report must be submitted by 9.30pm on Tuesday 10th December 2019
    * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
    * OR as an attachment to a private message on Slack
@@ -201,39 +201,38 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 14 - 26th November 2019
+#### Week 14 - 13th April 2020
 
 * Review this week's [notes and material](/notes), which includes the following extra documents,
-	* extras - Final Report Outline
-		* [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-  * extras - JavaScript
-	  * [Proxy](/assets/docs/extras/2019/js/notes-js-proxy.pdf)
-  * extras - JavaScript modules
-    * [CommonJS modules](/assets/docs/extras/2019/modules/commonjs-modules.pdf)
-    * [ES modules - technical](/assets/docs/extras/2019/modules/es-modules-technical.pdf)
-    * [ES modules - usage](/assets/docs/extras/2019/modules/es-modules-usage.pdf)
-    * [ES modules - library](/assets/docs/extras/2019/modules/es-modules-lib.pdf)
-  * extras - Patterns
-    * [Observer pattern](/assets/docs/extras/2019/web-general/patterns/observer.pdf)
-    * [Pub/Sub pattern](/assets/docs/extras/2019/web-general/patterns/pubsub.pdf)
-  * extras - Systems Management
-	  * [Grunt - Project Outline](/assets/docs/extras/2019/systems-mgmt/grunt-project-outline.pdf)
+  * extras - final report outline
+    * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2020.pdf)
+  * extras - data stores
+	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
+	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
+* Review the following video on data visualisation and visualising connections
+  * [Visualising Connections](https://www.youtube.com/watch?v=z47E_3KfLJ0)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
   * [Source - Week 14](https://github.com/csteach424/source/tree/master/week14)
   * [Source - Extras](https://github.com/csteach424/source/tree/master/extras)
 * Review the final report outline
-  * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
-* Please prepare your group's **project presentation** for Tuesday 3rd November 2019 @ 7pm
+  * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2020.pdf)
+* Please prepare your group's **project presentation** for Monday 20th April 2020 @ 4.15pm
   * as detailed in previous classes, this presentation should be an outline and demo of your final group project
   * please consult the [coursework](/coursework) page for further details
+    * further details may also be found on pages 2 and 3 of this week's class notes
   * each presentation should be approximately 10 minutes in length
+* Please choose your group's preferred *presentation* format using the following form
+  * [Final Presentation - Select Presentation Format](https://forms.gle/5nubyPtwS287pB8F6)
+  * options include
+    * asynchronous - a recorded video of the group's Final project demo and presentation
+    * synchronous - a live, Zoom based presentation during regular scheduled class hours
 
 Any questions, please let me know.
 
-Enjoy your week, and Happy Thanksgiving.
--->
+Enjoy your week.
 
 #### Week 13 - 6th April 2020
 
@@ -241,10 +240,10 @@ Enjoy your week, and Happy Thanksgiving.
   * extras - JS
   	* [Prototype](/assets/docs/extras/2020/js/js-prototype.pdf)
   	* [Proxy](/assets/docs/extras/2020/js/notes-js-proxy.pdf)
-  * extras - Patterns
+  * extras - patterns
     * [Observer pattern](/assets/docs/extras/2020/web-general/patterns/observer.pdf)
     * [Pub/Sub pattern](/assets/docs/extras/2020/web-general/patterns/pubsub.pdf)
-  * extras - Systems Management
+  * extras - systems management
 	  * [Build First](/assets/docs/extras/2020/systems-mgmt/notes-build-first.pdf)
 	  * [Grunt - Basics](/assets/docs/extras/2020/systems-mgmt/notes-grunt-basics.pdf)
 	  * [Grunt - Project Outline](/assets/docs/extras/2020/systems-mgmt/grunt-project-outline.pdf)
@@ -326,7 +325,7 @@ Enjoy your week.
 * Review this week's [notes and material](/notes), which includes the class notes, and the extra documents
   * extras - JS
 	  * [JS - Working with the DOM](/assets/docs/extras/2020/web-general/dom/notes-js-dom.pdf)
-  * extras - Web development - general
+  * extras - web development - general
 	  * [UI concept - autoscroll](/assets/docs/extras/2020/web-general/basic/notes-basic-autoscroll.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's code examples,
@@ -426,7 +425,7 @@ Enjoy your week.
 	  * [design and UI](/assets/docs/extras/2020/design/design-interface-intro.pdf)
   * extras - JS
     * [JS - json](/assets/docs/extras/2020/js/js-json.pdf)
-  * extras - Web development - general
+  * extras - web development - general
     * [Basic geolocation](/assets/docs/extras/2020/web-general/basic/notes-basic-geolocation.pdf)
     * [Basic timestamps](/assets/docs/extras/2020/web-general/basic/notes-basic-timestamps.pdf)
 * Review this week's [bibliography](/bibliography) links and material
@@ -509,7 +508,7 @@ Enjoy your week.
     * [CSS - Grid Basics](/assets/docs/extras/2020/css/css-grid.pdf)
     * [CSS - HTML5](/assets/docs/extras/2020/css/css-html5.pdf)
     * [MDN - Basic Concepts of Grid Layout](/assets/docs/extras/2020/css/mdn-css-grid-basics.pdf)
-  * extras - Design
+  * extras - design
     * [design and interface](/assets/docs/extras/2020/design/design-interface-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review the code examples posted to the **source** repository on the course's GitHub account,
@@ -529,7 +528,7 @@ Enjoy your week.
   * extras - CSS
     * [CSS - Intro](/assets/docs/extras/2020/css/css-intro.pdf)
     * [CSS - Box Model](/assets/docs/extras/2020/css/css-box-model.pdf)
-  * extras - Design
+  * extras - design
     * [Design - Mockups](/assets/docs/extras/2020/design/design-mockups.pdf)
   * extras - HTML5
     * [HTML5 - Intro](/assets/docs/extras/2020/html5/html5-intro.pdf)
@@ -559,9 +558,11 @@ Enjoy your week.
 ##### Week 1 - 13th January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra documents
+  * extras - HTML
+    * [HTML - Intro](/assets/docs/extras/2020/html/html-intro.pdf)
+    * [HTML - DOM Intro](/assets/docs/extras/2020/html/html-dom-intro.pdf)
+  * extras - various
   * [Git basics](/assets/docs/extras/2020/various/git-basics.pdf)
-  * [HTML - Intro](/assets/docs/extras/2020/html/html-intro.pdf)
-  * [HTML - DOM Intro](/assets/docs/extras/2020/html/html-dom-intro.pdf)
 * Review the code examples posted to the **source** repository on the course's GitHub account,
   * [Source - Week 1](https://github.com/csteach424/source/tree/master/week1)
 * Please review the following tutorial video on Git usage,

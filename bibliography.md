@@ -29,19 +29,19 @@ There is no specific textbook for this course.
   * [MDN - Web components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
   * [Travis CI](https://travis-ci.org/)
   * [Webpack](https://webpack.js.org/)
+-->
 
 ###### Week 14 - 26th November 2019
 
-Databases
-  * [Firebase](https://firebase.google.com/)
-  * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
-  * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
-  * [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
-  * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
-  [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
-  * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
-* 
--->
+  * Databases
+    * [Firebase](https://firebase.google.com/)
+    * [Firebase - database rules](https://firebase.google.com/docs/database/security/quickstart)
+    * [Firebase Docs - DataSnapshot](https://firebase.google.com/docs/reference/js/firebase.database.DataSnapshot)
+    * [Firebase docs - `on()` events](https://firebase.google.com/docs/reference/js/firebase.database.Reference#on)
+    * [Google's Cloud Platform](https://cloud.google.com/shell/docs/features#code_editor)
+  * JavaScript - D3
+    * [D3 - Easing](https://github.com/mbostock/d3/wiki/Transitions#d3_ease)
+    * [D3 - Scales](https://github.com/mbostock/d3/wiki/Scales)
 
 ##### Week 13 - 6th April 2020
 

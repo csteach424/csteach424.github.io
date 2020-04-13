@@ -22,15 +22,15 @@ This material will be updated on a weekly basis.
 ##### Week 15 - 3rd December 2019
   * extras - Final Report Outline
     * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+-->
 
-##### Week 14 - 26th November 2019
-  * [course](/assets/docs/2019/fall/comp424-week14.pdf)
+##### Week 14 - 13th April 2020
+  * [course](/assets/docs/2020/spring/comp424-week14.pdf)
   * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
+    * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2020.pdf)
  * extras - data stores
 	  * [Firebase - authentication](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-auth-guide.pdf)
 	  * [Firebase - setup & usage](/assets/docs/extras/2020/data-stores/firebase/ds-firebase-guide.pdf)
--->
 
 ##### Week 13 - 6th April 2020
   * [course](/assets/docs/2020/spring/comp424-week13.pdf)
