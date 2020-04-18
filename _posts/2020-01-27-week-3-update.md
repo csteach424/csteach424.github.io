@@ -12,7 +12,7 @@ month: 01
 day: 27
 published: true
 summary: site updated and week 3 assignment
-menu: week1-update
+menu: week3-update
 ---
 
 The course website has now been updated for this week's class, week 3.

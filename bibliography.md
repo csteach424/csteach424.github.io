@@ -31,7 +31,7 @@ There is no specific textbook for this course.
   * [Webpack](https://webpack.js.org/)
 -->
 
-###### Week 14 - 26th November 2019
+##### Week 14 - 13th April 2020
 
   * Databases
     * [Firebase](https://firebase.google.com/)
