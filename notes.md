@@ -18,11 +18,11 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!-- 
-##### Week 15 - 3rd December 2019
+
+##### Week 15 - 20th April 2020
   * extras - Final Report Outline
-    * [Final Report Outline](/assets/docs/extras/2019/comp424-final-report-outline-2019.pdf)
--->
+    * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2020.pdf)
+
 
 ##### Week 14 - 13th April 2020
   * [course](/assets/docs/2020/spring/comp424-week14.pdf)

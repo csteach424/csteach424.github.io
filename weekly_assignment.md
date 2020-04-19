@@ -183,14 +183,17 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
-<!-- 
-#### Week 15 - 3rd December 2019
 
+#### Week 15 - 20th April 2020
+
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 15 - Presentation & Dev Files](https://trello.com/b/ypoLnm0Y/week-15-presentation-dev-files)
+  * instructions are included as a list on the above board
 * Please complete your group's final project report
   * suggested report length approximately 10 pages
 * Further details can be found in the following outline
-  * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2019.pdf)
-* Report must be submitted by 9.30pm on Tuesday 10th December 2019
+  * [Final Report Outline](/assets/docs/extras/2020/comp424-final-report-outline-2020.pdf)
+* Final Report must be submitted by 6.45pm on Monday 27th April 2020
    * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP424 - Final Report)
    * OR as an attachment to a private message on Slack
 * Please share with me a copy of your group's final code. This may include the following options,
@@ -201,7 +204,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 14 - 13th April 2020
 
